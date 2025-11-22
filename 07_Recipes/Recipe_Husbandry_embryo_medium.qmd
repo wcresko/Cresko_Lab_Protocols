@@ -2,7 +2,7 @@
 
 ## Introduction
 
--   **Purpose**: Recipe for embryo medium\
+-   **Purpose**: Recipe for embryo medium used in stickleback embryo culture and rearing
 -   **Procedure Type**: recipe
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
@@ -12,24 +12,49 @@
 ## Materials
 
 -   Instant Ocean Salt
--   Baking Soda
--   nano pure water (npH2O)
-
-## Solutions
-
--   none
+-   Baking Soda (sodium bicarbonate)
+-   Nanopure water (npH2O)
+-   2 liter glass flasks
+-   pH meter or pH strips
+-   Analytical balance
+-   Weigh boats or paper
 
 ## Procedure
 
-For 2 liters: 1. Add 8g Instant Ocean to 2 liters of npH2O 2. Add \~0.5g baking soda 3. Check pH and adjust to 7.0 – 8.0
+For 2 liters:
 
-::: {.callout-Note title="NOTE"}
+1. Add 8 g Instant Ocean Salt to 2 liters of npH2O
+2. Add approximately 0.5 g baking soda
+3. Mix thoroughly until all solids are dissolved
+4. Check pH and adjust to 7.0 - 8.0
+   - If pH is too low, add small amounts of baking soda
+   - If pH is too high, allow to equilibrate or prepare fresh solution
+
+::: {.callout-note title="Note"}
 Salt and baking soda are located in containers near the weigh station. Rinse 2 liter flasks with DI water between uses.
 :::
 
-## Associated Papers
+## Storage
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   **Temperature**: Room temperature
+-   **Duration**: Use within 1-2 weeks; prepare fresh for optimal embryo health
+-   **Container**: Clean, sterile 2 liter glass flasks
+-   **Label**: Mark with "Embryo Medium", date prepared, and pH value
+
+## Quality Control
+
+-   **pH**: Must be between 7.0 - 8.0 for optimal embryo development
+-   **Appearance**: Solution should be clear and free of particulates
+-   **Conductivity**: Should be approximately 4-6 mS/cm (similar to natural freshwater conditions)
+-   **Verification**: Check pH before each use; discard if pH has drifted outside acceptable range
+
+::: {.callout-tip title="Best Practices"}
+- Prepare fresh embryo medium weekly for best results
+- Always rinse flasks thoroughly with DI water between batches
+- Allow solution to equilibrate to room temperature before adding embryos
+:::
+
+## Related Protocols
+
+-   Used in embryo collection and rearing protocols
+-   See stickleback husbandry protocols for additional information

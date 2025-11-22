@@ -10,25 +10,43 @@
 
 -   **Date Created**: July 2011
 
+::: {.callout-warning title="Safety"}
+**Personal Protective Equipment (PPE):**
+
+- Lab coat
+- Safety glasses
+- Nitrile gloves
+
+**Chemical Safety:**
+
+- Handle DTT with care; it is an irritant and has a strong odor
+- Work in a well-ventilated area
+- RNase-free technique required; wear gloves at all times
+:::
+
 ## Materials
 
--   xxx
-
--   xxx
-
--   xxx
+-   Thermal cycler or heat block
+-   Ice
+-   Microcentrifuge tubes (RNase-free)
+-   Pipettes and RNase-free tips
 
 ## Solutions
 
--   2 µl Oligo d(T)23 VN (50 µM, NEB; anchored-dT primer)\*
+-   2 µl Oligo d(T)23 VN (50 µM, NEB; anchored-dT primer)
 -   X µl up to 5 µg total RNA
--   1 µl 10 mM dNTP
--   water
+-   1 µl 10 mM dNTP mix
+-   Nuclease-free water
 -   2 µl 10x RT buffer (Invitrogen)
 -   4 µl 25 mM MgCl2
--   2 µl 0.1 mM DTT – Invitrogen
--   1 µl RNase inhibitor – e.g., RNAseOUT (Invitrogen)
--   1 µl Superscript III reverse transcriptase (200 u/µl – Invitrogen)
+-   2 µl 0.1 M DTT (Invitrogen)
+-   1 µl RNase inhibitor, e.g., RNAseOUT (Invitrogen)
+-   1 µl Superscript III reverse transcriptase (200 u/µl, Invitrogen)
+
+## Related Protocols
+
+- See @sec-molecular-Phusion_PCR for using cDNA as PCR template
+- See @sec-molecular-dbl_strand_cDNA for double-stranded cDNA synthesis
 
 ## Procedure
 
@@ -41,11 +59,11 @@
         3.  1 µl 10 mM dNTP mix
         4.  Water (if necessary) to bring total to 10 µl
 
-        ::: {.callout-important title="NOTE"}
-        \*Recommend using Oligo d(T)23 VN if starting with total RNA to bias cDNA to messenger. Random Primer Mix will do a better job of covering 5’ ends if starting with mRNA. If the RNA is degraded or if very long sequences are required, may instead use 2 µl Random Primer Mix (60 µM, NEB; a mix of ran-dom hexamers, anchored-dT primers, and 1 mM dNTPs)
+        ::: {.callout-note title="Note"}
+        Recommend using Oligo d(T)23 VN if starting with total RNA to bias cDNA to messenger RNA. Random Primer Mix will do a better job of covering 5' ends if starting with mRNA. If the RNA is degraded or if very long sequences are required, may instead use 2 µl Random Primer Mix (60 µM, NEB; a mix of random hexamers, anchored-dT primers, and 1 mM dNTPs).
         :::
 
-2.  Heat to 65˚C for 5 min., then ice
+2.  Heat to 65°C for 5 min., then place on ice
 
 3.  Collect contents at bottom of tube by brief centrifugation.
 
@@ -53,28 +71,30 @@
 
     1.  2 µl 10x RT buffer (Invitrogen)
     2.  4 µl 25 mM MgCl2
-    3.  2 µl 0.1 mM DTT – Invitrogen
-    4.  1 µl RNase inhibitor – e.g., RNAseOUT (Invitrogen)
-    5.  1 µl Superscript III reverse transcriptase (200 u/µl – Invitrogen)
+    3.  2 µl 0.1 M DTT (Invitrogen)
+    4.  1 µl RNase inhibitor, e.g., RNAseOUT (Invitrogen)
+    5.  1 µl Superscript III reverse transcriptase (200 u/µl, Invitrogen)
 
-    ::: {.callout-important title="NOTE"}
-    Reaction can be scaled up to accommodate more starting RNA
+    ::: {.callout-note title="Note"}
+    Reaction can be scaled up to accommodate more starting RNA.
     :::
 
 5.  Mix by gentle aspiration
 
-6.  25˚C for 5 min.
+6.  Incubate at 25°C for 5 min.
 
-7.  *Synthesis*: Incubate at 50˚C for 50 min.
+7.  **Synthesis**: Incubate at 50°C for 50 min.
 
-8.  *Inactivation*: 85˚C for 5 min. Chill on ice, collect contents to bottom by short spin.
+8.  **Inactivation**: Heat to 85°C for 5 min. Chill on ice, collect contents to bottom by short spin.
 
-9.  *Destroy RNA template*: 1 µl RNase H (2 u/µl), incubate at 37˚C for 20 min.
+9.  **Destroy RNA template**: Add 1 µl RNase H (2 u/µl), incubate at 37°C for 20 min.
 
-10. Proceed to PCR. Depending on expression level, may be able to use a dilution of cDNA as template – try 1:50 dilution in EB, use 2 µl as template in a 20 µl reaction. Don’t dilute your entire amount of cDNA, as some products may require a higher concentration of template.
+10. Proceed to PCR (see @sec-molecular-Phusion_PCR). Depending on expression level, may be able to use a dilution of cDNA as template – try 1:50 dilution in EB, use 2 µl as template in a 20 µl reaction. Don't dilute your entire amount of cDNA, as some products may require a higher concentration of template.
+
+::: {.callout-note title="Storage"}
+cDNA can be stored at -20°C for several months or at -80°C for long-term storage.
+:::
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
+-   None listed

@@ -2,44 +2,118 @@
 
 ## Introduction
 
--   **Purpose**: This procedure describes how to change spill paper in common areas.
+-   **Purpose**: This procedure describes how to change spill paper (bench covers) in common laboratory areas.
 
--   **Procedure Type**: General Lab Maintanence
+-   **Procedure Type**: General Lab Maintenance
 
--   **Species**:
+-   **Species**: N/A
 
 -   **Author**: Mark Currey
 
 -   **Date Created**: March 8, 2024
 
--   **Date Updated**: xxx
+-   **Date Updated**: 2024
 
-::: {.callout-warning title="NOTES"}
-xxxx
+::: {.callout-note title="Note"}
+Spill paper (also called bench paper or absorbent bench covers) protects work surfaces from chemical spills and contamination. Regular replacement maintains a clean and safe working environment.
 :::
 
 ## Materials
 
--   Tape
--   Spill Paper
+-   Roll of spill paper (absorbent bench covers)
+-   Tape (lab tape or masking tape)
 -   Scissors
+-   Nitrile gloves
+-   Paper towels or cleaning cloths
+-   Spray bottle with 70% ethanol or appropriate cleaning solution
 
 ## Solutions
 
--   xxx
--   xxx
--   xxx
+-   70% ethanol (for cleaning surfaces)
+-   DI water (if needed for cleaning)
+-   10% bleach solution (for contaminated surfaces, if needed)
+
+## Safety Precautions
+
+::: {.callout-warning title="Warning - Contamination Hazard"}
+**When handling used spill paper**:
+- Assume all used spill paper may be contaminated with chemicals or biological materials
+- Always wear nitrile gloves when removing old spill paper
+- If spill paper is visibly contaminated with hazardous materials, dispose of it according to @sec-general-hazard_waste procedures
+- Wash hands thoroughly after completing the procedure
+
+See @sec-general-lab_safety for complete laboratory safety guidelines.
+:::
 
 ## Procedure
 
-1.  Remove old spill paper and place in trash (bring to solid waste if contaminated)
-2.  Wipe where the spill paper used to be if there is any remaining residue and dispose of any contaminated substances
-3.  Cut out appropriate-sized spill paper and set it flat on surface with the plastic surface of the spill paper facing down
-4.  Tape the edges of the spill paper to the surface it lies on (try to keep the spill paper flat)
+### Removing Old Spill Paper
 
-## Associated Papers
+1.  Put on nitrile gloves before handling used spill paper.
 
--   xxx
--   xxx
--   xxx
--   xxx
+2.  Carefully remove old spill paper from the work surface.
+
+    ::: {.callout-important title="Important"}
+    Check the condition of the spill paper:
+    - **Not contaminated**: Place in regular trash
+    - **Contaminated with hazardous materials**: Dispose in solid waste or follow @sec-general-hazard_waste procedures
+    - **Contaminated with biological materials**: Treat as biohazard waste
+    :::
+
+3.  Inspect the surface where the spill paper was located for any remaining residue or contamination.
+
+### Cleaning the Surface
+
+4.  If there is any residue or visible contamination on the surface:
+
+    a. Spray the surface with 70% ethanol (or 10% bleach if biologically contaminated)
+
+    b. Wipe the surface thoroughly with paper towels or a cleaning cloth
+
+    c. Allow the surface to air dry
+
+    d. Dispose of contaminated cleaning materials appropriately
+
+5.  Ensure the surface is clean and dry before applying new spill paper.
+
+### Installing New Spill Paper
+
+6.  Measure the work surface to determine the appropriate size of spill paper needed.
+
+7.  Cut out the appropriate-sized piece of spill paper using scissors.
+
+    ::: {.callout-tip title="Tip"}
+    Cut the spill paper slightly smaller than the work surface to prevent edges from curling up.
+    :::
+
+8.  Place the spill paper flat on the clean, dry surface with the **plastic-coated side facing down** and the absorbent paper side facing up.
+
+    ::: {.callout-note title="Note"}
+    The plastic side protects the bench surface from spills, while the absorbent paper side faces up to catch any drips or spills.
+    :::
+
+9.  Tape the edges of the spill paper to the work surface, ensuring the paper lies flat without wrinkles or bubbles.
+
+10. Smooth out any wrinkles or air pockets to create a flat working surface.
+
+## Maintenance Schedule
+
+::: {.callout-note title="Note"}
+**Recommended replacement schedule**:
+- Replace spill paper weekly in high-use areas
+- Replace immediately if visibly contaminated or damaged
+- Replace after any significant spill
+:::
+
+## Waste Disposal
+
+-   **Uncontaminated spill paper**: Regular trash
+-   **Chemically contaminated spill paper**: See @sec-general-hazard_waste
+-   **Biologically contaminated spill paper**: Autoclave or dispose as biohazard waste
+-   **Cleaning materials**: Dispose according to contamination level
+
+## Related Protocols
+
+-   @sec-general-lab_safety - Cresko Lab Safety Highlights
+-   @sec-general-hazard_waste - Disposing of Hazardous Waste
+-   @sec-general-bact_waste - Bacterial Waste Cleaning and Disposal

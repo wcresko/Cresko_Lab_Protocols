@@ -2,7 +2,7 @@
 
 ## Introduction
 
--   **Purpose**: Recipe for making 50 ml of 2x SSC, 0.2% Tween-20.
+-   **Purpose**: Recipe for making 50 ml of 2x SSC, 0.2% Tween-20 wash buffer used in in situ hybridization protocols
 -   **Procedure Type**: Recipe
 -   **Author**: Micah Woods
 -   **Date Created**: March 5, 2024
@@ -10,34 +10,64 @@
 ## Solutions
 
 -   20x SSC (5 ml)
-    -   Purchase pre-made from Chem Stores.
--   Tween-20 (100 ul)
-    -   Located in the chemical cabinet on the "Oxidizers A-Z" shelf.
--   Nanopure water
-    -   Located in the Nalgene at the north sink.
+    -   Purchase pre-made from Chem Stores
+    -   SSC = Saline-Sodium Citrate buffer
+-   Tween-20 (100 μl)
+    -   Located in the chemical cabinet on the "Oxidizers A-Z" shelf
+    -   Non-ionic detergent
+-   Nanopure water (45 ml)
+    -   Located in the Nalgene at the north sink
 
 ## Materials
 
 -   50 ml Falcon tube
--   Pipettes
+-   Pipettes (1-5 ml and 100-200 μl)
 -   Pipette tips
+-   Graduated cylinder (optional)
+
+::: {.callout-tip title="Scaling"}
+This recipe can be scaled proportionally:
+- For 100 ml: 10 ml 20x SSC + 200 μl Tween-20 + 90 ml water
+- For 200 ml: 20 ml 20x SSC + 400 μl Tween-20 + 180 ml water
+:::
 
 ## Procedure
 
-1.  Fill the 50 ml Falcon tube with 5 ml of 20x SSC.
+1.  Add 5 ml of 20x SSC to a clean 50 ml Falcon tube
 
-2.  Add 100 ul of Tween-20 to the tube
+2.  Add 100 μl of Tween-20 to the tube
 
-    ::: {.callout-important title="NOTE"}
-    Tween-20 is very thick solution, which can make it challenging to pipet. Push the pipette to the first stop, place the pipette tip in the Tween-20, and wait at least 10 seconds for the Tween-20 to fill the pipette tip. Due to its high viscosity, the Tween-20 will take longer to fill the pipette tip compared to less viscous liquids. Once the pipette tip is full, slowly dispense the Tween-20 into the tube.
+    ::: {.callout-important title="Note"}
+    Tween-20 is a very viscous solution, which can make it challenging to pipet. Push the pipette to the first stop, place the pipette tip in the Tween-20, and wait at least 10 seconds for the Tween-20 to fill the pipette tip. Due to its high viscosity, the Tween-20 will take longer to fill the pipette tip compared to less viscous liquids. Once the pipette tip is full, slowly dispense the Tween-20 into the tube.
     :::
 
-3.  Fill tube to 50 ml with nanopure water.
+3.  Fill tube to 50 ml mark with nanopure water (approximately 45 ml)
 
-4.  Mix the solution by gently inverting the tube a few times. Store at room temperature.
+4.  Cap tube and mix thoroughly by inverting 10-15 times until solution is homogeneous
 
-## Associated Papers
+## Storage
 
--   x
--   x
--   x
+-   **Temperature**: Room temperature
+-   **Duration**: Stable for 2-3 months at room temperature
+-   **Container**: 50 ml Falcon tube or glass bottle with tight-sealing cap
+-   **Label**: Mark with "2x SSC, 0.2% Tween-20", date prepared, and room temperature storage
+
+## Quality Control
+
+-   **Appearance**: Solution should be clear and slightly viscous
+-   **Homogeneity**: Should be well-mixed with no visible Tween-20 droplets
+-   **pH**: Should be approximately 7.0 (inherited from SSC buffer)
+-   **Verification**: Check that solution mixes evenly and shows no phase separation
+
+::: {.callout-note title="Usage Notes"}
+- Used as a wash buffer in in situ hybridization protocols
+- Tween-20 reduces non-specific binding and surface tension
+- Always mix well before use as Tween-20 may settle slightly over time
+- Compatible with most nucleic acid hybridization procedures
+:::
+
+## Related Protocols
+
+-   Used in in situ hybridization wash steps
+-   See molecular biology protocols for detailed applications
+-   Related buffers: @sec-recipe-pbt (for different wash applications)

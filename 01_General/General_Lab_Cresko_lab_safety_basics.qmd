@@ -4,30 +4,36 @@
 
 -   **Purpose**: This procedure describes important rules to heed in the lab for your safety and for the safety of others.
 
--   **Procedure Type**: General Lab
+-   **Procedure Type**: General Lab Safety
 
--   **Author**: xxx
+-   **Author**: Cresko Lab Safety Committee
 
--   **Date Created**: xxx
+-   **Date Created**: Updated regularly
 
-## Materials
+::: {.callout-warning title="Warning"}
+All lab members must review and follow these safety guidelines. Failure to comply with safety procedures puts you and others at risk.
+:::
 
--   xxx
+## Required Safety Equipment
 
--   xxx
+-   Lab coat (when working with hazardous chemicals)
+-   Safety glasses or goggles (for UV work, acids/bases, splash hazards)
+-   Nitrile gloves (standard for most procedures)
+-   Closed-toed shoes (required in laboratory)
 
--   xxx
+## Emergency Equipment Locations
 
-## Solutions
+-   Safety showers and eyewash stations (see lab map)
+-   Fire extinguishers (see lab map)
+-   First aid kit
+-   Spill cleanup materials
 
--   xxx
--   xxx
--   xxx
+## Safety Procedures
 
-## Procedure
+::: {.callout-important title="Important - Emergency Contacts"}
+**EMERGENCY CONTACT**: Dial 911 first, AND 6-2919 (EHS). Mark Cell 541-505-0006
 
-::: {.callout-important title="IMPORTANT"}
-EMERGENCY CONTACT: dial 911 first, AND 6-2919 (EHS). Mark Cell 541-505-0006
+See @sec-general-contact for additional contact information.
 :::
 
 1.  **Safety Shower, Eyewash, Fire Extinguishers.**
@@ -50,10 +56,16 @@ EMERGENCY CONTACT: dial 911 first, AND 6-2919 (EHS). Mark Cell 541-505-0006
 
 5.  **Disposal of common hazardous reagents (EHS DISPOSAL: 6-3192)**
 
+    For detailed waste disposal procedures, see @sec-general-hazard_waste and @sec-general-bact_waste.
+
     1.  E. coli plates and recombinant materials: autoclave buckets or EHS biohazard incineration boxes.
     2.  E. coli flasks/liquids: bleach, rinse, drain.
-    3.  Used alcohols, formaldehyde, and kit waste: waste containers under the thermocyclers.\
+    3.  Used alcohols, formaldehyde, and kit waste: waste containers under the thermocyclers.
     4.  Organic solvents: waste bottles in hood.
+
+    ::: {.callout-warning title="Warning"}
+    All hazardous waste containers must be labeled with contents, date, and owner.
+    :::
 
 6.  **Storage of Hazardous Liquids**
 
@@ -70,12 +82,22 @@ EMERGENCY CONTACT: dial 911 first, AND 6-2919 (EHS). Mark Cell 541-505-0006
 
 9.  **Liquid Nitrogen and Dry Ice**
 
-    1.  Use only in well ventilated spaces to avoid asphyxiation.\
+    ::: {.callout-danger title="Danger - Asphyxiation and Cold Burn Hazard"}
+    Liquid nitrogen and dry ice can cause serious injury. Follow all precautions.
+    :::
+
+    1.  Use only in well ventilated spaces to avoid asphyxiation.
     2.  Never store in sealed containers to avoid explosions.
     3.  Wear lab coat, gloves, goggles. In case of frostbite or burn, soak affected part in tepid water, seek medical attention.
 
-## Associated Papers
+## Related Protocols
 
--   xxx
--   xxx
--   xxx
+-   @sec-general-hazard_waste - Disposing of Hazardous Waste
+-   @sec-general-bact_waste - Bacterial Waste Cleaning and Disposal
+-   @sec-general-contact - Contact Information
+
+## Additional Resources
+
+-   University of Oregon Environmental Health and Safety: https://safety.uoregon.edu/
+-   EHS Emergency Contact: 6-2919
+-   EHS Hazardous Materials Disposal: 6-3192

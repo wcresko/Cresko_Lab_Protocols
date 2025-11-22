@@ -2,34 +2,114 @@
 
 ## Introduction
 
--   **Purpose**: This protocol is used to determine whether the microbial community of one strain of stickleback can colonize the gut of another strain that is evolutionarily different. This protocol has been adapted for use in stickleback from an established, approved zebrafish protocol.
+-   **Purpose**: This protocol is used to determine whether specific bacterial strains can colonize the gut of germ-free stickleback, and to study host-microbe interactions in a controlled manner. This protocol has been adapted for use in stickleback from established, approved zebrafish protocols.
 -   **Procedure Type**: Vert Experiment
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
--   **Author**: xxx
--   **Date Created**: xxx
+-   **Author**: Adapted from Guillemin laboratory protocols
+-   **Date Created**: January 01, 2024
+
+::: {.callout-important title="IACUC and IBC Protocol Required"}
+This procedure requires:
+-   An active IACUC protocol covering germ-free fish rearing and experimental manipulations
+-   An active IBC (Institutional Biosafety Committee) protocol if using recombinant or pathogenic bacteria
+-   Proper biosafety training for all personnel
+:::
 
 ## Materials
 
--   xxx
--   xxx
+-   Sterile tissue culture hood
+-   Germ-free stickleback larvae (9-13 dpf) in sterile flasks
+-   250 ml Erlenmeyer flasks for bacterial culture
+-   Shaking incubator (25°C, 200 RPM)
+-   Spectrophotometer for OD~600~ measurements
+-   Sterile serological pipettes and pipette aid
+-   Bacterial culture plates (TSA or appropriate medium)
+-   Sterile spreaders or glass beads for plating
 
 ## Solutions
 
--   xxx
--   xxx
+-   Sterile stickleback medium (filter sterilized) - see @sec-general_recipe_embryo_medium
+-   Appropriate bacterial growth medium (e.g., LB, TSB, or specialized medium)
+-   MS-222 euthanasia solution for endpoint - see @sec-husb-adutl_sb_euthanasia
+
+## Background
+
+::: {.callout-note title="Bacterial Inoculum Optimization"}
+The bacterial inoculum should be determined empirically for each species used. For many bacteria, 10⁴ Colony Forming Units (CFUs) per milliliter of stickleback medium will suffice for full colonization of the intestine and minimal toxicity to the fish.
+
+**Important considerations**:
+-   Dead larvae in the flask will be removed promptly as this will often result in increased bacterial growth that can ultimately be fatal to the remaining larvae.
+-   The method below is optimized for several proteobacteria strains.
+-   Different bacterial species may require different concentrations (typically ranging from 10³ to 10⁶ CFU/ml).
+:::
 
 ## Procedure
 
-::: {.callout-notes title="NOTES"}
-The bacterial inoculums should be determined empirically for each species used. For many bacteria 104 Colony Forming Units (CFUs) per milliliter of stickleback medium will suffice for full colonization of the intestine and minimal toxicity to the fish. Dead larvae in the flask will be removed as this will often result in increased bacterial growth that can ultimately be fatal to the remaining larvae. The method below is used for several proteobacteria strains.
+### Preparation
+
+1.  **Prepare germ-free fish**: Raise fish in a germ-free environment as described in @sec-vert_exp-gremfree_SB.
+    -   Fish should be 9-13 days post fertilization (when digestive system is open and fish are feeding).
+
+### Bacterial Culture Preparation
+
+2.  **Bacterial culture**: Incubate bacteria for 16 hours in 50 ml of growth medium in a 250 ml Erlenmeyer flask at 25°C, 200 RPM.
+    -   **Note**: These bacteria should originate from the intestine of a healthy stickleback to ensure that the bacteria are not pathogens (or use well-characterized laboratory strains).
+
+3.  **Measure density**: Measure the Optical Density at 600 nm (OD~600~) of the culture using a spectrophotometer.
+
+4.  **Calculate CFU/ml**: Calculate the original culture density, assuming 1 OD~600~ = 10⁹ CFU/ml.
+    -   Note: This conversion factor may vary by bacterial species; verify for your specific strain if possible.
+
+### Monoassociation
+
+5.  **Prepare inoculum**:
+    -   Dilute the culture to predetermined concentration (typically 10⁴ CFU/ml) in filter-sterilized stickleback medium.
+    -   Work in a tissue culture hood to maintain sterility.
+    -   Inoculate the flask containing germ-free larvae.
+    -   The fish will be exposed to bacteria in the water after their digestive system is open and they have been shown to consume food (9-13 dpf).
+
+::: {.callout-note title="Concentration Range"}
+Germ-free fish water is typically inoculated between 10³ and 10⁶ bacteria per milliliter. Choose a concentration that results in healthy fish surviving to at least three days post-exposure.
 :::
 
-1.  Raise fish in a germ-free environment as described here: {#sec-vert_exp_gremfree_SB}
-2.  Incubate bacteria for 16 hours in 50 ml of growth medium in 250 ml flask at 25°C, 200 RPM. These bacteria will originate from the intestine of a healthy stickleback to ensure that the bacteria are not pathogens.
-3.  Measure the Optical Density~600~ (OD~600~) of the culture.
-4.  Calculate the original culture density, assuming 1 OD~600~ = 109 CFU / ml.
-5.  Dilute the culture to pre-determined concentration as needed in filter sterilized stickleback medium, and inoculate flask in tissue culture hood. The fish will be exposed to the bacteria in the water after their digestive system is open and they have been shown to consume food, which occurs between 9 and 13 days post fertilization. The inoculums will be determined in a manner similar to those already established for zebrafish and used regularly in the Guillemin laboratory. Germ-free fish water is inoculated between 1000 and 1000000 bacteria per milliliter so the concentration the concentration can be chosen that results in healthy fish surviving to three days post-exposure.
-6.  Plate dilutions of the original bacterial culture in order to verify the CFU/ml of the inoculum.
-7.  Monitor fish daily for signs of illness, including lack of motility, response to external stimuli, rapid movement of opercular (gill) cover and any other sign of non-normal behavior.
-8.  At the end of the experiment, euthanize fish by established and approved protocols {#sec-husb-adutl_sb_euthanasia}.
+6.  **Verify inoculum**: Plate serial dilutions of the original bacterial culture on appropriate agar plates to verify the actual CFU/ml of the inoculum.
+
+### Monitoring
+
+7.  **Daily monitoring**: Monitor fish daily for signs of illness, including:
+    -   Lack of motility or response to external stimuli
+    -   Rapid or irregular movement of opercular (gill) cover
+    -   Changes in swimming behavior
+    -   Loss of balance or orientation
+    -   Any other signs of abnormal behavior
+    -   Remove dead fish immediately
+
+8.  **Water quality**: Every 2-3 days, plate water samples on agar to verify monoassociation (only the introduced bacterial species should be present).
+
+### Termination
+
+9.  **Endpoint**: At the end of the experiment, euthanize fish using established and approved protocols - see @sec-husb-adutl_sb_euthanasia.
+
+10. **Verification**: Dissect fish and plate gut contents to verify colonization and confirm monoassociation status.
+
+## Related Protocols
+
+-   Germ-free stickleback production: @sec-vert_exp-gremfree_SB
+-   Stickleback euthanasia: @sec-husb-adutl_sb_euthanasia
+-   Embryo medium preparation: @sec-general_recipe_embryo_medium
+
+## Troubleshooting
+
+::: {.callout-warning title="Common Issues"}
+-   **High mortality**: Bacterial concentration may be too high; reduce inoculum in next trial.
+-   **No colonization**: Bacterial concentration may be too low or bacteria not viable; verify CFU counts by plating.
+-   **Contamination**: If other bacterial species appear, sterile technique was compromised; discard and restart.
+-   **Inconsistent colonization**: Ensure fish are at proper developmental stage (digestive system must be open).
+:::
+
+## Associated Papers
+
+-   Papers on zebrafish monoassociation protocols
+-   Guillemin laboratory publications on host-microbe interactions
+-   Papers on gnotobiotic fish models

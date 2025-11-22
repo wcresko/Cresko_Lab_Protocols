@@ -2,74 +2,131 @@
 
 ## Introduction
 
--   **Purpose**: This method allows the production of homozygous haploid embryos for the purpose of screening for recessive mutations. Haploid embryos develop fairly normally for the first few days, but eventually develop bent tails and vacuolated body cavities. They are inviable.
--   **Procedure Type**: Vertabrate Experimental
+-   **Purpose**: This method allows the production of haploid embryos for screening recessive mutations. Haploid embryos develop fairly normally for the first few days, but eventually develop bent tails and vacuolated body cavities. They are inviable and typically die by 7-10 days post fertilization.
+-   **Procedure Type**: Vertebrate Experimental
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
 -   **Author**: Mark Currey
--   **Date Created**: xxx
--   **Date Updated**: xxx
+-   **Date Created**: January 01, 2024
 
-::: {.callout-Notes title="Note"}
-This is a general procedure for making infertile sperm that can still activate eggs for production of haploid, early pressure (EP) or heat shock (HS) embryos.
+::: {.callout-important title="IACUC Protocol Required"}
+This procedure requires an active IACUC protocol covering UV irradiation of gametes and production of haploid embryos.
+:::
+
+::: {.callout-note title="Background"}
+This is a general procedure for producing UV-inactivated sperm that can still activate eggs but cannot contribute genetic material. The resulting haploid embryos are useful for:
+-   Screening for recessive lethal mutations
+-   Identifying maternal effect genes
+-   Rapid phenotypic screening
+
+The UV treatment damages the sperm DNA, preventing it from participating in development, while leaving the sperm motile enough to activate the egg.
+:::
+
+::: {.callout-warning title="Safety - UV Radiation"}
+-   UV light can cause severe eye damage and skin burns
+-   Always wear safety glasses with UV protection
+-   Wear gloves and protective clothing
+-   Never look directly at UV lamp
+-   Ensure proper ventilation
 :::
 
 ## Materials
 
--   Watchglass
--   Large glass Petri dish
+-   Watchglass (sterile)
+-   Large glass Petri dish with cover
 -   Ice
--   Two Pasteur pipettes
+-   Two Pasteur pipettes (sterile)
 -   Pipette bulb
 -   Stopwatch
--   UV Stratalinker® 1800 by Stratagene\
--   Latex kitchen gloves
--   Safety glasses
--   Small test tube with cork marked for UV sperm
+-   UV Stratalinker 1800 (Stratagene) or equivalent UV crosslinker
+-   Latex or nitrile gloves
+-   UV-protective safety glasses
+-   Small test tube with cork, marked "UV sperm"
+-   Beaker for ice bath
 
 ## Solutions
 
--   Hank's solution {#sec-general_recipe_hanks}
--   xxx
--   xxx
--   xxx
+-   Hank's solution - see @sec-general_recipe_hanks
+-   Embryo medium for fertilization - see @sec-general_recipe_embryo_medium
 
 ## Procedure
 
-```         
-  1. Fill the bottom of the glass Petri dish with ice. 
-  
-  2. Put watchglass on top of the ice in the dish. 
-  
-  3. Using a Pasteur pipette, transfer the sperm from the test tube onto the watchglass. Be sure to get as much of the sperm into the pipette as possible without taking up any bubbles of air with it. Also, do not bubble the sperm in the watchglass as you are expelling them from the pipette. Expel sperm in a thin, even layer on watch glass.  
-  
-```
+### Preparation
 
-::: {.callout-warning title="Warning"}
-DISCARD THIS PIPETTE.
+1.  **Prepare ice bath**: Fill the bottom of the glass Petri dish with ice.
+
+2.  **Set up watchglass**: Place watchglass on top of the ice in the dish to keep sperm cool.
+
+### Sperm Transfer and UV Treatment
+
+3.  **Transfer sperm to watchglass**:
+    -   Using a clean Pasteur pipette, transfer the sperm from the collection tube onto the chilled watchglass.
+    -   Get as much of the sperm into the pipette as possible without taking up any air bubbles.
+    -   Do NOT bubble the sperm as you expel them from the pipette.
+    -   Expel sperm in a thin, even layer on the watchglass for uniform UV exposure.
+
+::: {.callout-warning title="Important"}
+DISCARD THIS PIPETTE after use - do not reuse for collecting UV-treated sperm.
 :::
 
-```         
-  4. Cover the sperm with the top of the Petri dish. 
-  
-  5. Put on the Latex gloves and safety glasses. 
-  
-  6. Place the covered Petri dish under the UV lamp. 
-  
-  7. Remove the cover of the Petri dish and start the stopwatch. 
-  
-  8. Gently move the dish under the lamp in a swirling motion for two minutes. 
-  
-  9. After exposing the sperm to UV light for two minutes, replace the cover on the Petri dish and remove the dish from under the lamp. 
-  
-  10. Using the CLEAN pipette, remove the sperm from the watchglass and transfer them to the small test tube marked for UV sperm. 
-  
-  11. Put the UV sperm test tube into the ice to be used later for fertilizing eggs.
-```
+4.  **Cover sperm**: Place the cover on the Petri dish to protect from contamination during setup.
+
+5.  **Prepare for UV exposure**:
+    -   Put on latex/nitrile gloves
+    -   Put on UV-protective safety glasses
+
+6.  **Position under UV lamp**: Place the covered Petri dish under the UV Stratalinker.
+
+7.  **UV treatment**:
+    -   Remove the cover from the Petri dish
+    -   Start the stopwatch immediately
+    -   Gently move the dish under the lamp in a swirling motion for **two minutes**
+    -   This ensures even UV exposure across all sperm
+
+8.  **Complete UV treatment**:
+    -   After exactly two minutes of UV exposure, replace the cover on the Petri dish
+    -   Remove the dish from under the UV lamp
+
+### Collection and Storage
+
+9.  **Collect UV-treated sperm**:
+    -   Using a CLEAN (new) Pasteur pipette, remove the UV-treated sperm from the watchglass
+    -   Transfer sperm to the small test tube marked "UV sperm"
+
+10. **Store on ice**: Place the UV sperm test tube into an ice bath until ready to fertilize eggs.
+
+### Fertilization
+
+11. **Use for fertilization**: Use UV-treated sperm to fertilize eggs according to standard stickleback crossing protocols (see @sec-husbandry_stickleback_crossing).
+    -   Haploid embryos should be monitored for viability
+    -   Expect higher mortality than normal diploid embryos
+    -   Screen for phenotypes of interest before embryos become inviable (typically by 7 dpf)
+
+## Quality Control
+
+::: {.callout-tip title="Verifying UV Treatment Success"}
+-   Control fertilization: Fertilize a small batch of eggs with untreated sperm as a positive control
+-   Test batch: Fertilize eggs with UV-treated sperm; lack of cleavage or abnormal development indicates successful UV treatment
+-   If normal development occurs, sperm DNA was not sufficiently inactivated; increase UV exposure time
+:::
+
+## Related Protocols
+
+-   Stickleback crossing: @sec-husbandry_stickleback_crossing
+-   Hank's solution preparation: @sec-general_recipe_hanks
+-   Embryo medium: @sec-general_recipe_embryo_medium
+
+## Troubleshooting
+
+::: {.callout-warning title="Common Issues"}
+-   **Normal diploid development**: UV exposure was insufficient; increase exposure time in 30-second increments
+-   **No activation of eggs**: UV exposure was too long or sperm were damaged; reduce UV exposure time
+-   **Poor sperm motility after UV**: Sperm may have been too warm during treatment; ensure watchglass is well-chilled
+:::
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   Papers on haploid screening in fish
+-   Streisinger, G., et al. (1981). Production of clones of homozygous diploid zebra fish (Brachydanio rerio). Nature.
+-   Walker, C. & Streisinger, G. (1983). Induction of Mutations by γ-Rays in Pregonial Germ Cells of Zebrafish Embryos. Genetics.
+-   Papers on gynogenesis and androgenesis techniques

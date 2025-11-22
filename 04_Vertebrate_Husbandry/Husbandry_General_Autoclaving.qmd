@@ -3,32 +3,63 @@
 ## Introduction
 
 -   **Purpose**: For sanitizing nets and scrub pads that have been used in the fish room.
--   **Procedure Type**: xxx
+-   **Procedure Type**: Husbandry - Equipment Maintenance
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
     -   Bay pipefish, (*Syngnathus leptorhyncus*)
     -   Gulf pipefish (*Syngnathus scovelli*)
     -   Zebrafish, (*Danio rerio*)
--   **Author**: xxx
--   **Date Created**: xxx
+-   **Author**: Mark Currey
+-   **Date Created**: Updated 2024
+-   **IACUC Protocol**: Covered under facility maintenance procedures
 
-::: {.callout-warning title="NOTES"}
-xxxx
+::: {.callout-caution title="Safety Warning"}
+-   Autoclave operates at high temperature (121°C) and pressure
+-   Wear heat-resistant gloves when handling items after autoclaving
+-   Allow items to cool completely before removing from autoclave
+-   Do not open autoclave door during cycle
+-   Ensure door is properly sealed before starting cycle
 :::
 
 ## Materials
 
--   xx
--   xx
--   xx
+-   Autoclave wire bin
+-   Dirty nets and scrub pads
+-   Heat-resistant gloves
+
+## Solutions
+
+-   None required
 
 ## Procedure
 
-1.  Place dirty nets and scrub pads in autoclave wire bin
-2.  Put bin into autoclave, and close the door (close door by pushing main door against hinge on left of door, then push door shut and seal by turning handle clockwise to just tight, DO NOT OVER TIGHTEN).
-3.  Change menu to B using keypad
-4.  Hit #1 twice, this will start the autoclave.
-5.  Sign sheet on outside of entrance door
-6.  Wait 45 minutes and remove nets
-7.  Put nets in clean nets tub.
-8.  Initial Check list on outside of door.   **Gravity   45 min   OK to Remove**
+1.  **Prepare items for autoclaving**: Place dirty nets and scrub pads in autoclave wire bin.
+
+2.  **Load autoclave**: Put bin into autoclave, and close the door by pushing main door against hinge on left of door, then push door shut and seal by turning handle clockwise to just tight.
+
+::: {.callout-warning title="Important"}
+DO NOT OVER TIGHTEN the autoclave door handle as this can damage the seal.
+:::
+
+3.  **Set autoclave program**: Change menu to B using keypad.
+
+4.  **Start autoclave**: Hit #1 twice to start the autoclave cycle.
+
+5.  **Sign log sheet**: Sign sheet on outside of entrance door to document autoclave use.
+
+6.  **Wait for cycle completion**: Wait 45 minutes for the autoclave cycle to complete. Do not open door before cycle is complete.
+
+7.  **Remove items safely**: Wearing heat-resistant gloves, carefully remove nets from autoclave. Items will be very hot.
+
+8.  **Store clean items**: Put nets in clean nets tub.
+
+9.  **Complete documentation**: Initial checklist on outside of door: **Gravity   45 min   OK to Remove**
+
+## Related Protocols
+
+-   See @sec-husbandry-plastic_glassware_cleaning for cleaning plastic and glassware
+-   See @sec-husbandry-dishwasher for dishwasher use
+
+## Associated Papers
+
+-   None

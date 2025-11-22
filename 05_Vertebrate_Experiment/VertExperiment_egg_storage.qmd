@@ -1,51 +1,110 @@
-# Storage of stickleback eggs {#sec-vert_exp-egg_storage_SB}
+# Storage of Stickleback Eggs {#sec-vert_exp-egg_storage_SB}
 
 ## Introduction
 
--   **Purpose**: Storage of eggs for fertilization up to 24 hours post stripping.
--   **Procedure Type**: Vertabrate Experimental
+-   **Purpose**: Storage of unfertilized stickleback eggs for fertilization up to 24 hours post-stripping. This protocol allows for temporal separation of egg collection and fertilization, facilitating experimental design and cross logistics.
+-   **Procedure Type**: Vertebrate Experimental
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
 -   **Author**: Mark Currey
--   **Date Created**: xxx
--   **Date Updated**: xxx
+-   **Date Created**: January 01, 2024
 
-::: {.callout-Notes title="Note"}
-This is a general procedure for making infertile sperm that can still activate eggs for production of haploid, early pressure (EP) or heat shock (HS) embryos.
+::: {.callout-important title="IACUC Protocol Required"}
+This procedure requires an active IACUC protocol covering egg stripping and fertilization procedures.
+:::
+
+::: {.callout-note title="Background"}
+Unfertilized stickleback eggs can be stored in a specialized storage medium containing antibiotics to prevent bacterial growth. This allows eggs to be:
+-   Transported between facilities
+-   Collected and fertilized at different times
+-   Stored while preparing sperm or other materials
+
+Storage on ice extends egg viability up to 24 hours, with best results when fertilized within 12 hours.
 :::
 
 ## Materials
 
--   Streptomycin & Penicillin Solution (PenStrep) from Sigma (P-0906) Stock – 100%
--   50ml sterile polypropylene conical tubes
--   90mm petri dish
+-   Streptomycin & Penicillin Solution (PenStrep) from Sigma (P-0906) - 100% stock
+-   50 ml sterile polypropylene conical tubes
+-   90 mm petri dishes (sterile)
+-   Ice bucket or cooler with ice
+-   Transfer pipettes
 
 ## Solutions
 
--   Holtfrieter's Solution {#sec-general_recipe_holtfrieters}
--   embryo medium {#sec-general_recipe_embryo_medium}
--   xxx
--   xxx
+-   **Holtfreter's Solution** - see @sec-general_recipe_holtfrieters
+-   **Embryo medium** - see @sec-general_recipe_embryo_medium
+-   **Egg storage solution** (prepare fresh for each use):
+    -   Add PenStrep to Holtfreter's solution for a final concentration of 1%
+    -   (10 ml PenStrep stock into 1 liter Holtfreter's solution)
+    -   Keep chilled at 4°C
 
 ## Procedure
 
-**egg storage solution** 1. Add PenStrep to Holtfreiter's for a final concentration of 1% (10ml into 1 liter)
+### Egg Collection and Storage
 
-2.  Strip eggs from ripe female into a conical tube with 25ml cold egg storage solution.
+1.  **Prepare egg storage solution**:
+    -   Add 10 ml of PenStrep stock to 1 liter of Holtfreter's solution (1% final concentration)
+    -   Chill on ice
 
-::: {.callout-note title="Note"}
-Eggs can be transported on ice and fertilized up to 24 hours later (maybe longer)
+2.  **Collect eggs**:
+    -   Strip eggs from ripe female into a 50 ml conical tube containing 25 ml of cold egg storage solution
+    -   Work quickly to minimize time eggs are unfertilized
+
+3.  **Store eggs**:
+    -   Cap the tube tightly
+    -   Store on ice (or at 4°C)
+
+::: {.callout-tip title="Storage Duration"}
+Eggs can be transported on ice and fertilized up to 24 hours later. However, fertilization success is highest when eggs are used within 12 hours of collection.
 :::
 
-3.  To fertilize, move eggs to 90mm petri dish and allow temperature to equilibrate to 20C
+### Fertilization of Stored Eggs
 
-4.  Remove egg storage solution, and rinse eggs once with embryo medium (important to make sure that salt concentration is low enough for sperm to be optimally activated).
+4.  **Equilibrate temperature**:
+    -   Transfer eggs to a 90 mm petri dish
+    -   Allow temperature to equilibrate to 20°C (room temperature)
+    -   This takes approximately 15-20 minutes
 
-5.  Add macerated testis prep as usual, then cover eggs with embryo medium.
+5.  **Prepare for fertilization**:
+    -   Remove egg storage solution from petri dish
+    -   Rinse eggs once with fresh embryo medium
+    -   **Important**: This rinse lowers the salt concentration, which is essential for optimal sperm activation
+
+6.  **Fertilize**:
+    -   Add macerated testis preparation as usual (see @sec-husbandry_stickleback_crossing)
+    -   Cover eggs with embryo medium
+    -   Allow fertilization to proceed for 1-2 minutes
+    -   Add additional embryo medium to dilute sperm
+
+7.  **Incubate**: Transfer fertilized eggs to incubator at 20°C for development.
+
+## Quality Control
+
+::: {.callout-note title="Monitoring Fertilization Success"}
+-   Check fertilization rates after 2-4 hours (look for cell division)
+-   Compare to fresh (non-stored) egg controls
+-   Expected fertilization rates may be slightly lower than fresh eggs, especially after 12+ hours storage
+-   Document storage time and fertilization success for optimization
+:::
+
+## Related Protocols
+
+-   Stickleback crossing (fertilization): @sec-husbandry_stickleback_crossing
+-   Holtfreter's solution preparation: @sec-general_recipe_holtfrieters
+-   Embryo medium preparation: @sec-general_recipe_embryo_medium
+
+## Troubleshooting
+
+::: {.callout-warning title="Common Issues"}
+-   **Low fertilization rates**: Eggs may have been stored too long; try to fertilize within 12 hours. Check that eggs were kept cold throughout storage.
+-   **Bacterial contamination**: Ensure egg storage solution contains fresh antibiotics and all materials are sterile.
+-   **Poor egg quality**: Female may not have been fully ripe; ensure proper conditioning and timing of egg stripping.
+-   **Sperm not activated**: Ensure thorough rinse with embryo medium to remove high salt from storage solution.
+:::
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   Papers on fish egg storage and viability
+-   Stickleback husbandry and breeding protocols
+-   Studies on gamete storage in teleost fishes

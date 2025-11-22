@@ -2,38 +2,137 @@
 
 ## Introduction
 
--   **Purpose**: Recipe for diluting 10x TBE and 10x TAE to make buffers.
+-   **Purpose**: Recipe for diluting 10x TBE and 10x TAE stock solutions to make working concentration electrophoresis buffers for agarose and polyacrylamide gel electrophoresis
 -   **Procedure Type**: Recipe
 -   **Author**: Micah Woods
 -   **Date Created**: March 4, 2024
 
+::: {.callout-note title="Buffer Selection"}
+**TBE (Tris-Borate-EDTA)**: Better buffering capacity, preferred for long runs and small DNA fragments. Common for polyacrylamide gels.
+
+**TAE (Tris-Acetate-EDTA)**: Lower buffering capacity but DNA elutes more easily. Preferred for large DNA fragments and DNA recovery from gels. Common for agarose gels.
+:::
+
 ## Solutions
 
--   If making TBE buffer dilution:
-    -   10x TBE (located in the cabinet above the microwave; if none is available, obtain 2 liters of pre-made 10X TBE from Chem Stores)
--   If making TAE buffer dilution:
-    -   10x TAE (located in the cabinet above the microwave; if none is available, obtain 2 liters of pre-made 10X TAE from Chem Stores)
--   Nanopure water (located in the Nalgene at the sink on the north end of the laboratory; if Nalgene is empty, refill using the Phillips Laboratory nanopure water dispenser located in Pacific 317)
+-   **If making TBE buffer dilution:**
+    -   10x TBE stock (Tris-Borate-EDTA)
+    -   Located in the cabinet above the microwave
+    -   If none is available, obtain 2 liters of pre-made 10x TBE from Chem Stores
+
+-   **If making TAE buffer dilution:**
+    -   10x TAE stock (Tris-Acetate-EDTA)
+    -   Located in the cabinet above the microwave
+    -   If none is available, obtain 2 liters of pre-made 10x TAE from Chem Stores
+
+-   **Nanopure water**
+    -   Located in the Nalgene at the sink on the north end of the laboratory
+    -   If Nalgene is empty, refill using the Phillips Laboratory nanopure water dispenser located in Pacific 317
 
 ## Materials
 
--   Vessel for holding diluted TBE or TAE buffer appropriate to desired volume after dilution.
+-   Appropriate vessel for desired final volume:
+    -   Small volumes (100-500 ml): graduated cylinder or bottle
+    -   Medium volumes (1-5 L): glass bottle or carboy
+    -   Large volumes (20 L): 20 liter Nalgene (for 0.5x TBE)
+-   Graduated cylinders for measuring stock and water
+-   Funnel (for large volume preparations)
 
-    ::: {.callout-important title="NOTE"}
-    If attempting to make 0.5x TBE buffer, use the 20 liter Nalgene located at the sink at the south end of the laboratory.
-    :::
+::: {.callout-important title="Note"}
+If making 0.5x TBE buffer for large-scale gel electrophoresis, use the dedicated 20 liter Nalgene located at the sink at the south end of the laboratory.
+:::
+
+## Common Dilutions
+
+**Most common working concentrations:**
+- **0.5x** - Standard for most agarose gel electrophoresis
+- **1x** - Higher buffering capacity, used for some applications
+- **0.25x** - Sometimes used for very large DNA fragments
+
+**Dilution calculations:**
+- For 0.5x from 10x: Mix 1 part 10x stock + 19 parts water
+- For 1x from 10x: Mix 1 part 10x stock + 9 parts water
+- For 0.25x from 10x: Mix 1 part 10x stock + 39 parts water
 
 ## Procedure
 
-1.  If you are specifically seeking to make 0.5x TBE buffer, follow the below instructions. If you are seeking to make another concentration of TBE buffer or a dilution of TAE buffer, skip to step 2 of the procedure.
-    a.  Ensure that the 20 liter Nalgene is fully empty.
-    b.  Fill the Nalgene with 19 liters of nanopure water. The 19 liter mark is marked in Sharpie on the Nalgene.
-    c.  Fill the Nalgene with 1 liter of 10x TBE. The 20 liter mark is marked in Sharpie on the Nalgene.
-2.  Calculate the concentration of either TBE or TAE buffer you wish to make from the initial 10x concentration, depending on the desired final volume and concentration of buffer.
-3.  Pour the appropriate volume of 10x TBE or 10x TAE into your vessel, and then dispense the appropriate volume of nanopure water into the vessel to dilute the 10x TBE or 10x TAE buffer to your desired volume and concentration.
+### Method 1: For 0.5x TBE Buffer (20 L) - Large Scale
 
-## Associated Papers
+1.  Ensure the 20 liter Nalgene is completely empty and clean
 
--   x
--   x
--   x
+2.  Fill the Nalgene with 19 liters of nanopure water
+    - The 19 liter mark is marked in Sharpie on the Nalgene
+
+3.  Add 1 liter of 10x TBE stock
+    - The 20 liter mark is marked in Sharpie on the Nalgene
+
+4.  Cap and mix thoroughly by inverting or swirling
+    - May need to mix several times over 5-10 minutes
+
+### Method 2: For Custom Concentrations and Volumes
+
+1.  **Calculate volumes needed:**
+    - Use dilution formula: C₁V₁ = C₂V₂
+    - C₁ = initial concentration (10x)
+    - V₁ = volume of stock needed
+    - C₂ = final concentration (0.5x, 1x, etc.)
+    - V₂ = final volume desired
+
+    **Example**: For 1 liter of 0.5x TBE:
+    - 10x × V₁ = 0.5x × 1000 ml
+    - V₁ = 50 ml of 10x TBE
+    - Water needed = 1000 ml - 50 ml = 950 ml
+
+2.  **Prepare buffer:**
+    - Add calculated volume of 10x TBE or TAE stock to vessel
+    - Add calculated volume of nanopure water
+    - Mix thoroughly
+
+3.  **Verify preparation:**
+    - Check that final volume matches desired volume
+    - Mix well to ensure homogeneous solution
+
+## Storage
+
+-   **Temperature**: Room temperature
+-   **Duration**:
+    -   TBE: Stable for several months at room temperature
+    -   TAE: Stable for 1-2 months; longer storage may lead to precipitation
+-   **Container**: Appropriate sized bottle or carboy with tight-sealing cap
+-   **Label**: Mark with buffer type (TBE or TAE), concentration (0.5x, 1x, etc.), date prepared
+
+## Quality Control
+
+-   **Appearance**: Both buffers should be clear and colorless
+-   **pH**:
+    -   TBE: pH approximately 8.3
+    -   TAE: pH approximately 8.5
+-   **Conductivity**: Can verify dilution using conductivity meter if available
+-   **Performance**: Buffer should support good DNA separation without smearing
+
+::: {.callout-caution title="Buffer Reuse"}
+**Important**: Do not reuse electrophoresis buffers. Buffer ions become depleted during electrophoresis, reducing buffering capacity. Prepare fresh buffer for each run or set of runs.
+:::
+
+::: {.callout-tip title="Usage Notes"}
+- **For agarose gels**: Either 0.5x TBE or TAE works well; TAE is more common
+- **For polyacrylamide gels**: TBE is preferred
+- **For DNA recovery**: TAE is preferred (no borate to inhibit downstream enzymes)
+- **Gel buffer matching**: Always use same buffer in gel and running tank
+- **Temperature**: Allow buffer to equilibrate to room temperature before use
+- **Buffer level**: Ensure gel is completely submerged in buffer during electrophoresis
+:::
+
+## Troubleshooting
+
+-   **Smearing bands**: Buffer may be exhausted; prepare fresh
+-   **Poor resolution**: Verify correct buffer concentration
+-   **TAE precipitate**: Prepare fresh; old TAE can precipitate
+-   **Unusual migration**: Check pH and buffer concentration
+
+## Related Protocols
+
+-   Used in DNA/RNA agarose gel electrophoresis protocols
+-   Used in polyacrylamide gel electrophoresis protocols
+-   Essential for molecular cloning and PCR analysis
+-   See gel electrophoresis protocols for detailed running conditions

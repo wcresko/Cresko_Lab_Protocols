@@ -2,58 +2,122 @@
 
 ## Introduction
 
--   **Purpose**: This protocol describes how to determine the genotypic sex of threespine stickleback with PCR.
+-   **Purpose**: This protocol describes how to determine the genotypic sex of threespine stickleback using PCR amplification of sex-linked markers.
 -   **Procedure Type**: Vert Experiment
 -   **Species**:
-    -   Threespine stickleback, (*Gasterosteus aculeatus*),
--   **Author**: xxx
--   **Date Created**: xxx
--   **IACUC Approved**: Not applicable
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+-   **Author**: Cresko Laboratory
+-   **Date Created**: January 01, 2024
+-   **IACUC Approved**: Not applicable (molecular procedure only)
 -   **IBC Approved**: Not applicable
+
+::: {.callout-note title="Background"}
+Threespine stickleback have an XY sex determination system. The GA1 primers amplify a Y-chromosome specific region (~371 bp) that is present only in males. They also amplify a non-sex-linked control band (~600 bp) present in all individuals, which serves as an internal positive control for the PCR reaction.
+:::
 
 ## Materials
 
--   2X turbo mix
--   GA1 F primer (10µM conc.)
--   GA1 R primer (10µM conc.)
--   Taq
--   npH~2~O
--   DNA
+-   PCR machine/thermocycler
+-   2X Turbo mix (or equivalent PCR master mix)
+-   GA1 F primer (10 µM concentration)
+-   GA1 R primer (10 µM concentration)
+-   Taq polymerase
+-   Nuclease-free water (npH~2~O)
+-   DNA template (extracted from fin clip or tissue)
+-   PCR tubes (0.2 ml)
+-   Mineral oil (if using non-heated lid thermocycler)
+-   2% agarose gel materials
+-   DNA ladder (100 bp or similar)
 
-::: {.callout-note title="Other primer pairs that can be used"}
-This procedure also works with GA2 and IDH primers although PCR parameters may be different.
+::: {.callout-note title="Other Primer Pairs"}
+This procedure also works with GA2 and IDH primers, although PCR parameters may be different. GA1 primers are recommended for standard use.
 :::
 
--   Extract DNA into 250µl final volume
+## Procedure
 
-### PCR recipe (1X)
+### DNA Extraction
+
+1.  Extract DNA from fin clip or tissue sample into 250 µl final volume.
+    -   Standard DNA extraction protocols can be used (e.g., HotSHOT method, commercial kits).
+
+### PCR Setup
+
+2.  **Prepare PCR master mix** (volumes shown for 1X reaction, scale up as needed):
 
 | Reagent      | Concentration |  Volume  |
 |--------------|---------------|:--------:|
-| 2X turbo mix |               |   10µl   |
-| GA1 F primer | 10µM          |  .25µl   |
-| GA1 R primer | 10µM          |  .25µl   |
-| Taq          |               |  .25µl   |
-| npH~2~O      |               |  7.25µl  |
-| DNA          |               |  2.0µl   |
-| **TOTAL**    |               | **20µl** |
+| 2X turbo mix |               |   10 µl  |
+| GA1 F primer | 10 µM          |  0.25 µl |
+| GA1 R primer | 10 µM          |  0.25 µl |
+| Taq          |               |  0.25 µl |
+| npH~2~O      |               |  7.25 µl |
+| DNA          |               |  2.0 µl  |
+| **TOTAL**    |               | **20 µl**|
 
--   After all ingredients are added to a PCR tube put a 10µl drop of mineral oil on top.
+3.  **Add mineral oil** (if needed): After all ingredients are added to a PCR tube, add a 10 µl drop of mineral oil on top.
+    -   Note: Only necessary if using a thermocycler without a heated lid.
 
-### PCR reaction protocol
+### PCR Cycling
 
--   94C -- 5 minutes
--   94C -- 50 seconds
--   44C -- 50 seconds (44 cycles)
--   72C -- 1:20 minutes
--   72C -- 10 minutes
+4.  **Run PCR program**:
 
-### Run PCR products on a 2% gel
+| Step              | Temperature | Time       | Cycles |
+|-------------------|-------------|------------|--------|
+| Initial denaturation | 94°C     | 5 minutes  | 1      |
+| Denaturation      | 94°C        | 50 seconds | 44     |
+| Annealing         | 44°C        | 50 seconds | 44     |
+| Extension         | 72°C        | 1:20 min   | 44     |
+| Final extension   | 72°C        | 10 minutes | 1      |
+| Hold              | 4°C         | ∞          | --     |
 
-::: {.callout-tip title="Banding patterns for males and femals on the gel"}
-The GA1F/R primer pair amplify a 371 bp band only in males, and they amplify a second, non-sex-linked 600 bp band in every fish. This second band acts as an internal control to help distinguish a female genotype from a failed PCR, when a 371 bp band is absent. Because of amplification efficiency differences, the 600 bp band will usually be significantly dimmer than the 371 bp band.
+### Gel Electrophoresis
+
+5.  **Prepare 2% agarose gel** in TAE or TBE buffer with ethidium bromide or other DNA stain.
+
+6.  **Load samples**:
+    -   Load 5-10 µl of PCR product per well.
+    -   Include a DNA ladder (100 bp or similar) for size reference.
+
+7.  **Run gel**: Electrophorese at 100-120V for 30-45 minutes or until adequate separation is achieved.
+
+8.  **Visualize and interpret**:
+
+::: {.callout-tip title="Banding Patterns for Sex Determination"}
+The GA1F/R primer pair amplifies:
+-   **371 bp band**: Y-chromosome specific, **present only in males (XY)**
+-   **600 bp band**: Non-sex-linked control, **present in all fish (XX and XY)**
+
+**Interpretation**:
+-   **Male (XY)**: Two bands visible (371 bp bright, 600 bp dim)
+-   **Female (XX)**: One band visible (600 bp only)
+-   **Failed PCR**: No bands visible
+
+The 600 bp control band helps distinguish a female genotype from a failed PCR reaction. Because of amplification efficiency differences, the 600 bp band will usually be significantly dimmer than the 371 bp band in males.
 :::
 
 ![Illustration of gel with female and male specific banding patterns](../images/Sex_determ_gel_stickle.png)
 
-## Background and associated papers
+## Quality Control
+
+::: {.callout-note title="Controls"}
+-   **Positive control (male)**: Include a known male sample
+-   **Positive control (female)**: Include a known female sample
+-   **Negative control**: Include a no-template control (water instead of DNA)
+:::
+
+## Related Protocols
+
+-   DNA extraction protocols
+-   Fin clipping for DNA: @sec-vert_exp-fin_clipping
+-   Stickleback crossing: @sec-husbandry_stickleback_crossing
+
+## Troubleshooting
+
+::: {.callout-warning title="Common Issues"}
+-   **No bands in any samples**: Check PCR reagents, verify thermocycler program, check DNA quality.
+-   **No 371 bp band in known male**: Primers may have degraded; check primer stocks.
+-   **Weak 600 bp band**: Normal - this band is typically dimmer; if too weak, increase DNA template amount.
+-   **Non-specific bands**: Verify primer sequences, check for contamination, optimize annealing temperature.
+:::
+
+## Background and Associated Papers

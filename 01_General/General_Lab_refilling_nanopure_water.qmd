@@ -2,40 +2,125 @@
 
 ## Introduction
 
--   **Purpose**: This procedure describes how to refill the 20L Nalgene jug with nanopure water.
--   **Procedure Type**: General Lab
+-   **Purpose**: This procedure describes how to refill the 20L Nalgene carboy with nanopure water for laboratory use.
+-   **Procedure Type**: General Lab Maintenance
 -   **Author**: Micah Woods
 -   **Date Created**: March 11, 2024
 
+::: {.callout-note title="Note"}
+Nanopure water (ultrapure water) is required for many molecular biology procedures to prevent contamination. The lab maintains a 20L carboy for convenient access to this water.
+:::
+
 ## Materials
 
--   20L Nalgene Jug
--   Barnstead NANOpure infinity machine
+-   20L Nalgene carboy (polycarbonate or HDPE)
+-   Barnstead NANOpure Infinity ultrapure water system (located in PAC 314)
+-   Cart or dolly for transporting heavy carboy (optional)
 
-## Solutions
+## Water Quality
 
--   xxx
--   xxx
--   xxx
+-   Nanopure water specifications:
+    -   Resistivity: 18.2 MΩ·cm at 25°C
+    -   TOC (Total Organic Carbon): < 5 ppb
+    -   Type I ultrapure water quality
+
+## Safety Precautions
+
+::: {.callout-warning title="Warning - Heavy Object"}
+**Lifting Safety**:
+- The 20L carboy when full weighs approximately 20 kg (44 lbs)
+- Use proper lifting technique to avoid back injury
+- Use a cart or dolly for transport if available
+- Get assistance if needed - do not attempt to lift alone if uncomfortable
+- Ensure the cap is tightly secured before moving to prevent spills
+
+See @sec-general-lab_safety for complete laboratory safety guidelines.
+:::
 
 ## Procedure
 
-1.  Take 20L Carboy to Pac 314.
+### Transporting the Carboy
 
-2.  Using the Barnstead NANOpure infinity machine, turn the top dial to "On."
+1.  Check if the 20L carboy is empty or nearly empty.
 
-3.  Press "Standby" and then press "Start/Stop" button.
+2.  If there is water remaining, empty it or use it before refilling.
 
-4.  Ensure that the water is continually running into the Nalgene, and wait approximately 20 minutes for it to fill with water.
+3.  Transport the empty 20L carboy to room PAC 314 where the Barnstead NANOpure Infinity machine is located.
 
-5.  When Nalgene is full, press "Start/Stop" button.
+    ::: {.callout-tip title="Tip"}
+    Use a cart or dolly for easier transport of the carboy.
+    :::
 
-6.  Push "Standby" button."
+### Operating the NANOpure Machine
 
-7.  Turn top dial to "Off."
+4.  Position the carboy under the dispensing nozzle of the NANOpure Infinity machine.
 
-## Associated Papers
+5.  Remove the cap from the carboy.
 
--   xxx
--   xxx
--   xxx
+6.  Turn the top dial on the NANOpure machine to "On."
+
+7.  Press the "Standby" button to activate the system.
+
+8.  Press the "Start/Stop" button to begin dispensing water.
+
+    ::: {.callout-note title="Note"}
+    Check the display to ensure water quality is within acceptable limits (resistivity should be 18.2 MΩ·cm). If not, contact lab staff before using the water.
+    :::
+
+9.  Monitor to ensure that water is flowing continuously into the carboy.
+
+10. Wait approximately 20 minutes for the carboy to fill completely.
+
+    ::: {.callout-important title="Important"}
+    Do not leave the machine unattended for extended periods. Check periodically to prevent overflow.
+    :::
+
+### Shutting Down the Machine
+
+11. When the carboy is full (filled to the shoulder, not to the very top), press the "Start/Stop" button to stop water flow.
+
+12. Press the "Standby" button to return the system to standby mode.
+
+13. Turn the top dial to "Off."
+
+14. Replace the cap on the filled carboy and tighten securely.
+
+### Returning to the Lab
+
+15. Carefully transport the filled carboy back to the laboratory.
+
+    ::: {.callout-warning title="Warning"}
+    The filled carboy is heavy (approximately 20 kg). Use proper lifting technique and/or a cart.
+    :::
+
+16. Store the carboy in the designated location in the lab.
+
+17. Label the carboy with the date filled if not already labeled.
+
+## Troubleshooting
+
+::: {.callout-tip title="Tip - Common Issues"}
+**If water quality is poor** (resistivity below 18.2 MΩ·cm):
+- Check if filters or purification cartridges need replacement
+- Contact lab manager or EHS
+
+**If machine does not dispense**:
+- Check that machine is properly turned on
+- Check water supply connection
+- Contact lab manager if issue persists
+:::
+
+## Maintenance Notes
+
+-   The NANOpure system is maintained by facility staff
+-   Report any issues with water quality or machine function to the lab manager
+-   Check water quality reading on display before filling
+
+## Related Protocols
+
+-   @sec-general-lab_safety - Cresko Lab Safety Highlights
+
+## Additional Resources
+
+-   Barnstead NANOpure Infinity User Manual (contact lab manager for access)
+-   Water quality standards for molecular biology applications

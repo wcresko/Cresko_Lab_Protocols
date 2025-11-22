@@ -2,46 +2,131 @@
 
 ## Introduction
 
--   **Purpose**: Protocols for treating threespine stickleback with salinities that mimic natural freshwater, brackish and oceanic conditions.
+-   **Purpose**: Protocols for treating threespine stickleback with salinities that mimic natural freshwater, brackish, and oceanic conditions to study osmoregulatory adaptation and gene expression.
 -   **Procedure Type**: Vert Experiment
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
--   **Author**: xxx
--   **Date Created**: xxx
+-   **Author**: Cresko Laboratory
+-   **Date Created**: January 01, 2024
+
+::: {.callout-important title="IACUC Protocol Required"}
+This procedure requires an active IACUC protocol covering salinity treatments and environmental manipulations. Ensure all personnel are properly trained in fish husbandry and water quality management.
+:::
 
 ## Materials
 
--   Glass containers of fish water of varying salinity ranging from 2 - 32 ppt
--   Glass 4L fish containers (not plastic due to endocrine disruptive properties)
+-   Glass containers of fish water of varying salinity ranging from 2-32 ppt
+-   Glass 4 L fish containers (use glass, not plastic, due to potential endocrine-disrupting properties of some plastics)
+-   Instant Ocean sea salt mix
+-   Nanopure or distilled water
+-   Water quality test kits (ammonia, nitrite, pH, salinity refractometer)
+-   Artemia (brine shrimp) for feeding
+-   Thermometer
 
 ## Solutions
 
--   MS-222 Anesthesia solution {#sec-sb_adult_anesthisia}
--   MS-222 Euthanasia solution {#sec-husb-adutl_sb_euthanasia}
+### Anesthesia and Euthanasia
 
-::: {.callout-notes title="NOTES"}
-Different concentrations of Instant Ocean will be used.
+-   MS-222 Anesthesia solution - see @sec-sb_adult_anesthisia
+-   MS-222 Euthanasia solution - see @sec-husb-adutl_sb_euthanasia
+
+### Salinity Solutions
+
+::: {.callout-note title="Instant Ocean Concentrations"}
+Different concentrations of Instant Ocean sea salt mix will be used to create three salinity environments that mimic natural conditions where threespine stickleback are found.
 :::
 
--   Instant Ocean saltwater mix at concentrations of:
--   2 ppt "Freshwater" environment (40g Instant Ocean/ 20L Nanopure H20)
--   15 ppt "Brackish" environment (300g Instant Ocean/ 20L Nanopure H20)
--   30 ppt "Ocean" environment (600g Instant Ocean/ 20L Nanopure H20)
+**Instant Ocean saltwater mix at the following concentrations:**
+
+-   **2 ppt "Freshwater" environment**: 40 g Instant Ocean per 20 L Nanopure H~2~O
+-   **15 ppt "Brackish" environment**: 300 g Instant Ocean per 20 L Nanopure H~2~O
+-   **30 ppt "Ocean/Seawater" environment**: 600 g Instant Ocean per 20 L Nanopure H~2~O
 
 ## Procedure
 
-1.  Follow stickleback crossing and rearing SOP {#sec-husbandry_stickleback_crossing} to generate 100-200 fertilized embryos.
-2.  Raise fish in incubator until hatching as in {#sec-vert_husbandry_incubator_use}.
-3.  At hatching move 20 larval fish to a 10.5 L static tank containing the appropriate salinity water as listed above.
-4.  On 9 dpf feed enough artemia so that it is consumed by the juveniles within 15-30 minutes.
-5.  Feed and change water every other day. Check on fish at least twice EVERY DAY, and use the care checklist to denote daily health check, feeding, and water change. Look for sick or stressed fish (low rate of opercular fluttering, bad color, floating upside down, etc.) 6. Check water quality on two random tanks in each treatment once every two days before water has been changed. If ammonia and/or nitrite are detected then change water more frequently, check water quality daily, and denote this on checklist. Ideal ammonia and nitrite levels are 0 ppm.
-6.  At designated time of interest up to 40 days post-fertilization euthanize fish with MS222.
-7.  Fix appropriately in liquid nitrogen, 4%PFA, or Bouin’s.
+### Embryo Collection and Initial Rearing
 
-::: {.callout-notes title="Anesthesia, N2 freezing, and fixation in RNAlater"}
-1.  Anesthetize using above concentration of MS-222 and allow fish to lay motionless with only slight opercle movement. This should take approximatley 10 minutes.
-2.  Place fish in liquid N2 for 2 minutes. This instantaneously freezes the fish.
-3.  Thaw into RNAlater-ICE.
+1.  **Generate embryos**: Follow stickleback crossing and rearing SOP (see @sec-husbandry_stickleback_crossing) to generate 100-200 fertilized embryos.
 
-Note: If downstream application requires instantaneous, non stressed measurement of gene transcription, remove fish from water, rapidly blot, and sacrifice directly into liquid nitrogen or RNAlater.
+2.  **Incubate embryos**: Raise fish in incubator until hatching as described in @sec-vert_husbandry_incubator_use.
+
+### Salinity Treatment
+
+3.  **Assign to salinity treatments**: At hatching, move 20 larval fish to each 10.5 L static tank containing the appropriate salinity water (2, 15, or 30 ppt) as prepared above.
+    -   Replicate tanks: Set up at least 3 replicate tanks per salinity treatment.
+    -   Acclimation: Fish hatched in freshwater can be directly transferred to treatment salinities.
+
+4.  **Initial feeding**: On 9 dpf, begin feeding with freshly hatched artemia (brine shrimp).
+    -   Feed enough so that artemia are consumed within 15-30 minutes.
+
+5.  **Daily maintenance**:
+    -   Feed and change water every other day.
+    -   Check on fish at least twice EVERY DAY.
+    -   Use the care checklist to record:
+        -   Daily health checks
+        -   Feeding
+        -   Water changes
+    -   Look for signs of sick or stressed fish:
+        -   Low rate of opercular (gill) fluttering
+        -   Abnormal coloration
+        -   Floating upside down or sideways
+        -   Lethargy or hyperactivity
+        -   Remove dead fish immediately
+
+6.  **Water quality monitoring**:
+    -   Check water quality on two random tanks in each treatment once every two days **before** water has been changed.
+    -   Test for: ammonia, nitrite, pH, salinity
+    -   **If ammonia and/or nitrite are detected**: change water more frequently, check water quality daily, and denote this on checklist.
+    -   **Ideal levels**: Ammonia and nitrite should be 0 ppm.
+
+### Sample Collection
+
+7.  **Endpoint**: At designated time of interest (up to 40 days post-fertilization), euthanize fish with MS-222.
+
+8.  **Tissue fixation**: Fix appropriately based on downstream application:
+    -   **For RNA**: Liquid nitrogen or RNAlater
+    -   **For immunohistochemistry**: 4% PFA
+    -   **For histology**: Bouin's fixative
+
+::: {.callout-note title="Anesthesia, N2 Freezing, and Fixation in RNAlater"}
+**For RNA preservation**:
+
+1.  Anesthetize using appropriate concentration of MS-222 and allow fish to lay motionless with only slight opercle movement. This should take approximately 10 minutes.
+
+2.  Place fish in liquid N~2~ for 2 minutes. This instantaneously freezes the fish.
+
+3.  Transfer frozen fish to RNAlater-ICE and thaw.
+
+**Alternative for stress-sensitive applications**: If downstream application requires instantaneous, non-stressed measurement of gene transcription, remove fish from water, rapidly blot, and sacrifice directly into liquid nitrogen or RNAlater without anesthesia.
 :::
+
+## Data Collection
+
+::: {.callout-tip title="Recommended Measurements"}
+-   Growth (length and weight)
+-   Survival rates across treatments
+-   Gene expression (osmoregulatory genes, stress markers)
+-   Morphological measurements (gill surface area, kidney structure)
+-   Behavior (activity levels, feeding rates)
+:::
+
+## Related Protocols
+
+-   Stickleback crossing: @sec-husbandry_stickleback_crossing
+-   Incubator use: @sec-vert_husbandry_incubator_use
+-   Anesthesia: @sec-sb_adult_anesthisia
+-   Euthanasia: @sec-husb-adutl_sb_euthanasia
+
+## Troubleshooting
+
+::: {.callout-warning title="Common Issues"}
+-   **High mortality in high salinity**: May indicate rapid transition; consider gradual acclimation.
+-   **Poor water quality**: Increase water change frequency; reduce feeding amounts.
+-   **Variable growth**: Ensure consistent feeding and water quality across all tanks.
+-   **Salinity drift**: Monitor salinity regularly, especially after water changes; evaporation increases salinity.
+:::
+
+## Associated Papers
+
+-   Papers on stickleback osmoregulation and salinity adaptation
+-   Studies on freshwater-marine transitions in threespine stickleback

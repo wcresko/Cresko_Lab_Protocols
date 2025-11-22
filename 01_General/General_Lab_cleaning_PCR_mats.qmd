@@ -2,30 +2,68 @@
 
 ## Introduction
 
--   **Purpose**: This procedure describes how to clean PCR mats.
--   **Procedure Type**: General Lab
+-   **Purpose**: This procedure describes how to clean and decontaminate PCR mats for reuse.
+-   **Procedure Type**: General Lab Maintenance
 -   **Author**: N. Earp
--   **Date Created**:
+-   **Date Created**: 2024
 
 ## Materials
 
--   PCR mats to clean
+-   Used PCR mats
+-   Container or tray for soaking
+-   Nitrile gloves
+-   Lab coat
+-   Safety glasses
 
 ## Solutions
 
--   5% bleach solution
+-   5% bleach solution (diluted from stock bleach)
 -   Tap water
--   DI water
+-   DI water (deionized water)
+
+## Safety Precautions
+
+::: {.callout-warning title="Warning - Chemical Hazard"}
+**Bleach Safety**:
+- Wear nitrile gloves, lab coat, and safety glasses when working with bleach solutions
+- Work in a well-ventilated area
+- Never mix bleach with acids or ammonia-containing products
+- Rinse skin immediately if contact occurs
+
+See @sec-general-lab_safety for complete laboratory safety guidelines.
+:::
 
 ## Procedure
 
-1.  Cover used PCR mats in 5% bleach solution.
-2.  Let sit in 5% bleach solution for 15 minutes.
-3.  Rinse PCR mats with tap water, then DI water.
-4.  Lay PCR mats to dry.
+1.  Put on appropriate PPE (gloves, lab coat, safety glasses).
 
-## Associated Papers
+2.  Place used PCR mats in a container or tray.
 
--   xxx
--   xxx
--   xxx
+3.  Cover PCR mats completely with 5% bleach solution.
+
+    ::: {.callout-note title="Note"}
+    Ensure all surfaces of the mats are submerged in the bleach solution for effective decontamination.
+    :::
+
+4.  Let sit in 5% bleach solution for 15 minutes to decontaminate.
+
+5.  Rinse PCR mats thoroughly with tap water to remove bleach residue.
+
+6.  Rinse PCR mats with DI water for a final rinse.
+
+7.  Lay PCR mats flat on clean paper towels or a drying rack to air dry completely.
+
+8.  Once dry, store cleaned PCR mats in a clean, designated location.
+
+## Waste Disposal
+
+-   Dispose of bleach solution down the sink with running water
+-   Discard disposable gloves in regular trash
+-   For hazardous waste disposal guidelines, see @sec-general-hazard_waste
+
+## Related Protocols
+
+-   @sec-general-lab_safety - Cresko Lab Safety Highlights
+-   @sec-general-cleaning_pestles - Cleaning Pestles
+-   @sec-general-clean_load_boats - Cleaning Loading Boats
+-   @sec-general-hazard_waste - Disposing of Hazardous Waste

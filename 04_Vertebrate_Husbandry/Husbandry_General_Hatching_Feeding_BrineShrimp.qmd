@@ -9,43 +9,62 @@
     -   Gulf pipefish (*Syngnathus scovelli*)
 -   **Author**: Mark Currey
 -   **Date Created**: May 6, 2008; updated February 5, 2024 Mark Currey
+-   **IACUC Protocol**: Covered under facility maintenance procedures
 
 ## Materials
 
--   Brine Shrimp
+-   Brine Shrimp (de-capsulated or regular)
 -   Rock Salt
 -   105 μm mesh shrimp collector
 -   Baking Soda
 -   Squirt Bottle
+-   Hatching cone with air supply
+-   Heater set at 80°F
+-   Light source
+-   DI water
 
 ## Solutions
 
--   Selcon
+-   Selcon (brine shrimp supplement)
 
 ## Procedure
 
-1.  Remove air bubbler, place a light at the bottom of the cone, and allow the shrimp to collect at the bottom\
-2.  Collect Brine Shrimp by draining the brine through the two system brine shrimp collector.
+### Hatching and Collecting Brine Shrimp
 
-::: {.callout-note title="NOTES"}
-a.  Only collect the bottom portion of the cone (only the orange 4-5 inches)
-b.  It will take awhile for the brine shrimp to separate from the cysts. The brine shrimp colletion system can be placed on a stand while water is run through it from the sink.
-c.  Do not use the spary nozzle to force the brine shrimp through net 1 as it will destroy the shrimp.
+1.  **Separate brine shrimp from cysts**: Remove air bubbler, place a light at the bottom of the cone, and allow the shrimp to collect at the bottom.
+
+2.  **Collect Brine Shrimp**: Drain the brine through the two system brine shrimp collector.
+
+::: {.callout-note title="Notes"}
+-   Only collect the bottom portion of the cone (only the orange 4-5 inches)
+-   It will take awhile for the brine shrimp to separate from the cysts. The brine shrimp collection system can be placed on a stand while water is run through it from the sink
+-   Do not use the spray nozzle to force the brine shrimp through net 1 as it will destroy the shrimp
 :::
 
-3.  Reset Brine Cone: Fill cone with DI water to 10 L. Put airline and heater (set at 80°F) into cone. Add **300 ml of rock salt**, **1 scoop (5 ml) of baking soda**, and **1 ml of Selcon**. Obtain brine shrimp from refrigerator. Measure out **30 ml of dry brine cysts** and add it to the cone.
+### Reset Brine Cone
 
-    ::: {.callout-note title="NOTE"}
-    The amount of brine shrimp needed will vary depending on the number of juvenile fish that need to be fed. If there is a need for more brine shrimp add more brine shrimp cysts to cone and leave a note for the next person. Increase the amount in 30 ml increments.
-    :::
+3.  **Fill and prepare cone**: Fill cone with DI water to 10 L. Put airline and heater (set at 80°F) into cone.
 
-4.  If enriching with a High-Carotenoid Marine Algae see Brine Shrimp Enrichment SOP.
+4.  **Add salt and supplements**: Add **300 ml of rock salt**, **1 scoop (5 ml) of baking soda**, and **1 ml of Selcon**.
 
-5.  Wait 24 hours and repeat.
+5.  **Add brine shrimp cysts**: Obtain brine shrimp from refrigerator. Measure out **30 ml of dry brine cysts** and add it to the cone.
+
+::: {.callout-note title="Note"}
+The amount of brine shrimp needed will vary depending on the number of juvenile fish that need to be fed. If there is a need for more brine shrimp add more brine shrimp cysts to cone and leave a note for the next person. Increase the amount in 30 ml increments.
+:::
+
+6.  **Enriching with algae (optional)**: If enriching with a High-Carotenoid Marine Algae see @sec-husbandry-enrich_brineshrimp.
+
+7.  **Wait and repeat**: Wait 24 hours and repeat collection process.
+
+## Related Protocols
+
+-   See @sec-husbandry-enrich_brineshrimp for brine shrimp enrichment
+-   See @sec-husbandry-brineshrimp_decap for brine shrimp decapsulation
+-   See @sec-husbandry-weekday_feeding for weekday feeding procedures
+-   See @sec-husbandry-weekend_feeding for weekend feeding procedures
+-   See @sec-husbandry-foodstorage_sources for food storage information
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   None

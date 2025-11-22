@@ -31,13 +31,16 @@
 -   If sick/dead fish are found:
     1.  If sick - make a note on the tank and contact supervisor.
 
-::: {.callout-important title="This is a callout IMPORTANT"}
+::: {.callout-important title="Important"}
 **If there are more than 3 sick or dead fish in any one tank please contact Mark Currey 541-505-0006 or Bill Cresko 541-285-5446 immediately.**
 :::
 
-## Associated Papers
+::: {.callout-note title="IACUC Protocol"}
+This procedure is covered under the University of Oregon IACUC protocol for fish husbandry. Always follow approved protocols for animal welfare.
+:::
 
--   xxx
--   xxx
--   xxx
--   xxx
+## Related Protocols
+
+-   @sec-husbandry-weekend_feeding - Weekend feeding and health checks
+-   @sec-husbandry_facility_cleaning - Facility cleaning and disinfection
+-   @sec-husbandry_adult_syng_euth - Adult pipefish euthanasia

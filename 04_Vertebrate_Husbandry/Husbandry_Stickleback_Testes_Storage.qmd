@@ -8,33 +8,58 @@
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
 -   **Author**: Mark Currey
 -   **Date Created**: May 6, 2008; updated January 15, 2015 by Mark Currey
+-   **IACUC Protocol**: Covered under breeding and crossing procedures
+
+::: {.callout-note title="Note"}
+Both Gentamycin and cell culture anti-biotic/mycotic reagents are located in separate boxes in the scientific -20°C freezer. They are partitioned into 100μl aliquots.
+:::
 
 ## Materials
 
 -   15 ml falcon tube
 -   4°C refrigerator
--   Gentamycin (antimycotic) (Stock - 10mg/ml)\*
--   Cell Culture anti-biotic/mycotic from Gibco-BRL (15240-096) 100x Concentration\*
-
-::: {.callout-warning title="NOTES"}
-\*Both of these reagents are located in separate boxes in the scientific -20° C freezer. They are partitioned into 100μl aliquots.
-:::
+-   Gentamycin (antimycotic) (Stock - 10mg/ml)
+-   Cell Culture anti-biotic/mycotic from Gibco-BRL (15240-096) 100x Concentration
 
 ## Solutions
 
--   Ginzberg's Ringers {#sec-recipe_ginzbergs}
--   Testes solution {#sec-recipe_testes_solution}
+-   **Ginzberg's Ringers** - see @sec-recipe_ginzbergs for detailed recipe:
+    -   Mix solids into 750 ml of npH2O:
+        -   6.6g NaCl
+        -   0.25g KCl
+        -   0.3g CaCl~2~
+        -   0.2g NaHCO~3~
+    -   Bring to 1 liter total volume with npH~2~O
+    -   Store at 4°C
 
-**Ginzberg's Ringers** - Mix solids into 750 ml of npH2O - 6.6g NaCl - 0.25g KCl - 0.3g CaCl~2~ - 0.2g NaHCO~3~ - Bring to 1 liter total volume with npH~2~O. - Store at 4° C. **Testes solution** (100ml) - Add 100μl of Gentamycin and 100μl of Anti-biotic/mycotic to 100ml of Ginzburg's Ringers solution. Store at 4°C.
+-   **Testes solution** (100ml) - see @sec-recipe_testes_solution for detailed recipe:
+    -   Add 100μl of Gentamycin and 100μl of Anti-biotic/mycotic to 100ml of Ginzburg's Ringers solution
+    -   Store at 4°C
 
 ## Procedure
 
-1.  Make solutions
-2.  Dissect testes {#sec-husbandry_stickleback_cross}.
-3.  Place testes in 15 ml tube with \~10 ml of testes solution.
-4.  Label tube with stock number and date of testes dissection and place tube with testes in 4°C refrigerator.
-5.  Change testes solution once per week.
+1.  **Prepare solutions**: Make Ginzberg's Ringers and Testes solutions as described above.
 
-::: {.callout-warning title="NOTES"}
-Testes can be used up to \~1-2 months when stored this way.
+2.  **Dissect testes**: Follow procedures in @sec-husbandry_stickleback_crossing for testes dissection.
+
+3.  **Store in solution**: Place testes in 15 ml tube with ~10 ml of testes solution.
+
+4.  **Label tube**: Label tube with stock number and date of testes dissection.
+
+5.  **Refrigerate**: Place tube with testes in 4°C refrigerator.
+
+6.  **Change solution weekly**: Change testes solution once per week to maintain viability.
+
+::: {.callout-warning title="Notes"}
+Testes can be used up to ~1-2 months when stored this way. Sperm viability decreases over time, so use fresher testes when possible for optimal fertilization rates.
 :::
+
+## Related Protocols
+
+-   See @sec-husbandry_stickleback_crossing for stickleback crossing procedures
+-   See @sec-recipe_ginzbergs for Ginzberg's Ringers recipe
+-   See @sec-recipe_testes_solution for testes solution recipe
+
+## Associated Papers
+
+-   None

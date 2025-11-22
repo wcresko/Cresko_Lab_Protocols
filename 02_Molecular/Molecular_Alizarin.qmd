@@ -8,8 +8,30 @@
     -   Threespine stickleback, *Gasterosteus aculeatus*
     -   Gulf pipefish (*Syngnathus scovelli*)
     -   and others
--   **Author**:
--   **Date Created**:
+-   **Author**: Unknown
+-   **Date Created**: Unknown
+
+::: {.callout-warning title="Safety"}
+**Personal Protective Equipment (PPE):**
+
+- Lab coat
+- Safety glasses
+- Chemical-resistant gloves (nitrile or latex)
+
+**Chemical Safety:**
+
+- Alizarin red S is a dye; avoid skin and eye contact
+- KOH is caustic; handle with extreme care
+- Hydrogen peroxide is an oxidizer; handle carefully
+- Paraformaldehyde is toxic; see @sec-molecular-paraformaldehyde for PFA safety
+- Isopropanol is flammable; keep away from open flames
+- Work in a well-ventilated area or fume hood
+
+**Biological Safety:**
+
+- Use euthanasia protocols approved by your IACUC
+- Handle fixed specimens with care
+:::
 
 ## Materials:
 
@@ -28,8 +50,8 @@
     -   To make 100 mls: Add 500µl 0.5% alizarin red S (stock) to 99.5ml 1% KOH
     -   1 Liter: Add 5ml 0.5% alizarin red S (stock) to 9950ml (1 liter) 1%KOH
 -   **3% H202/0.5%KOH**: Mix and keep at 4C; Before using, bring to room temperature to hold down introducing bubbles under the skin: 0.5ml 6%H202 & 0.5ml 1%KOH.
--   **Euthanasia strength Mesab** {#sec-husb-adutl_sb_euthanasia}
--   **8% PFA**: {#sec-molec-para}
+-   Euthanasia strength MS-222 (see husbandry protocols for euthanasia)
+-   8% PFA (see @sec-molecular-paraformaldehyde)
 -   **2X PBS**
     -   1.6% NaCl
     -   0.04% KCl
@@ -70,10 +92,10 @@ This step produces a gas. Do not put lids on containers while bleaching.
 
 7.  Store in 50% Isopropanol.
 
-## Papers:
+## Related Protocols
 
-```         
--   xxx
--   xxx
--   xxx
-```
+- See @sec-molecular-paraformaldehyde for making paraformaldehyde solution
+
+## Associated Papers
+
+-   None listed

@@ -2,47 +2,94 @@
 
 ## Introduction
 
--   **Purpose**: This procedure describes how to clean loading boats.
+-   **Purpose**: This procedure describes how to clean and sterilize loading boats used in gel electrophoresis.
 
--   **Procedure Type**: General Lab Maintanence
+-   **Procedure Type**: General Lab Maintenance
 
--   **Species**:
+-   **Species**: N/A
 
 -   **Author**: Mark Currey
 
 -   **Date Created**: March 8, 2024
 
--   **Date Updated**: xxx
+-   **Date Updated**: 2024
 
-::: {.callout-warning title="NOTES"}
-xxxx
+::: {.callout-note title="Note"}
+Loading boats are used to hold DNA samples before loading into agarose gels. Regular cleaning and sterilization prevent cross-contamination between samples.
 :::
 
 ## Materials
 
--   Aluminum Foil
--   Autoclave Tape
+-   Used loading boats (approximately 2 in x 5 in)
+-   Aluminum foil
+-   Autoclave tape
+-   Autoclave (PAC 306D)
+-   Nitrile gloves (if using bleach solution)
 
 ## Solutions
 
--   xxx
--   xxx
--   xxx
+-   Tap water
+-   DI water (deionized water)
+-   10% bleach solution (optional, for heavily contaminated boats)
+
+## Safety Precautions
+
+::: {.callout-warning title="Warning - Heat Hazard"}
+**Autoclave Safety**:
+- Items removed from autoclave will be extremely hot
+- Allow items to cool completely before handling
+- Use heat-resistant gloves if items must be moved while warm
+- Follow autoclave operating procedures
+
+If using bleach solution for heavily soiled boats:
+- Wear nitrile gloves
+- Work in a well-ventilated area
+- See @sec-general-lab_safety for bleach safety guidelines
+:::
 
 ## Procedure
 
-1.  Rinse dirty loading boats with tap water and DI water and let dry
+### Cleaning Loading Boats
 
-::: {.callout-note title="NOTE"}
-If extremely dirty, you may rinse the loading boats in a 10% bleach solution
-:::
+1.  Rinse dirty loading boats thoroughly with tap water to remove gel debris and sample residue.
 
-2.  Cover the large (\~2 in x 5 in) boat with aluminum foil and use the autoclave tape to attach the foil to the loading boat.
-3.  Autoclave foil-wrapped loading boats using the 25-minute Gravity program
+2.  Rinse again with DI water for a final rinse.
 
-## Associated Papers
+    ::: {.callout-note title="Note"}
+    If loading boats are extremely dirty or contaminated, rinse them in a 10% bleach solution for 10 minutes before rinsing with tap water and DI water. Wear gloves when handling bleach.
+    :::
 
--   xxx
--   xxx
--   xxx
--   xxx
+3.  Allow loading boats to air dry completely on a clean surface or paper towel.
+
+### Sterilizing Loading Boats
+
+4.  Once dry, cover each large loading boat (approximately 2 in x 5 in) completely with aluminum foil.
+
+5.  Use autoclave tape to secure the foil to the loading boat, ensuring a tight seal.
+
+    ::: {.callout-tip title="Tip"}
+    Write the date on the autoclave tape for tracking when items were sterilized.
+    :::
+
+6.  Transport wrapped loading boats to the autoclave in room PAC 306D.
+
+7.  Autoclave foil-wrapped loading boats using the 25-minute Gravity program.
+
+    ::: {.callout-important title="Important"}
+    Allow loading boats to cool completely in the autoclave before removing. Hot items can cause burns.
+    :::
+
+8.  Once cooled, store autoclaved loading boats in a clean, dry location until needed.
+
+## Waste Disposal
+
+-   Dispose of heavily contaminated loading boats that cannot be cleaned in regular trash
+-   Recycle aluminum foil if not contaminated
+-   If bleach was used, dispose of solution down the sink with running water
+
+## Related Protocols
+
+-   @sec-general-lab_safety - Cresko Lab Safety Highlights
+-   @sec-general-cleaning_pestles - Cleaning Pestles (autoclave procedures)
+-   @sec-general-pipette_tips - Refilling Pipette Tips (autoclave procedures)
+-   @sec-general-PCRmats - Cleaning PCR Mats

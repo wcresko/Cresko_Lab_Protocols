@@ -2,7 +2,7 @@
 
 ## Introduction
 
--   **Purpose**: Recipe for making ginzberg's ringers solution\
+-   **Purpose**: Recipe for making Ginzberg's Ringer solution, a physiological saline solution for fish tissues
 -   **Procedure Type**: recipe
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
@@ -11,27 +11,61 @@
 
 ## Materials
 
--   NaCl
--   KCl
--   CaCl2
--   NaHCO3
--   npH2O
+-   NaCl (sodium chloride)
+-   KCl (potassium chloride)
+-   CaCl2 (calcium chloride)
+-   NaHCO3 (sodium bicarbonate)
+-   Nanopure water (npH2O)
+-   1 liter glass bottle or flask
+-   Analytical balance
+-   Weigh boats or paper
+-   Stir bar and stir plate
 
-::: {.callout-Note title="NOTE"}
+::: {.callout-note title="Note"}
 All of these reagents should be located in the chemical cabinet.
 :::
 
-## Solutions
+::: {.callout-caution title="Safety"}
+**PPE Required**: Lab coat, safety glasses, and gloves when handling chemicals.
 
--   none
+**Handling**: Calcium chloride is hygroscopic and can cause skin and eye irritation. Handle in well-ventilated area.
+:::
 
 ## Procedure
 
-For 1000 mls, mix: 1. Mix solids into 750 ml of npH2O - 6.6g NaCl - 0.25g KCl - 0.3g CaCl2 - 0.2g NaHCO3 2. Bring to 1 liter total volume with npH2O. 3. Store at 4° C.
+For 1000 ml:
 
-## Associated Papers
+1. Add 750 ml of npH2O to a clean 1 liter glass bottle
+2. Add the following reagents while stirring:
+   - 6.6 g NaCl
+   - 0.25 g KCl
+   - 0.3 g CaCl2
+   - 0.2 g NaHCO3
+3. Stir until all solids are completely dissolved
+4. Bring to 1 liter total volume with npH2O
+5. Mix thoroughly and transfer to labeled storage bottle
 
--   xxx
--   xxx
--   xxx
--   xxx
+## Storage
+
+-   **Temperature**: 4°C (refrigerator)
+-   **Duration**: Stable for 2-3 months when stored properly
+-   **Container**: Clean glass bottle with tight-sealing lid
+-   **Label**: Mark with "Ginzberg's Ringer Solution", date prepared, and storage temperature
+
+## Quality Control
+
+-   **Appearance**: Solution should be clear and colorless
+-   **pH**: Should be approximately 7.2-7.6
+-   **Verification**: Check for clarity before each use; discard if cloudy or contaminated
+-   **Sterility**: For long-term storage, solution can be filter-sterilized (0.22 μm) or autoclaved
+
+::: {.callout-tip title="Usage Notes"}
+- Allow solution to warm to room temperature or desired working temperature before use
+- Used for tissue dissection, sperm collection, and other physiological procedures
+- See @sec-recipe-testes_solution for modified version with antibiotics
+:::
+
+## Related Protocols
+
+-   Used in testes dissection and sperm collection procedures
+-   Base solution for @sec-recipe-testes_solution (Testes Storage Solution)

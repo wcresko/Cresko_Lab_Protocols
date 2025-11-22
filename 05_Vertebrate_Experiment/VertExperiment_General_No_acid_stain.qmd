@@ -1,9 +1,9 @@
-# Alcian and Alizarin double stain - No Acid No Pain Double Stain {#sec-vert_exp-doublestain}
+# Alcian and Alizarin Double Stain - No Acid Method {#sec-vert_exp-doublestain}
 
 ## Introduction
 
--   **Purpose**: Effectively stain fixed fish with Alician Blue and Alizarin Red
--   **Procedure Type**: Vertabrate Experiment
+-   **Purpose**: Effectively stain fixed fish with Alcian Blue and Alizarin Red using a non-acidic method that preserves DNA integrity.
+-   **Procedure Type**: Vertebrate Experiment
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
     -   Bay pipefish, (*Syngnathus leptorhyncus*)
@@ -11,35 +11,65 @@
     -   Zebrafish, (*Danio rerio*)
     -   and others
 -   **Author**: Macie B. Walker (Adapted by Mark Currey 7/9/13)
--   **Date Created**:
+-   **Date Created**: July 9, 2013
 
-::: {.callout-warning title="NOTES"}
-xxxx
+::: {.callout-important title="IACUC Protocol Required"}
+This procedure requires an active IACUC protocol covering tissue fixation and staining. Ensure specimens are properly euthanized before fixation.
 :::
 
-## Purpose: {#purpose .head}
+::: {.callout-warning title="Chemical Safety"}
+-   Wear appropriate PPE (lab coat, gloves, safety glasses) when handling fixatives and stains.
+-   Paraformaldehyde (PFA) is a potential carcinogen - handle with care in a fume hood.
+-   Hydrogen peroxide can cause burns - handle with care.
+-   Potassium hydroxide (KOH) is corrosive - avoid skin contact.
+-   Follow proper chemical waste disposal procedures.
+:::
 
-Alcian blue is a basic dye which stains acidic mucopolysaccharides. Traditionally alcian staining has utilized acidic conditions to stain cartilage. As acidic conditions negatively affect bone staining, simultaneous cartilage and bone staining is problematic. Also since acid conditions destroy DNA, embryos to be alcian stained by the acid method & also prepped for DNA have to be dissected into heads for alcians and tails for DNA. This process is laborious. The protocols below use MgCl2 rather than acid to differentiate staining. They have been tested on zebrafish embryos 4-6 dpf and on young adult zebrafish, 6 months old. For zebrafish embryos 4-6 dpf, up to 100 embryos can be stained in a 1.5ml tube, using 1ml of stain/washes per tube. For young adult zebrafish, use 8X volume of stain/washes per volume of fish (roughly 40 ml solution/ 20 fish). All steps are at room temperature, with rocking unless otherwise noted.
+## Background and Purpose
 
-### Bone stain is sensitive to changes in protocol: {#bone-stain-is-sensitive-to-changes-in-protocol .subhead2}
+Alcian blue is a basic dye which stains acidic mucopolysaccharides. Traditionally alcian staining has utilized acidic conditions to stain cartilage. As acidic conditions negatively affect bone staining, simultaneous cartilage and bone staining is problematic. Also, since acid conditions destroy DNA, embryos to be alcian stained by the acid method AND also prepped for DNA have to be dissected into heads for alcian and tails for DNA. This process is laborious.
 
-It is easy to reduce/lose bone stain. Reduction of bone stain is apparent when certain regions of the bone do not stain well. It is common to have OP staining reduced in skirt region, Mx & den staining reduced or gone. Staining tends to remain in denser regions such as CB5. Overfixation, even by just a few hrs can reduce bone staining. Staining embryos in alizarin overnight vs 30min can reduce bone stain. (Longer is not necessarily better). Bleaching can reduce bone stain, especially if it is not washed out well, which tends to happen if a lot of embryos are stained in one tube. Trypsinizing embryos, even just a little bit, can dramatically reduce bone stain. Detergent (Tween at 0.05%) can also wipe out the bone stain. So, caution: maybe first follow protocol as is, and then make changes to suit your needs.
+**The protocols below use MgCl~2~ rather than acid to differentiate staining**, preserving DNA integrity while allowing simultaneous cartilage and bone visualization.
 
-### DNA preps: {#dna-preps .subhead2}
+::: {.callout-note title="Scale and Volumes"}
+-   **Zebrafish embryos (4-6 dpf)**: Up to 100 embryos can be stained in a 1.5 ml tube, using 1 ml of stain/washes per tube.
+-   **Young adult zebrafish (6 months old)**: Use 8X volume of stain/washes per volume of fish (roughly 40 ml solution per 20 fish).
+-   **All steps are at room temperature with rocking unless otherwise noted.**
+:::
 
-Rinse out 50% glycerol/0.1%KOH with 2X quick rinses in low TE plus squirt of PBSTw. Sort embryos into 96 well plate, remove excess liquid, and lyse under standard conditions. The tween in PBSTw will help prevent the embryos from getting sticky, but will also remove the bone stain.
+### Important Considerations
 
-### Cartilage only stain: {#cartilage-only-stain .subhead2}
+::: {.callout-warning title="Bone Stain Sensitivity"}
+Bone staining is sensitive to protocol changes. It is easy to reduce or lose bone stain.
 
-Longer fixes, even 4%PFA overnight, are fine. Cellular detail, including muscles, ligaments, and cartilage nuclei are quite good under normarski.
+**Common issues**:
+-   Reduction of bone stain is apparent when certain regions do not stain well (e.g., OP staining reduced in skirt region, Mx & den staining reduced or gone).
+-   Staining tends to remain in denser regions such as CB5.
 
-### Bone only stain: {#bone-only-stain .subhead2}
+**Factors that reduce bone staining**:
+-   **Overfixation** (even by just a few hours)
+-   **Extended alizarin staining** (overnight vs. 30 min - longer is not necessarily better)
+-   **Incomplete bleach removal** (especially when many embryos are stained in one tube)
+-   **Trypsinization** (even minimal amounts can dramatically reduce bone stain)
+-   **Detergents** (Tween at 0.05% can wipe out bone stain)
 
-PFA fixed embryos have decreased bone fluorescence. For better bone fluorescence, fix & stain in 95% ethanol/0.01% alizarin overnight (one step). Do not use MgCl~2~ in washes, and extend washes to 10 mins. Embryos will be soft due to light fix.
+**Recommendation**: Follow protocol as written initially, then make adjustments as needed for your specific application.
+:::
 
-For a brief discussion of stain theory describing use of pH and salt to control staining see the web page: <http://stainsfile.info/StainsFile/jindex.html>
+### Protocol Variations
 
-------------------------------------------------------------------------
+**For DNA preparations after staining**:
+Rinse out 50% glycerol/0.1% KOH with 2X quick rinses in low TE plus a squirt of PBSTw. Sort embryos into 96-well plate, remove excess liquid, and lyse under standard conditions. The Tween in PBSTw will help prevent the embryos from getting sticky, but will also remove the bone stain.
+
+**For cartilage-only staining**:
+Longer fixes, even 4% PFA overnight, are fine. Cellular detail, including muscles, ligaments, and cartilage nuclei are quite good under Nomarski optics.
+
+**For bone-only staining**:
+PFA-fixed embryos have decreased bone fluorescence. For better bone fluorescence, fix and stain in 95% ethanol/0.01% alizarin overnight (one step). Do not use MgCl~2~ in washes, and extend washes to 10 minutes. Embryos will be soft due to light fixation.
+
+::: {.callout-note title="Staining Theory"}
+For a brief discussion of stain theory describing use of pH and salt to control staining, see: <http://stainsfile.info/StainsFile/jindex.html>
+:::
 
 ## Materials
 
@@ -59,10 +89,10 @@ For a brief discussion of stain theory describing use of pH and salt to control 
     -   650ul water
     -   100mM Tris pH 7.5/10mM MgCl~2~
 
--   **0.2% alcian blue/90%ETOH**
+-   **0.2% alcian blue/90% ETOH**
 
-::: {.callout-Note title="NOTES"}
-Alcian blue will not readily dissolve in 90%ETOH. To make 100 mls add 0.2g alcian blue 8GX powder to 11.2ml 50%ETOH. Warm and occasionally swirl. When all is dissolved add 95% ETOH to 100 ml. Check clarity of solution under a microcope to make sure there are no precipitates.
+::: {.callout-note title="Preparation Note"}
+Alcian blue will not readily dissolve in 90% ETOH. To make 100 ml: add 0.2 g alcian blue 8GX powder to 11.2 ml 50% ETOH. Warm and occasionally swirl. When all is dissolved, add 95% ETOH to 100 ml. Check clarity of solution under a microscope to make sure there are no precipitates.
 :::
 
 -   **0.04% Alcian/10mM MgCl2 Stain pH 7.5** *Final concentrations:*
@@ -80,70 +110,77 @@ Alcian blue will not readily dissolve in 90%ETOH. To make 100 mls add 0.2g alcia
     -   32.6ml 95% ETOH
     -   1.9ml water
 
-**For Ethanol rehydrations** *To make 50 mls of each:*
+**For Ethanol rehydrations** (To make 50 ml of each):
 
-```         
-   **80% ETOH/10mM MgCl~2~**
-  -   42.1ml 95% ETOH
-  -   5ml 1M Tris pH 7.5
-  -   0.5ml 1M MgCl~2~
-  -   2.4ml water
-  
-  **50% ETOH:**
-  -   26.3ml 95% ETOH
-  -   5ml 1M Tris pH 7.5
-  -   18.7ml water
-  
-  **25% ETOH:**
-  -   13.2ml 95% ETOH
-  -   5ml 1M Tris pH 7.5
-  -   31.8ml water
-```
+-   **80% ETOH/10 mM MgCl~2~**:
+    -   42.1 ml 95% ETOH
+    -   5 ml 1M Tris pH 7.5
+    -   0.5 ml 1M MgCl~2~
+    -   2.4 ml water
 
--   \*\*0.5% alizarin red S\*
+-   **50% ETOH**:
+    -   26.3 ml 95% ETOH
+    -   5 ml 1M Tris pH 7.5
+    -   18.7 ml water
 
-    ```         
-    *To make 50 mls, add:*
-    - 0.25g alizarin red S powder 
-    - 50 ml water.
-    ```
+-   **25% ETOH**:
+    -   13.2 ml 95% ETOH
+    -   5 ml 1M Tris pH 7.5
+    -   31.8 ml water
 
--   *3% H~2~0~2~/0.5% KOH:*
+-   **0.5% alizarin red S** (To make 50 ml):
+    -   0.25 g alizarin red S powder
+    -   50 ml water
 
-    ```         
-    - Mix just before using: 0.5ml 6% H~2~0~2~ & 0.5ml 1% KOH (or adjust to desired final volume)
-    ```
+-   **3% H~2~O~2~/0.5% KOH** (Mix just before using):
+    -   0.5 ml 6% H~2~O~2~
+    -   0.5 ml 1% KOH
+    -   (or adjust to desired final volume)
 
--   *50% Isopropanol* *To make 50 mls, add:* - 25 ml H20 - 25 ml Isopropanol.
+-   **50% Isopropanol** (To make 50 ml):
+    -   25 ml H~2~O
+    -   25 ml Isopropanol
 
 ## Procedure
 
-```         
-  1.    Fix 2% PFA/1XPBS 1 hr.
-  
-```
+1.  **Fixation**: Fix in 2% PFA/1X PBS for 1 hour.
 
-::: {.callout-Note title="NOTES"}
-Fixing times can vary depending on the size of the specimen. We have found that for 5-10 mm stickleback and pipefish a fix of 2-3 hours is sufficient.
+::: {.callout-note title="Fixation Time Optimization"}
+Fixing times can vary depending on the size of the specimen. For 5-10 mm stickleback and pipefish, a fix of 2-3 hours is sufficient. **Do not overfix** as this can reduce bone staining quality.
 :::
 
-```         
-  2.    Rinse 50% ETOH/water 10 mins.
-  3.    Double stain: Add 0.04% Alcian Blue/ 0.01% Alizarin Red S/10mM MgCl2/80% ETOH. Add Alizarin Red just before use. (add 20ul 0.5% alizarin red / 1ml of 0.04% alcian)
-```
+2.  **Rehydration**: Rinse in 50% ETOH/water for 10 minutes.
 
-::: {.callout-Note title="NOTES"}
-With very small specimens it’s very easy to over stain. Check amount of staining every 30 minutes until the desired level of staining has been achieved. Important: Store stock as 0.04% Alcian Blue/10mM MgCl2/80% ETOH.
+3.  **Double staining**: Add 0.04% Alcian Blue/0.01% Alizarin Red S/10 mM MgCl~2~/80% ETOH.
+    -   Add Alizarin Red just before use (add 20 μl 0.5% alizarin red per 1 ml of 0.04% alcian stock).
+
+::: {.callout-warning title="Staining Time"}
+With very small specimens it's very easy to overstain. Check amount of staining every 30 minutes until the desired level of staining has been achieved.
+
+**Important**: Store stock as 0.04% Alcian Blue/10 mM MgCl~2~/80% ETOH (without alizarin red). Add alizarin fresh for each use.
 :::
 
-```         
-  4.    Rinse 80% ETOH/10mM MgCl2/water 10 mins to overnight.  Cleaner Alcian background with longer rinses.
-  5.    Rinse 50% ETOH/water 5 mins.
-  6.  Rinse 25% ETOH/water 5 mins.(Can fudge here, just rehydrating)
-  7.    Bleach 3% H202/0.5% KOH 10 mins, lids open.
-  8.  Rinse with water
-  9.  Rinse with 50% Isopropanol
-  10.   Store in 50% Isopropanol
-```
+4.  **First rinse**: Rinse in 80% ETOH/10 mM MgCl~2~/water for 10 minutes to overnight.
+    -   Note: Cleaner Alcian background with longer rinses.
 
-##Papers (Walker, M., Kimmel, C., 2007. A Two-Color Acid-Free Cartilage and Bone Stain For Zebrafish Larvae. Biotechnic & Histochemistry. Vol. 82, No. 1, Pages 23-28.)
+5.  **Rehydration**: Rinse in 50% ETOH/water for 5 minutes.
+
+6.  **Rehydration**: Rinse in 25% ETOH/water for 5 minutes.
+
+7.  **Bleaching**: Treat with 3% H~2~O~2~/0.5% KOH for 10 minutes with lids open.
+
+8.  **Rinse**: Rinse thoroughly with water.
+
+9.  **Clearing**: Rinse with 50% Isopropanol.
+
+10. **Storage**: Store in 50% Isopropanol.
+
+## Related Protocols
+
+-   Live alizarin staining: @sec-vert_exp-live_alizarin
+-   Live calcein staining: @sec-vert_exp-live_calcein
+-   Paraformaldehyde preparation: @sec-general_recipe_8%PFA
+
+## Associated Papers
+
+-   Walker, M., Kimmel, C., 2007. A Two-Color Acid-Free Cartilage and Bone Stain For Zebrafish Larvae. Biotechnic & Histochemistry. Vol. 82, No. 1, Pages 23-28.

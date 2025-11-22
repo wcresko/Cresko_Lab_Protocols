@@ -9,32 +9,121 @@
 
 ## Materials
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   Appropriate waste containers (carboys, bottles, buckets, or EHS-provided containers)
+-   Chemical-resistant labels
+-   Permanent marker
+-   Nitrile gloves (minimum requirement)
+-   Lab coat
+-   Safety glasses
+-   Secondary containment if needed
 
-## Solutions
+## Common Hazardous Waste Types
 
--   xxx
--   xxx
--   xxx
+-   Paraformaldehyde (PFA)
+-   Alcohols (ethanol, methanol, isopropanol)
+-   Organic solvents (phenol, chloroform, formamide)
+-   Trizol and other nucleic acid extraction reagents
+-   Kit waste containing hazardous components
+-   Contaminated solid waste (tips, tubes)
+
+## Safety Precautions
+
+::: {.callout-warning title="Warning - Hazardous Materials"}
+**General Safety**:
+- Always wear appropriate PPE (gloves, lab coat, safety glasses)
+- Work in a fume hood when handling volatile or toxic chemicals
+- Never mix incompatible chemicals (e.g., acids with bases, bleach with acids)
+- Consult Safety Data Sheets (SDS) for specific chemical hazards
+- Know the location of safety showers, eyewash stations, and spill kits
+
+See @sec-general-lab_safety for complete laboratory safety guidelines.
+:::
 
 ## Procedure
 
-::: {.callout-important title="IMPORTANT"}
-ALL CONTAINERS USED TO HOUSE HAZARDOUS WASTE NEED TO BE LABELED WITH CONTENTS, DATE, AND OWNER.
+::: {.callout-important title="Important - Labeling Requirements"}
+**ALL CONTAINERS USED TO HOUSE HAZARDOUS WASTE MUST BE LABELED WITH:**
+- Contents (specific chemical names, not abbreviations)
+- Date waste collection started
+- Owner/Principal Investigator name
+
+Failure to properly label waste may result in non-compliance with EHS regulations.
 :::
 
-1.  **Common streams of HW**: Paraformaldehyde (PFA), alcohol (ETOH, methanol, isopropanol, etc), and common kit waste.
-    1.  Procedure: Collect these waste streams separately. They can be collected locally (e.g. small containers on lab bench) and then put into the common large carboy for pickup.
-    2.  Pick up: Every two weeks a lab assistant will assess if common collections need to be picked up. If so, they will initiate a pick up via EHS. https://safety.uoregon.edu/hazardous-materials
-2.  **Exotic or nasty HW**: Trizol, phenol, chloroform, formamide, etc…
-    1.  Procedure: Researchers are responsible for communicating with the lab assistant as to how these materials will be temporarily stored and the periodicity of disposal. As an example, if DNA extractions are being done with Trizol, solid (e.g. tips and tubes) that come into contact with this reagent and used reagent will be collected in the hood.
-    2.  Pick up: Once the extractions are done or after two weeks (whichever is first) a “pick up” will be initiated with EHS. https://safety.uoregon.edu/hazardous-materials
+### 1. Common Hazardous Waste Streams
 
-## Associated Papers
+**Materials**: Paraformaldehyde (PFA), alcohols (ethanol, methanol, isopropanol), and common kit waste.
 
--   xxx
--   xxx
--   xxx
+**Collection Procedure**:
+
+a.  Collect these waste streams separately in appropriately labeled containers
+
+    ::: {.callout-note title="Note"}
+    Do not mix different chemical waste streams. Each type of waste should be collected separately.
+    :::
+
+b.  Small containers can be used for local collection on lab benches
+
+c.  Transfer contents to the designated large carboy for consolidated storage
+
+d.  Ensure the carboy is properly labeled with all required information
+
+**Pickup Schedule**:
+
+-   Every two weeks, a lab assistant will assess if waste containers need pickup
+-   If pickup is needed, the lab assistant will initiate a waste pickup request through EHS
+-   Submit requests at: https://safety.uoregon.edu/hazardous-materials
+-   EHS contact for waste disposal: 6-3192
+
+### 2. Exotic or Highly Hazardous Waste
+
+**Materials**: Trizol, phenol, chloroform, formamide, and other highly toxic or corrosive materials.
+
+::: {.callout-danger title="Danger - Highly Toxic Materials"}
+These materials pose significant health risks. Always handle in a fume hood with appropriate PPE.
+:::
+
+**Collection Procedure**:
+
+a.  **Before beginning work**: Communicate with the lab assistant about:
+    -   Storage location for waste (typically in fume hood)
+    -   Expected volume of waste
+    -   Duration of waste collection period
+    -   Specific hazards of materials being used
+
+b.  **During work**: Collect waste in the designated location
+    -   Solid waste (tips, tubes) contaminated with these materials must be collected separately
+    -   Liquid waste should be collected in appropriate, chemically-resistant containers
+    -   Keep containers in the fume hood to contain vapors
+
+c.  **Container requirements**:
+    -   Use secondary containment for liquid waste
+    -   Ensure containers are compatible with waste chemicals
+    -   Keep containers closed when not actively adding waste
+
+**Pickup Schedule**:
+
+-   Request pickup within two weeks of starting waste collection OR immediately upon completion of experiments, whichever comes first
+-   Do not allow highly hazardous waste to accumulate for extended periods
+-   Submit waste pickup requests at: https://safety.uoregon.edu/hazardous-materials
+
+### 3. Special Waste Categories
+
+For bacterial waste disposal procedures, see @sec-general-bact_waste.
+
+::: {.callout-tip title="Tip"}
+If you are unsure whether a material is hazardous waste or how to dispose of it, contact EHS at 6-3192 or consult with the lab manager.
+:::
+
+## Related Protocols
+
+-   @sec-general-lab_safety - Cresko Lab Safety Highlights
+-   @sec-general-bact_waste - Bacterial Waste Cleaning and Disposal
+
+## Additional Resources
+
+-   UO Environmental Health and Safety: https://safety.uoregon.edu/
+-   EHS Hazardous Materials Disposal: https://safety.uoregon.edu/hazardous-materials
+-   EHS Emergency Contact: 6-2919
+-   EHS Waste Disposal Contact: 6-3192
+-   Chemical Safety Data Sheets (SDS): Contact EHS or check chemical supplier websites

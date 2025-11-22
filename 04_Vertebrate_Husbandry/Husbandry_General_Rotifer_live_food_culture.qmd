@@ -27,15 +27,15 @@
 
 -   Reed Mariculture "N-rich" gut-loading food
 
-    ::: {.callout-warning title="NOTES"}
-    Not used by zebrafish facility- has a short shelf life
+    ::: {.callout-note title="Note"}
+    Not used by zebrafish facility - has a short shelf life
     :::
 
 -   Straining sieves, 20 µm pore size
 
 -   Salinity test pen (e.g., Oakton SaltTestr 11 pocket meter)
 
-    ::: {.callout-warning title="NOTES"}
+    ::: {.callout-note title="Note"}
     Use refractometer for saltwater system. The stickleback facility uses a refractometer for salinity testing
     :::
 
@@ -57,14 +57,11 @@
 
 ## Solutions:
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   25-27 ppt brackish water (prepared fresh during procedure using Instant Ocean sea salt mix and RO water)
 
 ## Procedure:
 
-::: {.callout-warning title="NOTES"}
+::: {.callout-caution title="Safety"}
 Wear clean fish-safe gloves.
 :::
 
@@ -100,7 +97,7 @@ Wear clean fish-safe gloves.
 
     2.  Allow the rotifers to feed for 15 minutes to 1 hour before feeding to the fish.
 
-        ::: {.callout-warning title="NOTES"}
+        ::: {.callout-note title="Note"}
         Adjust down for smaller harvests
         :::
 
@@ -142,9 +139,7 @@ Wear clean fish-safe gloves.
     10. Place harvesting pail now containing sanitized equipment on storage cart.
     11. Use Facility rack washer to sanitize wastewater buckets and brackish water mixing buckets then place buckets on storage cart.
 
-## Associated Papers
+## Related Protocols
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   @sec-husbandry-mysid_culture - Mysid culture for pipefish feeding
+-   @sec-husbandry-weekend_feeding - Weekend feeding protocols

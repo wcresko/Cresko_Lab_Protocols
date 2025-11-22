@@ -9,6 +9,13 @@
     -   Gulf pipefish (*Syngnathus scovelli*)
 -   **Author**: Mark Currey
 -   **Date Created**: March 08, 2024
+-   **IACUC Protocol**: Covered under facility animal care procedures
+
+::: {.callout-warning title="Notes"}
+-   Fish are fed twice per day during weekdays
+-   Feed fish at the start of the shift in the morning and at the end of the shift in the afternoons
+-   Since fish are fed twice per day, only collect one half of the brine shrimp in the morning and make sure to reset the cone during the afternoon feeding
+:::
 
 ## Materials
 
@@ -25,81 +32,62 @@
 
 ## Solutions
 
--   
+-   None required
 
 ## Procedure
 
-1.  **Conduct health checks** of all fish in Winter Room and Summer Room according to the steps described in {#sec-husbandry-fish_health_check}.
+1.  **Conduct health checks** of all fish in Winter Room and Summer Room according to @sec-husbandry-fish_health_check.
 
-2.  Prepare brine cone for feeding by following the steps described in {#sec-husbandry-brine_gen_hatch_feed}.
-
-::: {.callout-warning title="NOTES"}
-Since fish are fed twice per day, only collect one half of the brine shrimp in the morning and make sure to reset the cone during the afternoon feeding.
-:::
-
-::: {.callout-warning title="NOTES"}
-Since fish are fed twice per day, feed fish at the start of the shift in the morning and at the end of the shift in the afternoons.
-:::
+2.  **Prepare brine cone** for feeding by following the steps described in @sec-husbandry-brine_gen_hatch_feed.
 
 3.  **Feed Stickleback twice per day**
 
-    1.  Winter Room
-        -   20g tanks
-            1.  Feed 1 scoop of adult stickleback food.
-    2.  Summer Room
-        -   20g tanks
-            1.  Feed 1 scoop of adult stickleback food.
-        -   4.5 and 10.5 liter tanks
-            1.  **Larval** (2.8L and 9.5L tanks): feed small squirt of brine shrimp.
-            2.  **Juvenile** (9.5L tanks): feed half of a scoop of juvenile food.
+    a.  **Winter Room**
+        -   20g tanks: Feed 1 scoop of adult stickleback food per feeding.
 
-::: {.callout-warning title="NOTES"}
-Please pay attention to the fish size in the 9.5L tanks and feed accordingly. Tanks of similar sized fish will try to be clustered together on the racks for ease of feeding. Also pay attention to sign and/or tags and message on the white board or Teams for direction on how 9.5L tanks are to be fed.
+    b.  **Summer Room**
+        -   20g tanks: Feed 1 scoop of adult stickleback food per feeding.
+        -   4.5 and 10.5 liter tanks:
+            -   **Larval** (2.8L and 9.5L tanks): feed small squirt of brine shrimp.
+            -   **Juvenile** (9.5L tanks): feed half of a scoop of juvenile food.
+
+::: {.callout-warning title="Notes"}
+Please pay attention to the fish size in the 9.5L tanks and feed accordingly. Tanks of similar sized fish will try to be clustered together on the racks for ease of feeding. Also pay attention to signs and/or tags and messages on the white board or Teams for direction on how 9.5L tanks are to be fed.
 :::
 
-::: {.callout-warning title="NOTES"}
-If there is not sufficient adult or juvenile food to conduct feedings, see {#sec-recipe-dry_fish_food} for instructions on making more food.
+::: {.callout-warning title="Notes"}
+If there is not sufficient adult or juvenile food to conduct feedings, see @sec-husbandry-dry_fish_food for instructions on making more food.
 :::
 
-4.  Feed Pipefish
+4.  **Feed Pipefish twice per day**
 
-::: {.callout-warning title="NOTES"}
-Since fish are fed twice per day, feed fish at the start of the shift in the morning and at the end of the shift in the afternoons.
-:::
+    a.  **Summer Room - 20g tanks (adults and juveniles)**
 
-```         
-1.  Summer Room
+        -   **Adults**: feed frozen mysids
+            -   During the morning feeding please feed the adults only frozen mysids
+            -   In the evenings please feed frozen mysids and live brine shrimp (see @sec-husbandry-mysid_culture for mysid culture)
+        -   **Juveniles**: feed squirt of brine shrimp
 
-    -   20g tanks (adults and juveniles)
-
-        1.  **Adults**: feed frozen mysids
-```
-
-::: {.callout-warning title="NOTE FOR PREPARING AND FEEDING FROZEN MYSIDS"}
+::: {.callout-note title="Preparing and Feeding Frozen Mysids"}
 Partially fill the 1000 ml beaker labeled "Pipefish Only" located on the pipefish rack with pipefish water. Place a dime sized piece of frozen mysids (bottom shelf in freezer) in the beaker with water, and swirl water to thaw mysids. Once thawed, feed to the adult pipefish.
 :::
 
-::: {.callout-warning title="NOTE FOR PREPARING AND FEEDING FROZEN MYSIDS"}
-During the morning feeding please feed the adults only frozen mysids. In the evenings please feed frozen and live brine shrimp {#sec-husb-mysid_culture}
-:::
+    b.  **10.5 liter tanks (mysids, pregnant males, and juvenile pipefish)**
 
-```         
-        2.  **Juveniles**: feed squirt of brine shrimp.
+        -   **Juvenile pipefish/mysids**: feed small squirt of brine shrimp
 
-    -   10.5 liter tanks (mysids, pregnant males, and juvenile pipefish)
-
-        1.  **Juvenile pipefish/mysids**: feed small squirt of brine shrimp.
-        
-       
-```
-
-::: {.callout-warning title="NOTES"}
+::: {.callout-warning title="Notes"}
 Please move any male that has given birth into a community (20g) adult pipefish tank
 :::
 
+## Related Protocols
+
+-   See @sec-husbandry-fish_health_check for health check procedures
+-   See @sec-husbandry-brine_gen_hatch_feed for brine shrimp hatching and feeding
+-   See @sec-husbandry-dry_fish_food for dry food mix preparation
+-   See @sec-husbandry-mysid_culture for mysid culture procedures
+-   See @sec-husbandry-weekend_feeding for weekend feeding procedures
+
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   None

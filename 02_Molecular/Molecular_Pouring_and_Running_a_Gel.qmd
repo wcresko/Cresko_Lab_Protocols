@@ -7,6 +7,28 @@
 -   **Author**: Micah Woods
 -   **Date Created**: February 14, 2024
 
+::: {.callout-warning title="Safety"}
+**Personal Protective Equipment (PPE):**
+
+- Lab coat
+- Safety glasses or UV-protective eyewear when viewing gels
+- Heat-resistant gloves when handling hot agarose
+- Nitrile gloves for all steps
+
+**Chemical Safety:**
+
+- Ethidium bromide alternative (Safe View) binds DNA and may be mutagenic; handle with care
+- Hot agarose can cause severe burns; use heat-resistant gloves
+- UV light exposure can damage eyes and skin; use protective equipment when imaging
+- TBE buffer contains borate; avoid skin contact
+
+**Electrical Safety:**
+
+- Always turn off power supply before connecting or disconnecting electrodes
+- Never reach into gel box while power is on
+- Ensure gel box is on a dry, stable surface
+:::
+
 ## Background
 
 Gel electrophoresis is a technique used to separate mixtures of DNA, RNA, or proteins based on their molecular size. During gel electrophoresis, an electrical field is used to help molecules travel through the pores of an agarose gel matrix. At one end of the gel, furthest away from where the samples are loaded, is a positive charge, and at the other end is a negative charge. Since DNA and RNA are both negatively charged molecules, they are pulled through the gel matrix towards the positive charge. Since proteins do not have a negative charge, researchers must first mix them with a sodium dodecyl sulfate detergent which gives them the negative charge needed to migrate towards the positive end of the gel. The speed at which molecules travel through the gel is inversely related to their molecular size. For example, small DNA molecules have a low molecular weight, enabling them to travel further through the gel matrix than a larger DNA molecule. When a gel is stained with DNA/RNA/protein-binding dye, these molecules can be seen as bands, whose location along the length of the gel represents the molecule?s size in terms of number of base pairs. When dye-stained DNA/RNA/protein is run beside a ladder with known fragment size, one can estimate the size of the assayed molecule. After the DNA/RNA/protein molecules have been separated using gel electrophoresis, the gel is imaged under UV light, visualizing the DNA/RNA/proteins present across the length of the gel.
@@ -39,9 +61,14 @@ Gel electrophoresis is a technique used to separate mixtures of DNA, RNA, or pro
 -   Ladder of choice
 -   EB Buffer
 
+## Related Protocols
+
+- See @sec-molecular-Phusion_PCR for preparing PCR products to run on gels
+- See @sec-molecular-RADseq for size selection using gel extraction
+
 ## Procedure
 
-::: {.callout-important title="This is important"}
+::: {.callout-important title="Important"}
 Before beginning this procedure, read the section "Electrophoresis Tips" at the bottom of this procedure for more background information and to understand and anticipate the mistakes commonly associated with this protocol.
 :::
 
@@ -69,7 +96,7 @@ Before beginning this procedure, read the section "Electrophoresis Tips" at the 
 
 11. Once the agarose mixture has solidified, carefully remove the tape from the sides of the tray.
 
-    ::: {.callout-important title="This is important"}
+    ::: {.callout-important title="Important"}
     Tape should be removed from the tray while held under the fume hood. Tape should be removed slowly to prevent any splattering of residual liquid on the top of the solidified gel.
     :::
 
@@ -79,35 +106,35 @@ Before beginning this procedure, read the section "Electrophoresis Tips" at the 
 
 14. Load ladder of choice into the left-most well of the gel. The volume of ladder you load will vary depending on your experiment.
 
-    ::: {.callout-important title="This is important"}
+    ::: {.callout-important title="Important"}
     When expelling the ladder into the well, only pipet to the first stop. Pipetting to the second stop risks expelling bubbles into the well which could interfere with the experiment.
     :::
 
-    ::: {.callout-important title="NOTES"}
-    \*The ladder is made of DNA and needs a gel loading dye. When selecting a ladder to use, make sure that the ladder is not clear but has been mixed with a loading dye (should be a bright color like blue, orange, green, or purple).
+    ::: {.callout-note title="Notes"}
+    The ladder is made of DNA and needs a gel loading dye. When selecting a ladder to use, make sure that the ladder is not clear but has been mixed with a loading dye (should be a bright color like blue, orange, green, or purple).
     :::
 
 15. Prepare DNA samples to be loaded into the wells of the gel. Pipet out 10 ul of DNA from each sample onto a piece of parafilm or into a PCR strip tube, using a fresh pipet tip for each sample to avoid cross contamination.
 
-    ::: {.callout-important title="NOTES"}
-    \*The volume of DNA you mix load into each well depends on the concentration of DNA and how much of DNA of your total you can afford to use for the gel, though a generally good concentration range is 10-100 ng/ul to ensure the DNA can be visualized on the gel. If you are aiming to load a specific concentration of DNA into each well, calculate the concentration of your DNA sample and find that the corresponding volume is less than 10 ul, you can add the appropriate volume of EB Buffer to bring the sample's volume up to 10 ul.
+    ::: {.callout-note title="Notes"}
+    The volume of DNA you mix load into each well depends on the concentration of DNA and how much of DNA of your total you can afford to use for the gel, though a generally good concentration range is 10-100 ng/ul to ensure the DNA can be visualized on the gel. If you are aiming to load a specific concentration of DNA into each well, calculate the concentration of your DNA sample and find that the corresponding volume is less than 10 ul, you can add the appropriate volume of EB Buffer to bring the sample's volume up to 10 ul.
     :::
 
 16. Add 2 ul of 6X Loading Dye to each DNA sample. Thoroughly mix the dye and DNA sample by aspiration, but mix slowly to avoid creating bubbles. Be sure to use a fresh pipet tip in between DNA samples.
 
-    ::: {.callout-important title="NOTES"}
+    ::: {.callout-note title="Notes"}
     \*The exact volume of loading dye you add to each sample can change depending on the amount of DNA you add, but the final dilution should be 1 part 6X Loading Dye to 5 parts DNA sample.
     :::
 
 17. Load 10 ul of the DNA sample/dye mixture into the next available well in the gel.
 
-    ::: {.callout-important title="This is important"}
-    \*When expelling the DNA sample/dye mixture into the well, only pipet to the first stop. Pipetting to the second stop risks expelling bubbles into the well which could interfere with the experiment.
+    ::: {.callout-important title="Important"}
+    When expelling the DNA sample/dye mixture into the well, only pipet to the first stop. Pipetting to the second stop risks expelling bubbles into the well which could interfere with the experiment.
     :::
 
 18. Put gel box cover on. Attach the electrodes to the metal posts at the top and bottom of gel box; the black electrode (-) attaches to the metal post on the top of the box and the red electrode (+) attaches to the metal post on the bottom of the box.
 
-    ::: {.callout-important title="NOTES"}
+    ::: {.callout-note title="Notes"}
     Since DNA is a negatively charged molecule, it will run through the gel matrix towards a positive charge. A helpful way to remember electrode placement, then, is "Run to red," since the red electrode has a positive charge and should be placed furthest away from the DNA samples.
     :::
 
@@ -155,7 +182,7 @@ The effect of electrophoresis is to separate DNA fragments by size in an agarose
 
 -   Positioning the comb teeth too close to one side or to the bottom of the mold when setting up for pouring a gel. Result: the bottoms (or that side) of wells may be torn when the comb is pulled out, causing the loaded samples to leak out into the buffer during gel loading.
 
-    ::: {.callout-important title="NOTE"}
+    ::: {.callout-note title="Note"}
     Even when the comb teeth are not too close to the bottom, low percentage gels are soft and will benefit from having the comb pulled while submerged in the tank - otherwise the suction created by surface tension between the comb plastic and the agarose as you pull up on the comb can tear the bottoms out of the wells, causing loss of samples during loading.
     :::
 

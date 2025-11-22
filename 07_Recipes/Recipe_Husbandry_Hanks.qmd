@@ -1,8 +1,8 @@
-# Recipe - Hank's solution {#sec-recipe-hanks}
+# Hank's Solution {#sec-recipe-hanks}
 
 ## Introduction
 
--   **Purpose**: Recipe for Dietricj=h's fixative\
+-   **Purpose**: Recipe for Hank's balanced salt solution, a physiological buffer used for cell and tissue culture
 -   **Procedure Type**: recipe
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
@@ -11,59 +11,124 @@
 -   **Author**: Mark Currey
 -   **Date Created**: March 07, 2024
 
-## Solutions
-
-**Hank's (Final):**
-
-```         
-9.9 ml Hank's Premix
-0.1 ml Stock #6
-```
-
-**Hank's Premix:**
-
-```         
-  Combine the following in order:
-  10.0 ml Solution #1
-  1.0 ml Solution #2
-  1.0 ml Solution #4
-  86.0 ml ddH2O
-  1.0 ml Solution #5
-```
-
-::: {.callout-Note title="NOTE"}
-Store Hank's Premix in the refrigerator along with the Hank's solutions.
+::: {.callout-note title="Note"}
+This protocol uses a stock solution system. Prepare all stock solutions first, then make the premix, and finally prepare the working solution fresh as needed.
 :::
 
-**Hank's Stock Solutions:**
+## Materials
 
-```         
-  **Stock #1**
-  8.0 g NaCl 
-  0.4 g KCl
-  in 100 ml dd H2O
-  
-  **Stock #2**
-  0.358 g Na2HPO4 Anhydrous 
-  0.60 g KH2PO4 
-  in 100 ml ddH2O
-  
-  **Stock #4**
-  0.72 g CaCl2 
-  in 50 ml ddH2O
-  
-  **Stock #5**
-  1.23 g MgSO4x7H2O 
-  in 50 ml dd H2O
-  
-  **Stock #6**
-  0.35 g NaHCO3
-  10.0 mls dd H2O
-```
+-   NaCl (sodium chloride)
+-   KCl (potassium chloride)
+-   CaCl2 (calcium chloride)
+-   MgSO4·7H2O (magnesium sulfate heptahydrate)
+-   Na2HPO4 anhydrous (sodium phosphate dibasic)
+-   KH2PO4 (potassium phosphate monobasic)
+-   NaHCO3 (sodium bicarbonate)
+-   Distilled deionized water (ddH2O)
+-   Analytical balance
+-   Graduated cylinders
+-   Glass bottles for stock storage
+-   Stir bars and stir plate
 
-## Associated Papers
+::: {.callout-caution title="Safety"}
+**PPE Required**: Lab coat, safety glasses, and gloves when handling chemicals.
 
--   xxx
--   xxx
--   xxx
--   xxx
+**Handling**: Calcium chloride is hygroscopic. Keep container tightly sealed when not in use.
+:::
+
+## Solutions
+
+### Hank's Stock Solutions
+
+Prepare the following stock solutions:
+
+**Stock #1:**
+- 8.0 g NaCl
+- 0.4 g KCl
+- Dissolve in ddH2O and bring to 100 ml total volume
+
+**Stock #2:**
+- 0.358 g Na2HPO4 (anhydrous)
+- 0.60 g KH2PO4
+- Dissolve in ddH2O and bring to 100 ml total volume
+
+**Stock #4:**
+- 0.72 g CaCl2
+- Dissolve in ddH2O and bring to 50 ml total volume
+
+**Stock #5:**
+- 1.23 g MgSO4·7H2O
+- Dissolve in ddH2O and bring to 50 ml total volume
+
+**Stock #6:**
+- 0.35 g NaHCO3
+- Dissolve in ddH2O and bring to 10.0 ml total volume
+
+### Hank's Premix
+
+Combine the following stock solutions in order:
+- 10.0 ml Stock #1
+- 1.0 ml Stock #2
+- 1.0 ml Stock #4
+- 86.0 ml ddH2O
+- 1.0 ml Stock #5
+
+Total volume: 99 ml
+
+::: {.callout-note title="Note"}
+Store Hank's Premix in the refrigerator (4°C) along with the stock solutions.
+:::
+
+## Procedure
+
+### To prepare final working Hank's solution (10 ml):
+
+1. Add 9.9 ml Hank's Premix to a clean container
+2. Add 0.1 ml Stock #6 (NaHCO3)
+3. Mix thoroughly by swirling or gentle inversion
+4. Use immediately or store at 4°C for short-term use
+
+### To scale for different volumes:
+
+- For each 1 ml final volume: use 0.99 ml Premix + 0.01 ml Stock #6
+- For 50 ml: use 49.5 ml Premix + 0.5 ml Stock #6
+- For 100 ml: use 99 ml Premix + 1 ml Stock #6
+
+## Storage
+
+**Stock Solutions:**
+-   **Temperature**: 4°C (refrigerator)
+-   **Duration**: Stable for 2-3 months
+-   **Container**: Glass bottles with tight-sealing lids
+-   **Label**: Mark each stock with number, contents, date prepared
+
+**Hank's Premix:**
+-   **Temperature**: 4°C (refrigerator)
+-   **Duration**: Stable for 2-3 months
+-   **Container**: Glass bottle with tight-sealing lid
+-   **Label**: Mark as "Hank's Premix" with date prepared
+
+**Final Hank's Solution:**
+-   **Temperature**: 4°C (refrigerator) or use immediately
+-   **Duration**: Use within 1-2 weeks
+-   **Container**: Sterile bottle if needed for cell culture
+
+## Quality Control
+
+-   **pH**: Final solution should be approximately 7.2-7.4
+-   **Appearance**: All solutions should be clear and colorless
+-   **Sterility**: For cell/tissue culture, filter-sterilize (0.22 μm) or autoclave stocks before use
+-   **Verification**: Check for precipitates before use; discard if cloudy
+
+::: {.callout-tip title="Usage Notes"}
+- Stock #6 (NaHCO3) is added last because it provides CO2 buffering
+- For best results, prepare final working solution fresh from premix
+- Solution can be warmed to room temperature or 37°C before use
+- Adjust pH if needed for specific applications
+:::
+
+## Related Protocols
+
+-   Used in tissue dissection and cell culture protocols
+-   Alternative to @sec-recipe-ginzbergs_ringers for certain applications
+-   See cell culture and embryology protocols for specific uses

@@ -3,13 +3,13 @@
 ## Introduction
 
 -   **Purpose**: The procedure describes how to set up pipefish for crossing.
--   **Procedure Type**: husbnadry
+-   **Procedure Type**: Husbandry
 -   **Species**:
     -   Gulf pipefish (*Syngnathus scovelli*)
 -   **Author**: Mark Currey\
 -   **Date Created**: February 29, 2024
 
-::: {.callout-note title="NOTES"}
+::: {.callout-note title="Note"}
 Pipefish are housed communally or kept as pairs and allowed to naturally spawn.
 :::
 
@@ -29,3 +29,14 @@ Pipefish are housed communally or kept as pairs and allowed to naturally spawn.
 2.  Check tanks each day to look for pregnant males.
 3.  Place pregnant males singly in 4.5 L tanks containing plastic grass with a 850 mesh baffle installed.
 4.  Once the male has given birth move him to a 20 gallon tank.
+
+::: {.callout-note title="IACUC Protocol"}
+This procedure is covered under the University of Oregon IACUC protocol for fish breeding. Always follow approved protocols for animal welfare.
+:::
+
+## Related Protocols
+
+-   @sec-husbandry_pipefish_tank_maint - Pipefish water system maintenance
+-   @sec-husbandry-stickle_density - Density standards (includes pipefish)
+-   @sec-husbandry-mysid_culture - Mysid culture for pipefish feeding
+-   @sec-husbandry-pipefish_larval_euth - Pipefish embryo and larval euthanasia

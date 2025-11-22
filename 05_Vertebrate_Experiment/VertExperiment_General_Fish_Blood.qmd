@@ -12,37 +12,71 @@
 -   **Author**: Ann Petersen
 -   **Date Created**: August 1, 2011
 
-::: {.callout-warning title="HUMAN SAFETY MEASURES"}
--   Wear gloves at all times when handling blood collection equiptment. While this will not prevent accidents, it may reduce the risk of contamination.
+::: {.callout-important title="IACUC Protocol Required"}
+This procedure requires an active IACUC protocol. Ensure your protocol covers terminal blood collection procedures before beginning. All personnel must be trained in proper euthanasia techniques.
+:::
+
+::: {.callout-warning title="Human Safety Measures"}
+-   Wear gloves at all times when handling blood collection equipment. While this will not prevent accidents, it may reduce the risk of contamination.
 -   Never attempt to re-sheath needles. Always discard them into a sharps container immediately after use.
 -   Never overfill the sharps container.
 -   Place the sharps container in the area you are working to avoid transporting needles outside of your work area.
 -   Ensure the work area is clean.
 -   Wash hands after handling fish blood.
+-   Follow all biosafety protocols when working with blood samples.
 :::
 
-## Materials: {#materials .head}
+## Materials
 
 -   Gloves to be worn when handling fish, anesthesia water, blood samples
 -   Disinfectant for cleaning after blood sample
--   Scalpal or sharp knife for tail ablation
+-   Scalpel or sharp knife for tail ablation
 -   Sterile needles or vacutainer needles from 14-30 gauge
 -   Syringe for collecting samples
--   Hematocrit tubes
+-   Heparinized hematocrit tubes/capillary tubes
 -   Critoseal
 -   Sharps container for needles
 -   Whatman 903 Specimen collection paper
+-   Microhematocrit centrifuge
 
 ## Solutions
 
--   Euthanisia MS-222 (tricaine-methanosulfanate) {#sec-husb-adutl_sb_euthanasia}
+-   Euthanasia MS-222 (tricaine-methanesulfonate) - see @sec-husb-adutl_sb_euthanasia
 
 ## Procedure
 
+::: {.callout-note title="Before You Begin"}
+Ensure all materials are prepared and readily accessible before euthanizing the fish. Work quickly to minimize blood coagulation.
+:::
+
 1.  Place fish in beaker containing MS-222 euthanasia dose (300 mg/L).
-2.  Wait for fish to slow and become unresponsive to taps on the container to ensure it is fully euthanized
-3.  Sever the caudal peduncle with a scalpel blade or sharp knife
-4.  Fill a heparnized hematocrit tube/capillary tube with the blood as it flows from the caudal vein. Plug one end of the hematocrit tube with critoseal. Spin on microhematocrit centrifuge to separate plasma from red blood cells. Measure hematocrit volume %, Use a pipette or break the capillary to extract the plasma or packed cells as needed.
-5.  Alternatively, collect a 25μL drop of blood at the tail and allow it to drop onto Whatman specimen collection filter paper for some endocrinological downstream applications. Blood spotted filter paper must be dried for 4 hours on the bench away from heat and light, and then may be stored at -20C in a sealed bag with desiccant packs.
-6.  Dispose of fish soma and tail in fish morgue.
-7.  Clean and disinfect area where blood was collected.
+
+2.  Wait for fish to slow and become unresponsive to taps on the container to ensure it is fully euthanized (lack of opercular movement for at least 1 minute).
+
+3.  Sever the caudal peduncle with a scalpel blade or sharp knife.
+
+4.  **For hematocrit analysis**: Fill a heparinized hematocrit tube/capillary tube with the blood as it flows from the caudal vein. Plug one end of the hematocrit tube with critoseal. Spin on microhematocrit centrifuge to separate plasma from red blood cells. Measure hematocrit volume %. Use a pipette or break the capillary to extract the plasma or packed cells as needed.
+
+5.  **For filter paper collection**: Alternatively, collect a 25μL drop of blood at the tail and allow it to drop onto Whatman specimen collection filter paper for some endocrinological downstream applications. Blood spotted filter paper must be dried for 4 hours on the bench away from heat and light, and then may be stored at -20°C in a sealed bag with desiccant packs.
+
+6.  Dispose of fish soma and tail in fish morgue according to institutional guidelines.
+
+7.  Clean and disinfect area where blood was collected with appropriate disinfectant.
+
+## Related Protocols
+
+-   Euthanasia protocols: @sec-husb-adutl_sb_euthanasia
+-   Steroid measurements from blood: @sec-vert_exp-steroid_measure
+
+## Troubleshooting
+
+::: {.callout-tip title="Common Issues"}
+-   **Blood clots quickly**: Ensure hematocrit tubes are properly heparinized and work rapidly after euthanasia.
+-   **Insufficient blood volume**: For small fish, consider cardiac puncture methods (requires additional training and IACUC approval).
+-   **Hemolysis**: Avoid excessive handling and agitation of blood samples.
+:::
+
+## References
+
+-   Standard methods for fish blood collection and analysis
+-   IACUC guidelines for fish euthanasia and tissue collection

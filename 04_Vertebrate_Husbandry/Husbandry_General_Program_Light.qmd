@@ -3,15 +3,15 @@
 ## Introduction
 
 -   **Purpose**: This procedure describes how to set and or change the lighting regime in 310 A,B,C.
--   **Procedure Type**: xxx
+-   **Procedure Type**: Husbandry
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
     -   Bay pipefish, (*Syngnathus leptorhyncus*)
     -   Gulf pipefish (*Syngnathus scovelli*)
--   **Author**: xxx
--   **Date Created**: xxx
+-   **Author**: Mark Currey
+-   **Date Created**: 2008
 
-::: {.callout-warning title="NOTES"}
+::: {.callout-note title="Note"}
 To check if the lighting is programmed correctly use a data logger to track the light levels over the course of at least 24 hours.
 :::
 
@@ -67,3 +67,8 @@ In EDIT MODE,
 9.  Go to FILE and establish communications via Online Options.
 10. After communications have been established go back to edit mode
 11. Go to Online Options and select transfer data. This should program the wall unit when to activate scenes.
+
+## Related Protocols
+
+-   @sec-husbandry-stickle_density - Stickleback density standards (includes lighting requirements)
+-   @sec-husbandry-incubator_use - Incubator use for embryos

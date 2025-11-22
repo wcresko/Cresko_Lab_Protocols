@@ -2,50 +2,101 @@
 
 ## Introduction
 
--   **Purpose**: This procedure describes how to clean and dispose of bacterial waste.
+-   **Purpose**: This procedure describes how to clean and dispose of bacterial waste (E. coli and other recombinant materials).
 
--   **Procedure Type**: General Lab Maintanence
+-   **Procedure Type**: General Lab Maintenance
 
--   **Species**:
+-   **Species**: E. coli and recombinant bacterial cultures
 
 -   **Author**: Mark Currey
 
 -   **Date Created**: March 8, 2024
 
--   **Date Updated**: xxx
+-   **Date Updated**: 2024
 
-::: {.callout-warning title="NOTES"}
-xxxx
+::: {.callout-note title="Note"}
+This protocol is specifically for bacterial culture waste. For other types of hazardous waste disposal, see @sec-general-hazard_waste.
 :::
 
 ## Materials
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   Bacterial waste tubes/flasks
+-   Large carboy labeled 'Bacterial Waste' (located next to North side sink)
+-   Graduated cylinder or measuring device (for bleach)
+-   Nitrile gloves
+-   Lab coat
+-   Safety glasses
 
 ## Solutions
 
--   30% Bleach solution
--   xxx
--   xxx
--   xxx
+-   30% Bleach solution (diluted from stock bleach)
+-   DI water (for rinsing)
+
+## Safety Precautions
+
+::: {.callout-warning title="Warning - Biohazard and Chemical Hazard"}
+**Biological Safety**:
+- Bacterial cultures and recombinant materials must be properly decontaminated before disposal
+- Treat all bacterial waste as potentially hazardous
+- Never pour untreated bacterial waste down the drain
+
+**Bleach Safety**:
+- Wear nitrile gloves, lab coat, and safety glasses when working with bleach solutions
+- Work in a well-ventilated area
+- 30% bleach is a concentrated solution - handle with care
+- Rinse skin immediately if contact occurs
+
+See @sec-general-lab_safety for complete laboratory safety guidelines.
+:::
 
 ## Procedure
 
-```         
-  1.    Pour approximately 10-15 mL of 30% bleach solution into each tube containing bacterial waste. (More bleach solution is acceptable if there is a large amount of bacterial waste)
-  2.    Let the bleach solution sit for 3-5 hours, or until the solution becomes clear again.
-  3.    Pour the bleach and bacterial waste into the large carboy labeled ‘Bacterial Waste’ next to the North side sink.
-  4.    Rinse the tubes with DI water and place them on the shelving units below the kitchen water bath
-```
+### Decontaminating Bacterial Waste
 
-**Note - we should add how to deal with the bacterial carboy to this protocol.**
+1.  Put on appropriate PPE (gloves, lab coat, safety glasses).
 
-## Associated Papers
+2.  Pour approximately 10-15 mL of 30% bleach solution into each tube containing bacterial waste.
 
--   xxx
--   xxx
--   xxx
--   xxx
+    ::: {.callout-note title="Note"}
+    More bleach solution is acceptable if there is a large amount of bacterial waste. Ensure sufficient bleach to effectively decontaminate all material.
+    :::
+
+3.  Let the bleach solution sit for 3-5 hours, or until the solution becomes clear again.
+
+    ::: {.callout-tip title="Tip"}
+    The solution becoming clear indicates that the bleach has effectively killed the bacteria. Turbid solutions indicate live bacteria.
+    :::
+
+4.  Once the solution is clear, pour the bleach and decontaminated bacterial waste into the large carboy labeled 'Bacterial Waste' next to the North side sink.
+
+5.  Rinse the empty tubes thoroughly with DI water.
+
+6.  Place cleaned tubes on the shelving units below the kitchen water bath to dry.
+
+### Managing the Bacterial Waste Carboy
+
+::: {.callout-important title="Important"}
+When the bacterial waste carboy becomes full or every two weeks (whichever comes first):
+- Contact the lab assistant to arrange for proper disposal
+- Do not overfill the carboy (leave at least 2 inches of headspace)
+- Ensure the carboy is properly labeled with contents and date
+:::
+
+1.  Monitor the fill level of the bacterial waste carboy regularly.
+
+2.  When the carboy is approximately 80% full, notify the lab assistant.
+
+3.  The lab assistant will coordinate with EHS for proper disposal of the bacterial waste carboy.
+
+4.  For questions about bacterial waste disposal, contact EHS at 6-3192 or see @sec-general-hazard_waste.
+
+## Related Protocols
+
+-   @sec-general-lab_safety - Cresko Lab Safety Highlights
+-   @sec-general-hazard_waste - Disposing of Hazardous Waste
+
+## Additional Resources
+
+-   EHS Biohazard Waste Guidelines: https://safety.uoregon.edu/
+-   EHS Contact: 6-2919
+-   EHS Waste Disposal: 6-3192

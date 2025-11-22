@@ -9,11 +9,20 @@
     -   Gulf pipefish (*Syngnathus scovelli*)
 -   **Author**: Mark Currey
 -   **Date Created**: Adapted April 3, 2008 by M. Currey; Updated February 12, 2024 by M. Currey
+-   **IACUC Protocol**: Covered under facility maintenance procedures
+
+::: {.callout-caution title="Chemical Hygiene"}
+When using bleach and/or NaOH, eye protection is required. Please use splash proof glasses or a face shield and gloves during this protocol. NaOH is corrosive and can cause severe burns.
+:::
+
+::: {.callout-warning title="Notes"}
+Solutions should be prepared in advance.
+:::
 
 ## Materials
 
 -   15 oz can of dried Artemia cysts (approximately 430 g)
--   4.3 L \~6% laundry grade bleach
+-   4.3 L ~6% laundry grade bleach
 -   Rock Salt (NaCl)
 -   125 ml 40% Lye (NaOH) solution
 -   30.0 g Sodium thiosulfate (Na2S2O3)
@@ -24,30 +33,22 @@
 
 ## Solutions
 
-::: {.callout-warning title="NOTES"}
-Solutions should be prepared in advance.
-:::
-
-::: {.callout-caution title="Chemical Hygiene"}
-When using bleach and/or NaOH. Eye protection is required. Please use splash proof glasses or a face shield and gloves during this protocol.
-:::
-
--   Bleach, \~6% laundry grade
--   25 ppt Salt Solution
-    1.  Combine: 50 g Rock Salt (NaCl) To 2.0 L with tap water
+-   **Bleach**, ~6% laundry grade
+-   **25 ppt Salt Solution**
+    1.  Combine: 50 g Rock Salt (NaCl) to 2.0 L with tap water
     2.  Stir to dissolve completely.
--   40% Lye (NaOH) solution
-    1.  Combine: 200 g Lye (NaOH) To 500 mL with tap water
+-   **40% Lye (NaOH) solution**
+    1.  Combine: 200 g Lye (NaOH) to 500 mL with tap water
     2.  Stir to dissolve completely.
     3.  Store in refrigerator (4°C)
--   Buffered Salt Solution
+-   **Buffered Salt Solution**
     1.  Combine: 2L, 25 ppt Salt Solution
     2.  125 mL 40% Lye Solution, pre-chilled to 4°C
--   1.0% Sodium Thiosulfate
-    1.  Combine: 30 g sodium thiosulfate To 3.0 L with tap water
+-   **1.0% Sodium Thiosulfate**
+    1.  Combine: 30 g sodium thiosulfate to 3.0 L with tap water
     2.  Stir to dissolve.
--   Saturated Brine
-    1.  Combine: \~25g Rock Salt to 4.0 L with tap water
+-   **Saturated Brine**
+    1.  Combine: ~25g Rock Salt to 4.0 L with tap water
     2.  Aerate to dissolve.
 
 ## Procedure
@@ -58,15 +59,18 @@ When using bleach and/or NaOH. Eye protection is required. Please use splash pro
 
 3.  **Transfer cysts back to the cone**: Add the Buffered Salt Solution to the cone and aerate (save back a filled squirt bottle of salt solution to help transfer cysts to cone). Transfer cysts into cone.
 
-4.  **De-capsulation**: Add the bleach (4.3 L) to the cone and continue aeration. Watch the cysts turn from brown to grey to orange, When the cysts are 90% orange, stop the reaction by quickly siphoning the cysts through a 125 um mesh bag and rinsing well with cool tap water.
+4.  **De-capsulation**: Add the bleach (4.3 L) to the cone and continue aeration. Watch the cysts turn from brown to grey to orange. When the cysts are 90% orange, stop the reaction by quickly siphoning the cysts through a 125 um mesh bag and rinsing well with cool tap water.
 
-5.  **Neutralization residual chlorine**: To neutralize any residual chlorine transfer the mesh bag to a clean 4 L beaker and pour the 1.0% Sodium Thiosulfate (3L) into the bag. Soak the cysts in the sodium thiosulfate solution for \~1 min, then rinse the cysts with de-ionized tap water. Rinse until discharge turns clear.
+5.  **Neutralization of residual chlorine**: To neutralize any residual chlorine transfer the mesh bag to a clean 4 L beaker and pour the 1.0% Sodium Thiosulfate (3L) into the bag. Soak the cysts in the sodium thiosulfate solution for ~1 min, then rinse the cysts with de-ionized tap water. Rinse until discharge turns clear.
 
-6.  **Dehydration for long-term storage**: Transfer the cysts back to the cone with 4 L of saturated brine and aerate until salt is dissolved. Transfer dehydrated cyst to (5 or 6) 1 L Nalgene bottles filled with 200 - 300 grams of salt. Add enough salt so that it does not dissolve when de-capsulated brine is added. Fill the bottles with de-capsulated brine. Store in refrigerator. The de-capsulated brine will store for at least 1 month. Hatch brine as you would capsulated brine (see Hatching and Feeding Brine SOP).
+6.  **Dehydration for long-term storage**: Transfer the cysts back to the cone with 4 L of saturated brine and aerate until salt is dissolved. Transfer dehydrated cyst to (5 or 6) 1 L Nalgene bottles filled with 200 - 300 grams of salt. Add enough salt so that it does not dissolve when de-capsulated brine is added. Fill the bottles with de-capsulated brine. Store in refrigerator. The de-capsulated brine will store for at least 1 month. Hatch brine as you would capsulated brine (see @sec-husbandry-brine_gen_hatch_feed).
+
+## Related Protocols
+
+-   See @sec-husbandry-brine_gen_hatch_feed for hatching and feeding brine shrimp
+-   See @sec-husbandry-enrich_brineshrimp for brine shrimp enrichment
+-   See @sec-husbandry-foodstorage_sources for food storage information
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   None

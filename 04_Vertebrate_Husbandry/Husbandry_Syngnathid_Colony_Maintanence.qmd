@@ -20,18 +20,18 @@
 
 **20 gallon adult pipefish tanks**
 
-::: {.callout-warning title="NOTES"}
+::: {.callout-note title="Note"}
 All 20 gallon pipefish tanks are cleaned and reset at least once a month.
 :::
 
 -   *Complete take down and cleaning*
 
-    1.  After transferring fish to a clean tank, take down the old tank as described in {#sec-vert_husb-aquarium_cleaning}, but leave the bulkhead on and keep the substrate in the tank.
+    1.  After transferring fish to a clean tank, take down the old tank as described in @sec-vert_husb-aquarium_cleaning, but leave the bulkhead on and keep the substrate in the tank.
     2.  Put the strainer catch over the drain in the sink to prevent substrate from clogging the drain. Tilt the tank vertically so the substrate pools in the back.
-    3.  Reset tank as described in the S{#sec-vert_husb-aquarium_cleaning}, but add at least 2 clean plastic plants to the tank for enrichment.
+    3.  Reset tank as described in @sec-vert_husb-aquarium_cleaning, but add at least 2 clean plastic plants to the tank for enrichment.
     4.  Circulate clean tanks 30 minutes before transferring fish.
 
-::: {.callout-warning title="NOTES"}
+::: {.callout-note title="Note"}
 If there are not enough open tanks to completely clean and reset 3-5 per week, use the gravel vac to clean all occupied tanks at least 1x per week:
 :::
 
@@ -42,14 +42,14 @@ If there are not enough open tanks to completely clean and reset 3-5 per week, u
     3.  Turn off water and air flow to the tank being cleaned.
     4.  Create a siphon with the gravel vac to begin draining the tank water into the bin. Keep a section of the gravel vac hose near the end pinched to control suction by pinching down to stop and releasing slightly to restart. Agitate substrate by "fluffing" up and down with the gravel vac.
 
-::: {.callout-warning title="CAUTION"}
+::: {.callout-caution title="Caution"}
 Do not allow water level to be drained below 5-6 inches in the sump. Immediately stop suction if a pipefish enters the gravel vac. Check the bin for any pipefish that may have been accidentally sucked into the gravel vac before moving to the next tank.
 :::
 
 **10.5 L pipefish fry tanks**
 
-::: {.callout-note title="NOTE"}
-Fry are generally large enough to be transferred to clean 10L tanks at 2 months post-birth
+::: {.callout-note title="Note"}
+Fry are generally large enough to be transferred to clean 10L tanks at 2 months post-birth.
 :::
 
 1.  Set up new 10.5 L tanks band place a clean small plastic plant in the tank for enrichment.
@@ -58,7 +58,7 @@ Fry are generally large enough to be transferred to clean 10L tanks at 2 months 
 
 **Changing water in the system**
 
-::: {.callout-note title="NOTE"}
+::: {.callout-note title="Note"}
 10-20% of the system water should be changed every week.
 :::
 
@@ -68,9 +68,13 @@ Fry are generally large enough to be transferred to clean 10L tanks at 2 months 
 4.  To reset the makeup water vat, use the RO located in the northeast corner of the room to fill the vat up to the fill line. This take about 15 minutes.
 5.  Use a 5 L beaker to measure 2.5 L of instant ocean and pour into makeup water vat. Recheck salinity after several minutes and adjust as necessary.
 
-## Associated Papers
+::: {.callout-note title="IACUC Protocol"}
+This procedure is covered under the University of Oregon IACUC protocol for fish husbandry. Always follow approved protocols for animal welfare and water quality standards.
+:::
 
--   xxx
--   xxx
--   xxx
--   xxx
+## Related Protocols
+
+-   @sec-vert_husb-aquarium_cleaning - General aquarium cleaning
+-   @sec-husbandry_syng_cross - Pipefish crossing and breeding
+-   @sec-husbandry-mysid_culture - Mysid culture for pipefish feeding
+-   @sec-husbandry-UV_bulb - UV filter maintenance

@@ -5,11 +5,21 @@
 -   **Purpose**: To produce Illumina Libraries of Sequenced RAD tags
 -   **Procedure Type**: Molecular
 -   **Species**: N/A
--   **Author**: xxx
--   **Date Created**: xxx
+-   **Author**: Based on Baird et al., 2008
+-   **Date Created**: Unknown
 
-::: {.callout-warning title="NOTES"}
-xxxx
+::: {.callout-warning title="Safety"}
+**Personal Protective Equipment (PPE):**
+
+- Lab coat
+- Safety glasses
+- Nitrile gloves
+
+**Chemical Safety:**
+
+- Handle restriction enzymes and ligases on ice
+- Ethidium bromide or gel stain alternatives are mutagenic; handle with care
+- Many steps involve sharp razor blades; use caution
 :::
 
 ## Materials
@@ -19,7 +29,7 @@ xxxx
 1.  DNeasy Blood & Tissue Kit (Qiagen).
 2.  RNaseA (Qiagen).
 
-### Restriction endonuclease digestion {#restriction-endonuclease-digestion .subhead}
+### Restriction Endonuclease Digestion {#sec-restriction-digestion}
 
 1.  Restriction enzyme (NEB).
 2.  Clean, intact high-quality genomic DNA: 25 ng/μl.
@@ -48,15 +58,15 @@ P1 bottom:
 
 4.  Concentrated T4 DNA Ligase (NEB): 2,000,000 U/ml; or 10,000 U/ml T4 DNA ligase (Epicentre)
 
-### Purification steps {#purification-steps .subhead}
+### Purification Steps {#sec-purification-steps}
 
 1.  QIAquick or MinElute PCR Purification Kit (Qiagen), or DNA Clean and Concentrator-5 (Zymo)
 
-### DNA shearing {#dna-shearing .subhead}
+### DNA Shearing {#sec-dna-shearing}
 
 1.  Bioruptor, nebulizer or Branson sonicator 450.
 
-### Size selection/agarose gel extraction {#size-selectionagarose-gel-extraction .subhead}
+### Size Selection and Agarose Gel Extraction {#sec-size-selection}
 
 1.  Agarose (Sigma)
 2.  5X TBE: 0.45 M Tris-Borate, 0.01 M EDTA, pH 8.3.
@@ -65,17 +75,17 @@ P1 bottom:
 5.  Razor blades.
 6.  MinElute Gel Purification Kit (Qiagen).
 
-### Perform end repair {#perform-end-repair .subhead}
+### Perform End Repair {#sec-end-repair}
 
 1.  Quick Blunting Kit (NEB).
 
-### 3´-dA overhang addition {#da-overhang-addition .subhead}
+### 3´-dA Overhang Addition {#sec-da-overhang}
 
 1.  NEB Buffer 2.
 2.  dATP (Fermentas): 10 mM.
 3.  Klenow Fragment (3´ to 5´ exo-, NEB or Epicentre): 5,000 U/ml.
 
-### P2 Adapter ligation {#p2-adapter-ligation .subhead}
+### P2 Adapter Ligation {#sec-p2-ligation}
 
 1.  NEB Buffer 2.
 
@@ -99,7 +109,7 @@ P2 bottom:
 
 4.  Concentrated T4 DNA Ligase.
 
-### RAD tag Amplification/Enrichment {#rad-tag-amplificationenrichment .subhead}
+### RAD Tag Amplification and Enrichment {#sec-rad-amplification}
 
 1.  Phusion High-Fidelity PCR Master Mix with HF Buffer (NEB).
 2.  Modified Solexa© Amplification primer mix (2006 Illumina, Inc., all rights reserved): 10 μM.
@@ -120,7 +130,7 @@ P2 bottom:
 
 Fig. 1. RAD tag library generation. (A) Genomic DNA is digested with a restriction enzyme and a barcoded P1 adapter is ligated to the fragments. The P1 adapter contains a forward amplification primer site, an Illumina sequencing primer site, and a barcode (colored boxes represent P1 adapters with different barcodes). (B) Adapter-ligated fragments are combined (if multiplexing), sheared and (C) ligated to a second adapter (P2, white boxes). The P2 adapter is a divergent "Y" adapter, containing the reverse complement of the P2 reverse amplification primer site, preventing amplification of genomic fragments lacking a P1 adapter. (D) RAD tags, which have a P1 adapter, are selectively and robustly enriched by PCR amplification. (Reproduced from ref. 12 with permission from PLoS). (ref. 9 with permission from Elsevier Science). \[Baird et al., 2008\]
 
-### DNA extraction and RNase A treatment {#dna-extraction-and-rnase-a-treatment-1 .subhead}
+### DNA Extraction and RNase A Treatment {#sec-dna-extraction}
 
 -   We recommend extracting genomic DNA samples using the DNeasy Blood & Tissue Kit (Qiagen) or a similar product that produces very pure, high molecular weight, RNA-free DNA.
 -   High-quality DNA is required for optimal restriction endonuclease digestion and is of utmost importance for the overall success of the protocol.

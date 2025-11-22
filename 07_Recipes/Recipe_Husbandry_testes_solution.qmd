@@ -2,7 +2,7 @@
 
 ## Introduction
 
--   **Purpose**: Recipe for making testes storage solution\
+-   **Purpose**: Recipe for making testes storage solution with antibiotics for preserving dissected testes and sperm
 -   **Procedure Type**: recipe
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
@@ -11,24 +11,59 @@
 
 ## Materials
 
--   Gentamycin (antimycotic) (Stock – 10 mg/ml)\*
--   Cell Culture anti-biotic/mycotic from Gibco-BRL (15240-096) 100x Concentration
+-   Gentamycin (antimycotic) stock - 10 mg/ml
+-   Cell Culture antibiotic/antimycotic from Gibco-BRL (catalog #15240-096), 100x concentration
+-   Micropipettes (100 μl)
+-   Sterile pipette tips
+-   Sterile containers for storage
 
-::: {.callout-Note title="NOTE"}
-Both of these reagents are located in separate boxes in the scientific -20° C freezer. They are partitioned into 100μl aliquots.
+::: {.callout-note title="Note"}
+Both of these reagents are located in separate boxes in the scientific -20°C freezer. They are partitioned into 100 μl aliquots.
+:::
+
+::: {.callout-caution title="Safety"}
+**PPE Required**: Gloves and lab coat when handling antibiotics.
+
+**Sterile Technique**: Use aseptic technique when preparing solution to prevent contamination.
 :::
 
 ## Solutions
 
--   Ginzberg's Ringers {#sec-general_recipe_ginzbergs_ringers}
+-   @sec-recipe-ginzbergs_ringers (Ginzberg's Ringer Solution) - 100 ml
 
 ## Procedure
 
-For 100 mls, mix: 1. Add 100μl of Gentamycin and 100μl of Anti-biotic/mycotic to 100ml of Ginzburg’s Ringers solution. 2. Store at 4° C.
+For 100 ml:
 
-## Associated Papers
+1. Thaw one 100 μl aliquot of Gentamycin (10 mg/ml) and one 100 μl aliquot of antibiotic/antimycotic (100x) at room temperature
+2. Prepare 100 ml of Ginzberg's Ringer Solution (see @sec-recipe-ginzbergs_ringers)
+3. Add 100 μl of Gentamycin to the Ginzberg's Ringer solution
+4. Add 100 μl of antibiotic/antimycotic to the Ginzberg's Ringer solution
+5. Mix thoroughly by swirling or gentle inversion
+6. Transfer to a sterile, labeled container
 
--   xxx
--   xxx
--   xxx
--   xxx
+## Storage
+
+-   **Temperature**: 4°C (refrigerator)
+-   **Duration**: Use within 1-2 weeks; prepare fresh for best results
+-   **Container**: Sterile glass or plastic bottle with tight-sealing lid
+-   **Label**: Mark with "Testes Storage Solution", date prepared, and expiration date
+
+## Quality Control
+
+-   **Appearance**: Solution should be clear and colorless
+-   **Sterility**: If cloudiness or contamination appears, discard immediately
+-   **Effectiveness**: Testes/sperm should remain viable for several hours when kept on ice in this solution
+
+::: {.callout-tip title="Usage Notes"}
+- Keep solution on ice during testes dissections
+- Use sterile instruments to prevent contamination
+- Solution helps preserve sperm viability and prevent bacterial growth
+- Typically used during breeding season for in vitro fertilization procedures
+:::
+
+## Related Protocols
+
+-   Used in testes dissection and sperm collection protocols
+-   Required for @sec-recipe-ginzbergs_ringers as base solution
+-   See breeding and fertilization protocols for detailed usage

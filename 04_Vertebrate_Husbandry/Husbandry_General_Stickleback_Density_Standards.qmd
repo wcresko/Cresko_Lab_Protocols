@@ -20,7 +20,7 @@
 
 ## Procedure:
 
-::: {.callout-note title="NOTES"}
+::: {.callout-note title="Note"}
 -   Fry and early juveniles stickleback are kept in long day conditions (Summer Room) with 16 hours of light/day with a 1/2 hours dawn and dusk.
 -   Growing juveniles to adult stickleback are kept in short day conditions (Winter Room) with 10 hours of light/day.
 -   Breeding age stickleback are kept in long day conditions (Summer Room) with 16 hours of light/day with a 1/2 hours dawn and dusk.
@@ -50,6 +50,17 @@
 
 ## Pipefish
 
--   Pregnant males are placed in 10.5 L tanks and moved back to 20 gallon tanks when the haev given birth.
+-   Pregnant males are placed in 10.5 L tanks and moved back to 20 gallon tanks when they have given birth.
 -   Young pipefish (0-3 months) are grown in 10.5 L tanks at the density they are born at.
 -   Adult pipefish are kept in mixed gender 20 gallon tanks at no more than 15 fish per tank.
+
+::: {.callout-note title="IACUC Protocol"}
+These density standards are established under the University of Oregon IACUC protocol for fish husbandry. Always follow approved protocols for animal welfare.
+:::
+
+## Related Protocols
+
+-   @sec-husbandry-fish_health_check - Daily health checks
+-   @sec-husbandry-room_lighting - Room lighting requirements
+-   @sec-husbandry-incubator_use - Incubator use for stickleback fry
+-   @sec-husbandry_syng_cross - Pipefish crossing and breeding

@@ -1,65 +1,130 @@
-# Fake Hyb {#sec-recipe-fake_hyb}
+# Fake Hyb (Hybridization Buffer without Heparin/tRNA) {#sec-recipe-fake_hyb}
 
 ## Introduction
 
--   **Purpose**: Recipe for making 200 ml of Fake Hyb.
+-   **Purpose**: Recipe for making 200 ml of Fake Hyb, a simplified hybridization buffer used in in situ hybridization protocols
 -   **Procedure Type**: Recipe
 -   **Author**: Micah Woods
 -   **Date Created**: March 5, 2024
 
+::: {.callout-warning title="Safety Warning"}
+**CRITICAL**: All steps involving formamide must be performed in a chemical fume hood.
+
+**Chemical Hazards**: Formamide is a developmental toxicant and may cause reproductive harm. It is irritating to skin, eyes, and respiratory system.
+
+**Required PPE**:
+- Nitrile gloves
+- Safety glasses or goggles
+- Lab coat
+- Work in fume hood at all times
+
+**Disposal**: Formamide waste must be disposed of as hazardous chemical waste. Never pour down drain. Follow institutional chemical waste disposal procedures.
+:::
+
 ## Solutions
 
 -   100% formamide (100 ml)
-    -   Located in the "Cruella Cooper" refrigerator.
+    -   Located in the "Cruella Cooper" refrigerator
+    -   Deionized formamide preferred
 -   10x SSC (50 ml)
-    -   Purchase pre-made from Chem Stores.
--   Tween-20 (400 ul)
-    -   Located in the chemical cabinet on the "Oxidizers A-Z" shelf.
--   1M citric acid (35 g)
+    -   Purchase pre-made from Chem Stores
+    -   Saline-Sodium Citrate buffer
+-   Tween-20 (400 μl)
+    -   Located in the chemical cabinet on the "Oxidizers A-Z" shelf
+    -   Non-ionic detergent
+-   Citric acid powder (0.35 g)
     -   Located in the chemical cabinet on the "Acid and Base Incompatibles A-Z" shelf
--   Nanopure water
-    -   Located in the Nalgene at the north sink.
+    -   Used for pH adjustment
+-   Nanopure water (to 200 ml)
+    -   Located in the Nalgene at the north sink
 
 ## Materials
 
--   200 ml glass Pyrex jar
--   4 50 ml plastic Falcon tubes
--   Pipettess
+-   200 ml glass Pyrex jar or beaker
+-   4 × 50 ml plastic Falcon tubes (for aliquoting)
+-   Pipettes (1-100 ml and 100-1000 μl)
 -   Pipette tips
 -   Fume hood
--   Scale
--   Weigh paper
+-   Analytical balance
+-   Weigh paper or weigh boat
+-   Graduated cylinder
+-   Stir bar and stir plate (optional)
 
 ## Procedure
 
-::: {.callout-important title="IMPORTANT"}
-Formamide can be harmful to your health, so this procedure should be performed under the fume hood.
+::: {.callout-warning title="Critical Warning"}
+**WORK IN FUME HOOD FOR ENTIRE PROCEDURE**
+
+Formamide vapors are hazardous. Keep all containers in fume hood until sealed.
 :::
 
-1.  Warm the 100% formamide to room temperature.
+1.  Warm the 100% formamide to room temperature in the fume hood
+    - Allow at least 1-2 hours for warming
+    - Do not heat; allow to warm naturally
 
-2.  Add 100 ml of 100% formamide to the 200 ml glass Pyrex jar.
+2.  In fume hood, add 100 ml of 100% formamide to the 200 ml glass Pyrex jar
 
-3.  Add 50 ml of 10x SSC to the jar.
+3.  Add 50 ml of 10x SSC to the jar
 
-4.  Add 400 ul Tween-20 the the jar.
+4.  Add 400 μl Tween-20 to the jar
 
-    ::: {.callout-important title="NOTE"}
-    Tween-20 is very thick solution, which can make it challenging to pipet. Push the pipette to the first stop, place the pipette tip in the Tween-20, and wait at least 10 seconds for the Tween-20 to fill the pipette tip. Due to its high viscosity, the Tween-20 will take longer to fill the pipette tip compared to less viscous liquids. Once the pipette tip is full, slowly dispense the Tween-20 into the jar. If pipetting 400 ul of Tween-20 is too difficult, you can instead make a 20% Tween-20 dilution with Tween-20 and nanopure water, and add 2 ml of the 20% Tween-20 to the jar.
+    ::: {.callout-important title="Note"}
+    Tween-20 is a very viscous solution, which can make it challenging to pipet. Push the pipette to the first stop, place the pipette tip in the Tween-20, and wait at least 10 seconds for the Tween-20 to fill the pipette tip. Due to its high viscosity, the Tween-20 will take longer to fill the pipette tip compared to less viscous liquids. Once the pipette tip is full, slowly dispense the Tween-20 into the jar.
+
+    **Alternative**: If pipetting 400 μl of Tween-20 is too difficult, make a 20% Tween-20 dilution (mix 1 ml Tween-20 with 4 ml nanopure water), and add 2 ml of the 20% Tween-20 to the jar.
     :::
 
-5.  Weigh out 0.35 g of 1M citric acid, and add to the jar.
+5.  Weigh out 0.35 g of citric acid powder using the analytical balance and add to the jar
+    - Citric acid helps maintain proper pH for hybridization
 
-6.  Fill jar to 200 ml with nanopure water.
+6.  Add nanopure water to bring total volume to 200 ml
 
-7.  Mix the solution by gently inverting the jar a few times.
+7.  Mix the solution thoroughly by swirling or gentle stirring
+    - If using stir bar, stir for 5-10 minutes to ensure complete mixing
+    - Solution should be homogeneous
 
-8.  This recipe makes 200 ml of Fake Hyb. Aliquot the Fake Hyb into 4 50 ml Falcon tubes and store at -20°C.
+8.  In fume hood, aliquot the Fake Hyb into 4 × 50 ml Falcon tubes
+    - Each tube will contain approximately 50 ml
+    - Cap tubes tightly while still in fume hood
 
-9.  When you are ready to use the Fake Hyb in the future, melt one of the 50 ml tubes in the water bath or by letting it sit at room temperature. Once melted, mix by inversion to ensure the solution is homogenized, and return it to the -20°C freezer once you are finished.
+9.  Label tubes clearly with "Fake Hyb", date prepared, and hazard warnings
 
-## Associated Papers
+## Storage
 
--   x
--   x
--   x
+-   **Temperature**: -20°C (freezer)
+-   **Duration**: Stable for 6-12 months when frozen
+-   **Container**: 50 ml Falcon tubes with tight-sealing caps
+-   **Label**: Must include "Fake Hyb", "FORMAMIDE - TOXIC", date prepared
+
+## Usage Instructions
+
+1.  When ready to use, remove one 50 ml tube from freezer
+2.  Thaw in water bath (37°C) or at room temperature in fume hood
+3.  Once melted, mix thoroughly by inversion to ensure solution is homogeneous
+4.  Use appropriate volume for in situ hybridization protocol
+5.  Return unused portion to -20°C freezer immediately after use
+
+::: {.callout-caution title="Freeze-Thaw Cycles"}
+Minimize freeze-thaw cycles. Aliquoting into smaller volumes (e.g., 15 ml tubes) may be preferable for frequent use.
+:::
+
+## Quality Control
+
+-   **Appearance**: Solution should be clear to slightly viscous
+-   **pH**: Should be approximately 6.0-6.5 (citric acid provides slight acidity)
+-   **Homogeneity**: No phase separation or precipitates
+-   **Efficacy**: Effective hybridization buffer for RNA and DNA probes in in situ protocols
+
+::: {.callout-tip title="Usage Notes"}
+- "Fake Hyb" refers to simplified hybridization buffer without heparin and tRNA
+- Used for whole-mount in situ hybridization of embryos and tissues
+- Formamide prevents non-specific hybridization and allows lower temperature hybridization
+- Typical hybridization temperature: 55-70°C depending on probe
+- Always handle in fume hood, even after freezing
+:::
+
+## Related Protocols
+
+-   Used in in situ hybridization protocols
+-   See molecular biology protocols for detailed hybridization procedures
+-   Related to @sec-recipe-tween20 for wash buffers used with this hybridization buffer

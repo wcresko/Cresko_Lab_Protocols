@@ -9,9 +9,14 @@
     -   Gulf pipefish (*Syngnathus scovelli*)
 -   **Author**: Mark Currey
 -   **Date Created**: April 8, 2008; revised December 6, 2018 by M. Currey
+-   **IACUC Protocol**: Covered under facility maintenance procedures
 
-::: {.callout-important title="This is important"}
+::: {.callout-important title="Important"}
 Tank cleaning is to be done **ONLY Monday - Friday**.
+:::
+
+::: {.callout-caution title="Chemical Hygiene"}
+When using bleach and/or sodium thiosulfate, eye protection is required. Please use splash proof glasses or a face shield and gloves during this protocol.
 :::
 
 ## Materials
@@ -26,36 +31,46 @@ Tank cleaning is to be done **ONLY Monday - Friday**.
 ## Solutions
 
 -   **Bleach solution**: Make a 10% bleach solution in a used 1 gallon bleach bottle. To do so: Add 2.7 L of water. Add 0.3 L of bleach and gently stir. Dispense into appropriately labeled squirt bottle for use.
--   **Sodium thiosulfate**: Make a 5% solution of sodium thiosulfate in the carboy located on counter above the fridge. To do so: Add 500 g of sodium thiosulfate. Fill carboy to the fill line indicated on front of carboy (\~ 5L) with water. Mix aggressively. Dispense into appropriately labeled squirt bottle for use.
-
-::: {.callout-caution title="Chemical Hygiene"}
-When using bleach and/or sodium thiosulfate. Eye protection is required. Please use splash proof glasses or a face shield when using bleach and sodium thiosulfate.
-:::
+-   **Sodium thiosulfate**: Make a 5% solution of sodium thiosulfate in the carboy located on counter above the fridge. To do so: Add 500 g of sodium thiosulfate. Fill carboy to the fill line indicated on front of carboy (~5L) with water. Mix aggressively. Dispense into appropriately labeled squirt bottle for use.
 
 ## Procedure
 
--   **Complete bleaching and cleaning of tank.** This needs to be done to each tank every 2 months.
+### Complete Bleaching and Cleaning of Tank
 
-    1.  Remove fish from tank and put them into a clean tank. Tanks that are emptied of fish need to be cleaned and sterilized before another batch of fish can be introduced.
-    2.  Drain the tank and remove it from the rack. Clean air diffuser as instructed below. Clean the tank and all parts thoroughly with a scrub pad, taking care not to damage the silicon water seals on the inside (algae should be left if very gentle rubbing will not remove it.
-    3.  Squirt about 10-20 mls of bleach into the tank. Wash the bleach water thoroughly around the inside of the tank by hand using a pad or sponge exposing all inside portions of the tank to bleach.
-    4.  Rinse the tank thoroughly with hot tap water. **Rinse the tank with sodium thiosulfate, and then rinse it again with hot water. Put a few thiosulfate crystals into the tank and leave it.**
-    5.  Reassemble the tank and put it back on the rack. Fill with system water and using a dry erase marker record date/time on the front of the tank.
-    6.  Allow water to recirculate for about **30 minutes** before adding fish. If adding fish, **Watch fish for 15 min** after adding them to look for any signs of distress.
+This needs to be done to each tank every 2 months.
 
--   **Initial check list**
+1.  Remove fish from tank and put them into a clean tank. Tanks that are emptied of fish need to be cleaned and sterilized before another batch of fish can be introduced.
 
--   **Air diffuser cleaning**:
+2.  Drain the tank and remove it from the rack. Clean air diffuser as instructed below. Clean the tank and all parts thoroughly with a scrub pad, taking care not to damage the silicon water seals on the inside (algae should be left if very gentle rubbing will not remove it).
 
-    1.  Remove dirty air diffusers from tanks and rinse with tap water to remove excess algae and debris.
-    2.  Place in 10% bleach solution for 15-30 minutes. Please see {#sec-Plastic_Glassware_cleaning-bleach} for bleach and sodium thisolfate instructions.
-    3.  Rinse with hot water for 5 and then place into 3% sodium thiosulfate for 5 minutes.
-    4.  Rinse with hot water for 5 minutes.
-    5.  When cleaned, air diffusers are placed back into aquaria, observe fish for 15 min for signs of distress.
+3.  Squirt about 10-20 mls of bleach into the tank. Wash the bleach water thoroughly around the inside of the tank by hand using a pad or sponge exposing all inside portions of the tank to bleach.
+
+4.  Rinse the tank thoroughly with hot tap water. **Rinse the tank with sodium thiosulfate, and then rinse it again with hot water. Put a few thiosulfate crystals into the tank and leave it.**
+
+5.  Reassemble the tank and put it back on the rack. Fill with system water and using a dry erase marker record date/time on the front of the tank.
+
+6.  Allow water to recirculate for about **30 minutes** before adding fish. If adding fish, **Watch fish for 15 min** after adding them to look for any signs of distress.
+
+7.  **Initial check list** upon completion.
+
+### Air Diffuser Cleaning
+
+1.  Remove dirty air diffusers from tanks and rinse with tap water to remove excess algae and debris.
+
+2.  Place in 10% bleach solution for 15-30 minutes. Please see @sec-husbandry-plastic_glassware_cleaning for bleach and sodium thiosulfate instructions.
+
+3.  Rinse with hot water for 5 minutes and then place into 3% sodium thiosulfate for 5 minutes.
+
+4.  Rinse with hot water for 5 minutes.
+
+5.  When cleaned air diffusers are placed back into aquaria, observe fish for 15 min for signs of distress.
+
+## Related Protocols
+
+-   See @sec-husbandry-plastic_glassware_cleaning for cleaning plastic and glassware with bleach
+-   See @sec-husbandry-dishwasher for dishwasher use
+-   See @sec-husbandry-fish_health_check for fish health monitoring
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   None

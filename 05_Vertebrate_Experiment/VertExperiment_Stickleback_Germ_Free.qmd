@@ -1,89 +1,178 @@
-# Germ Free Stickleback {#sec-vert_exp-gremfree_SB}
+# Germ-Free Stickleback {#sec-vert_exp-gremfree_SB}
 
 ## Introduction
 
--   **Purpose**: This procedure describes the creation of germ-free threespine stickleback.
+-   **Purpose**: This procedure describes the creation of germ-free threespine stickleback for microbiome research and controlled colonization experiments.
 -   **Procedure Type**: Vert Experiment
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
 -   **Author**: Mark Currey
 -   **Date Created**: January 01, 2024
 
-::: {.callout-warning title="NOTES"}
-xxxx
+::: {.callout-important title="IACUC Protocol Required"}
+This procedure requires an active IACUC protocol covering embryo sterilization and germ-free rearing. Ensure all personnel are properly trained in aseptic technique.
+:::
+
+::: {.callout-warning title="Sterile Technique Critical"}
+Maintaining sterility is essential for successful germ-free fish production. All work must be performed in a tissue culture hood using sterile technique. Any break in sterility can compromise the entire experiment.
 :::
 
 ## Materials
 
--   filter sterilizer
+-   Filter sterilizer (0.22 μm)
 -   3 sterile 50 ml beakers with foil tops
--   Hood
+-   Tissue culture hood
 -   Individually wrapped, sterile transfer pipettes
+-   Sterile 250 cm² or 500 cm² cell culture flasks with screw-top caps
+-   Sterile 25 ml or 50 ml serological pipettes
+-   Pipette aid
+-   Latex laboratory gloves
+-   Large beaker for liquid waste collection
 
 ## Solutions
 
--   embryo medium {#sec-general_recipe_embryo_medium}
--   100mg/ml Ampicillin
--   50mg/ml Kanamycin
--   8mg/ml Amphotericin
+### Stock Solutions
 
-::: {.callout-note title="NOTES"}
-All stored at -20C
-:::
+-   Embryo medium (stickleback medium) - see @sec-general_recipe_embryo_medium
+-   **100 mg/ml Ampicillin** (store at -20°C)
+-   **50 mg/ml Kanamycin** (store at -20°C)
+-   **8 mg/ml Amphotericin B** (store at -20°C)
 
-::: {.callout-warning title="NOTES"}
-Make the following solutions fresh for each use.
+::: {.callout-warning title="Fresh Solutions Required"}
+**Make the following solutions fresh for each use** (do not store pre-made antibiotic medium or sterilization solutions).
 :::
 
 ### Antibiotic Stickleback Medium
 
--   250ul Ampicillin 100mg/ml (100ug/ml final)
--   25ul Kanamycin 50mg/ml (5ug/ml final)
--   7.8ul Amphotericin B 8mg/ml (250ng/ml final)
+To make 250 ml:
+-   250 μl Ampicillin 100 mg/ml (final: 100 μg/ml)
+-   25 μl Kanamycin 50 mg/ml (final: 5 μg/ml)
+-   7.8 μl Amphotericin B 8 mg/ml (final: 250 ng/ml)
 -   250 ml Stickleback medium
--   Filter sterilize
+-   **Filter sterilize through 0.22 μm filter**
 
-### 0.003% Bleach solution
+### 0.003% Bleach Solution
 
--   125ul 6.0% bleach solution
--   250ml SM
--   Filter sterilize
+To make 250 ml:
+-   125 μl of 6.0% bleach solution
+-   250 ml Stickleback medium
+-   **Filter sterilize through 0.22 μm filter**
 
-### 0.2% PVP-I solution (Polyvinylpyrrolidone-iodine \[0.01% free iodine\] Western Chemical Inc.)
+### 0.2% PVP-I Solution
 
--   5ml 10% PVP-I stock
--   245ml SM
--   Filter sterilize
+(Polyvinylpyrrolidone-iodine [0.01% free iodine], Western Chemical Inc.)
+
+To make 250 ml:
+-   5 ml of 10% PVP-I stock
+-   245 ml Stickleback medium
+-   **Filter sterilize through 0.22 μm filter**
 
 ## Procedure
 
-1.  Make crosses as in {#sec-husbandry_stickleback_crossing} except spray the outside of the euthanized male with 95% ethanol prior to dissection.
-2.  Incubate eggs at 20°C until eggs reach 2 cell stage \~2 hours post fertilization, remove non-viable embryos from 2 cell stage eggs, and rinse viable embryos with fresh antibiotic stickleback medium 2X.
-3.  About 6 hours post fertilization, transfer viable embryos into 50 ml beakers
+### Day 0: Embryo Collection and Initial Sterilization
 
-::: {.callout-note title="NOTES"}
-To increase the probability of maintaining sterility wear standard latex laboratory gloves for subsequent steps of protocol.
+1.  **Collect embryos**: Make crosses according to @sec-husbandry_stickleback_crossing, **except** spray the outside of the euthanized male with 95% ethanol prior to dissection.
+
+2.  **Initial incubation**: Incubate eggs at 20°C until eggs reach 2-cell stage (~2 hours post fertilization).
+    -   Remove non-viable embryos from 2-cell stage eggs.
+    -   Rinse viable embryos with fresh antibiotic stickleback medium 2X.
+### Sterilization (6 hours post fertilization)
+
+3.  **Prepare for hood work**: About 6 hours post fertilization, transfer viable embryos into 50 ml beakers.
+
+::: {.callout-note title="Sterile Technique"}
+Wear standard latex laboratory gloves for all subsequent steps to increase the probability of maintaining sterility.
 :::
 
-4.  Transfer the following into the hood to minimize number of times entering and exiting the hood (per 100 embryos cleaned) • 3 sterile 50ml beakers with foil tops • Individually wrapped, sterile transfer pipettes • 1L filter sterilized stickleback medium • 0.003% bleach • 0.2-0.4% PVP-I (some flasks may be contaminated with 0.2% PVP-I, but more fish are likely to die in the 0.4% PVP-I) • 10 sterile flasks – 250 or 500cm2 with screw topped caps (in hood, add 48ml sterile • stickleback medium per 250cm2 flask or 98ml per 500cm2 prior to adding embryos) • 25ml or 50ml pipettes, sterile, individually wrapped Pipette aid • Embryos in 50ml covered beaker • Large beaker for collecting liquid waste
-5.  Transfer embryos to clean beaker
-6.  Pour off all but \~10ml SM carefully into waste container
-7.  Transfer remaining 10ml SM with eggs into clean 50ml beaker
-8.  Add \~20ml sterile SM to old beaker to get remaining eggs
-9.  Transfer remaining eggs to beaker
-10. Bring volume in new beaker up to 50ml with sterile SM
-11. Rinse embryos 3X with 50ml filter sterilized SM
-12. Immerse embryos in \~50ml 0.2-0.4% PVP-I solution for 10 minutes
-13. Rinse embryos with sterile SM 1X
-14. Transfer embryos to fresh beaker as in step b
-15. Rinse embryos in sterile SM additional 2X
-16. Immerse embryos in 0.003% bleach for 10 minutes.
-17. Rinse embryos in sterile SM 1X
-18. Transfer embryos to fresh beaker.
-19. Rinse embryos additional 2X in sterile SM
-20. Transfer 20-40 embryos to flasks containing sterile SM using sterile, individually wrapped pipettes
-21. Incubate embryos at 20°C in incubator in the Cresko Lab, room 324 Pacific.
+4.  **Transfer materials to hood**: Move the following into the tissue culture hood to minimize entry/exit (materials listed are per 100 embryos cleaned):
+    -   3 sterile 50 ml beakers with foil tops
+    -   Individually wrapped, sterile transfer pipettes
+    -   1 L filter-sterilized stickleback medium
+    -   0.003% bleach solution
+    -   0.2-0.4% PVP-I solution (Note: some flasks may be contaminated with 0.2% PVP-I, but more fish are likely to die in 0.4% PVP-I)
+    -   10 sterile flasks (250 or 500 cm²) with screw-top caps
+        -   In hood, add 48 ml sterile stickleback medium per 250 cm² flask OR 98 ml per 500 cm² flask before adding embryos
+    -   25 ml or 50 ml sterile serological pipettes, individually wrapped
+    -   Pipette aid
+    -   Embryos in 50 ml covered beaker
+    -   Large beaker for collecting liquid waste
 
-\*\*Post sterilization care 22. At 9 dpf, upon yolk absorption, feed larva and change and test water for\
-contamination. 23. On the daily checklist record the number of fish dead or not moving in response\
-to external stimuli. In tissue culture hood, remove dead or not responsive (sick) fish. Euthanize sick fish with tricaine {#sec-husbandry_euthanasia_stickleback}. 24. In tissue culture hood, remove 70% of fish water with sterile pipette 25. Replace water with sterile stickleback medium 26. Add one scoop of irradiated Ziegler dry food to flask 27. Plate 50ul to 100ul of water on TSA plates to check for contamination of bacteria.
+### Embryo Washing and Sterilization
+
+5.  **First transfer**: Transfer embryos to clean beaker.
+
+6.  **Remove medium**: Pour off all but ~10 ml SM carefully into waste container.
+
+7.  **Transfer**: Transfer remaining 10 ml SM with eggs into clean 50 ml beaker.
+
+8.  **Collect remaining embryos**: Add ~20 ml sterile SM to old beaker to collect remaining eggs.
+
+9.  **Combine**: Transfer remaining eggs to beaker.
+
+10. **Adjust volume**: Bring volume in new beaker up to 50 ml with sterile SM.
+
+11. **Rinse**: Rinse embryos 3X with 50 ml filter-sterilized SM.
+
+12. **PVP-I treatment**: Immerse embryos in ~50 ml of 0.2-0.4% PVP-I solution for 10 minutes.
+
+13. **Rinse**: Rinse embryos with sterile SM 1X.
+
+14. **Transfer to fresh beaker**: Transfer embryos to fresh beaker (as in step 5).
+
+15. **Additional rinses**: Rinse embryos in sterile SM additional 2X.
+
+16. **Bleach treatment**: Immerse embryos in 0.003% bleach for 10 minutes.
+
+17. **Rinse**: Rinse embryos in sterile SM 1X.
+
+18. **Final transfer**: Transfer embryos to fresh beaker.
+
+19. **Final rinses**: Rinse embryos additional 2X in sterile SM.
+
+20. **Flask loading**: Transfer 20-40 embryos to each flask containing sterile SM using sterile, individually wrapped pipettes.
+
+21. **Incubation**: Incubate embryos at 20°C in incubator.
+
+### Post-Sterilization Care
+
+22. **Feeding (9 dpf)**: At 9 days post fertilization, upon yolk absorption:
+    -   Feed larvae with irradiated food
+    -   Change water
+    -   Test water for bacterial contamination
+
+23. **Daily monitoring**:
+    -   Record the number of fish dead or not moving in response to external stimuli on the daily checklist.
+    -   In tissue culture hood, remove dead or non-responsive (sick) fish.
+    -   Euthanize sick fish with tricaine - see @sec-husbandry_euthanasia_stickleback
+
+24. **Water changes**: In tissue culture hood, remove 70% of fish water with sterile pipette.
+
+25. **Replace medium**: Replace water with sterile stickleback medium.
+
+26. **Feeding**: Add one scoop of irradiated Ziegler dry food to flask.
+
+27. **Contamination testing**: Plate 50-100 μl of water on TSA plates to check for bacterial contamination.
+
+## Quality Control
+
+::: {.callout-tip title="Monitoring Sterility"}
+-   Plate water samples on TSA plates at regular intervals (every 2-3 days)
+-   Any bacterial growth indicates contamination
+-   Remove contaminated flasks immediately
+-   Keep detailed records of contamination rates
+:::
+
+## Related Protocols
+
+-   Stickleback crossing: @sec-husbandry_stickleback_crossing
+-   Embryo medium preparation: @sec-general_recipe_embryo_medium
+-   Euthanasia: @sec-husbandry_euthanasia_stickleback
+-   Monoassociation (next step after germ-free): @sec-vert_exp-mono_ass_SB
+
+## Troubleshooting
+
+::: {.callout-warning title="Common Issues"}
+-   **High contamination rates**: Check sterile technique, filter integrity, and PVP-I/bleach concentrations.
+-   **High mortality**: May indicate over-sterilization; try reducing PVP-I concentration to 0.2% or reducing bleach exposure time.
+-   **Poor growth**: Ensure irradiated food is fresh and feeding amounts are appropriate.
+:::

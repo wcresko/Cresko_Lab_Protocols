@@ -1,8 +1,8 @@
-# Dietrich's Fixative (EM) {#sec-recipe-dietrichs_fix}
+# Dietrich's Fixative {#sec-recipe-dietrichs_fix}
 
 ## Introduction
 
--   **Purpose**: Recipe for Dietrich's fixative
+-   **Purpose**: Recipe for Dietrich's fixative for preserving sentinel fish and tissue samples
 -   **Procedure Type**: recipe
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
@@ -11,25 +11,52 @@
 -   **Author**: Mark Currey
 -   **Date Created**: February 29, 2024
 
-::: {.callout-Note title="NOTE"}
-When fixing sentinel fish use Dieterich's fixative.
+::: {.callout-note title="Note"}
+When fixing sentinel fish use Dietrich's fixative.
+:::
+
+::: {.callout-warning title="Safety Warning"}
+**Chemical Hazards**: Formalin (formaldehyde solution) is toxic, carcinogenic, and irritating to skin, eyes, and respiratory system. Glacial acetic acid is corrosive and causes severe burns.
+
+**Required PPE**:
+- Nitrile gloves (double-gloving recommended)
+- Safety glasses or goggles
+- Lab coat
+- Work in a fume hood
+
+**Disposal**: Formalin-containing waste must be disposed of as hazardous chemical waste. Label container clearly and follow institutional chemical waste disposal procedures.
 :::
 
 ## Materials
 
 -   Ethanol (95%)
--   Formalin (Formaldehyde 37% solution, histological grade, contains 10-15% methanol, Sigma \# F1635)
+-   Formalin (Formaldehyde 37% solution, histological grade, contains 10-15% methanol, Sigma # F1635)
 -   Glacial Acetic Acid
--   Distilled WaterSolutions
+-   Distilled Water
 
 ## Procedure
 
-1.  Prepare Dietrich's Fixative (100 ml), mix: - 30 ml Ethanol (95%) - 10 ml Formalin (Formaldehyde 37% solution, histological grade, contains 10-15% methanol, Sigma \# F1635) - 2 ml Glacial Acetic Acid - 58 ml Distilled Water
-2.  Store fixative at room temperature.
+1.  Prepare Dietrich's Fixative (100 ml) in a fume hood by mixing:
+    - 30 ml Ethanol (95%)
+    - 10 ml Formalin (Formaldehyde 37% solution, histological grade, contains 10-15% methanol, Sigma # F1635)
+    - 2 ml Glacial Acetic Acid
+    - 58 ml Distilled Water
 
-## Associated Papers
+2.  Mix thoroughly and transfer to a labeled, sealed container.
 
--   xxx
--   xxx
--   xxx
--   xxx
+## Storage
+
+-   **Temperature**: Room temperature
+-   **Duration**: Stable for several months when properly sealed
+-   **Container**: Glass bottle with tight-sealing lid, stored in chemical cabinet or fume hood
+-   **Label**: Clearly mark as "Dietrich's Fixative" with date prepared and hazard warnings
+
+## Quality Control
+
+-   Solution should be clear and colorless
+-   Discard if solution becomes cloudy or develops precipitate
+-   Strong formaldehyde odor is normal
+
+## Related Protocols
+
+-   Used in sentinel fish preservation protocols

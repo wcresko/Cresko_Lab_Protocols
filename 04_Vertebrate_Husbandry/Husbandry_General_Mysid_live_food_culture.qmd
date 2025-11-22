@@ -23,7 +23,7 @@
 2.  **Water Change**
     -   2-3 times per week. The mysid tanks are connected to the pipefish water system so will experience a water change along with the pipefish. See pipefish water change SOP.
 
-::: {.callout-note title="This is a callout NOTE"}
+::: {.callout-note title="Note"}
 Mysids will only be collected Monday through Friday.
 :::
 
@@ -35,9 +35,8 @@ Mysids will only be collected Monday through Friday.
     -   Put all the mysids from container #1 into the empty "reset" tank.
     -   Feed the mysids in container #2 to the adult pipefish.
 
-## Associated Papers
+## Related Protocols
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   @sec-husbandry_pipefish_tank_maint - Pipefish water system maintenance
+-   @sec-husbandry_syng_cross - Pipefish crossing and breeding
+-   @sec-husbandry-weekend_feeding - Weekend feeding protocols

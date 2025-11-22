@@ -2,34 +2,87 @@
 
 ## Introduction
 
--   **Purpose**: This procedure describes how to generate cytoplasmic hybrids (cybrids). Cytoplasm Transfer (CT) protocols have been established for a long time in vertebrates with the first human born from cytoplasm transfer in 1997. Methods follow similar protocols to somatic cell nuclear transfer in zebrafish and include the donation of approximately 20% of the donor egg cytoplasm into recipients at the single cell stage.
+-   **Purpose**: This procedure describes how to generate cytoplasmic hybrids (cybrids) in threespine stickleback. Cytoplasm Transfer (CT) protocols have been established for a long time in vertebrates with the first human born from cytoplasm transfer in 1997. Methods follow similar protocols to somatic cell nuclear transfer in zebrafish and include the donation of approximately 20% of the donor egg cytoplasm into recipients at the single cell stage.
 -   **Procedure Type**: Vert Experimental
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
 -   **Author**: Emily Beck
 -   **Date Created**: January 01, 2024
 
+::: {.callout-important title="IACUC Protocol Required"}
+This procedure requires an active IACUC protocol covering embryo microinjection and euthanasia. Ensure all personnel are properly trained in microinjection techniques.
+:::
+
+::: {.callout-note title="Background on Cybrids"}
+Cytoplasmic hybrids (cybrids) allow researchers to study mitochondrial function by transferring mitochondria-containing cytoplasm from one line to another. This technique is useful for:
+
+-   Studying mitochondrial genome effects
+-   Creating lines with specific mitochondrial-nuclear combinations
+-   Testing for heteroplasmy (presence of multiple mitochondrial genotypes)
+-   Mitochondrial replacement therapy research
+:::
+
 ## Materials
 
--   Petri dish with specialized trough rig
--   Injection rig
--   Transfer pipette
+-   Petri dish with specialized trough rig for holding embryos
+-   Microinjection rig with micromanipulator
+-   Pulled needles for injection (see @sec-vert_exp-needle_pulling)
+-   Transfer pipettes
+-   Dissecting microscope
+-   Microinjector (pneumatic or manual)
 
 ## Solutions
 
--   Embryo medium
+-   Embryo medium - see @sec-general_recipe_embryo_medium
+-   MS-222 euthanasia solution (for later stages)
 
 ## Procedure
 
-1.  Collect eggs and sperm from one mitochondrial line (recipient) and fertilize {#sec-husbandry_stickleback_crossing}.
-2.  Collect eggs from alternate (donor) mitochondrial line.
-3.  Use microinjector to draw 20% of cytoplasm from donor egg {#sec-vert_exp_embryo_injections}.
-4.  Use microinjector to inject recipient embryo at single cell stage, \~ 1 hour post fertilization.
-5.  Rear animals until 10 days post fertilization, euthanize {#sec-vert_husb-euthanasia_syngnathid} animal, and use a restriction digest to test for heteroplasmy.
+::: {.callout-warning title="Timing is Critical"}
+Work quickly but carefully. The single-cell stage is brief (\~1 hour post fertilization at 20°C). Have all materials prepared before beginning fertilization.
+:::
+
+1.  **Recipient embryo preparation**: Collect eggs and sperm from one mitochondrial line (recipient) and fertilize according to @sec-husbandry_stickleback_crossing.
+
+2.  **Donor egg preparation**: Collect eggs from alternate (donor) mitochondrial line. Keep unfertilized for cytoplasm extraction.
+
+3.  **Cytoplasm extraction**: Use microinjector to draw approximately 20% of cytoplasm from donor egg. See @sec-vert_exp-embryo_injections for general injection techniques.
+
+4.  **Cytoplasm transfer**: Inject recipient embryo at single-cell stage, approximately 1 hour post fertilization (at 20°C).
+    -   Aim to inject into the cytoplasm without disrupting the nucleus.
+    -   Inject the 20% volume of donor cytoplasm into recipient.
+
+5.  **Embryo rearing**: Transfer injected embryos to fresh embryo medium and rear at standard conditions (20°C).
+
+6.  **Heteroplasmy testing**: Rear animals until 10 days post fertilization, euthanize according to @sec-vert_husb-euthanasia_syngnathid, and use a restriction digest or sequencing to test for heteroplasmy (presence of both donor and recipient mitochondrial DNA).
+
+## Quality Control
+
+::: {.callout-tip title="Verifying Success"}
+-   Monitor survival rates of injected vs. control embryos
+-   Check for normal development at key stages (24 hpf, 48 hpf, hatching)
+-   Molecular confirmation of heteroplasmy is essential
+-   Expected heteroplasmy levels may vary; document and track across generations
+:::
+
+## Related Protocols
+
+-   Stickleback crossing procedures: @sec-husbandry_stickleback_crossing
+-   Embryo injection techniques: @sec-vert_exp-embryo_injections
+-   Needle pulling: @sec-vert_exp-needle_pulling
+-   Euthanasia protocols: @sec-vert_husb-euthanasia_syngnathid
+
+## Troubleshooting
+
+::: {.callout-warning title="Common Issues"}
+-   **High mortality**: May indicate too much cytoplasm transferred or needle too large
+-   **Low heteroplasmy detection**: Donor cytoplasm may have been lost; verify injection volume
+-   **Developmental defects**: May indicate incompatibility between nuclear and mitochondrial genomes
+:::
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   Cohen, J., et al. 1997. Birth of infant after transfer of anucleate donor oocyte cytoplasm into recipient eggs. Lancet.
+-   Ma, H., et al. 2016. Metabolic rescue in pluripotent cells from patients with mtDNA disease. Nature.
+-   Relevant papers on somatic cell nuclear transfer in zebrafish
+-   Papers on mitochondrial heteroplasmy detection methods

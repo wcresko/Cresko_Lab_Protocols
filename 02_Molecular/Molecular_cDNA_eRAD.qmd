@@ -2,65 +2,95 @@
 
 ## Introduction
 
--   **Purpose**: This procedure describes how to synthesis cDNA for use with eRAD.
+-   **Purpose**: This procedure describes how to synthesize cDNA for use with eRAD (expression RAD-seq).
 -   **Procedure Type**: Molecular
--   **Species**:
--   **Author**: xxx
--   **Date Created**: xxx
+-   **Species**: N/A
+-   **Author**: Susie Bassham
+-   **Date Created**: Unknown
 
-::: {.callout-warning title="NOTES"}
-xxxx
+::: {.callout-warning title="Safety"}
+**Personal Protective Equipment (PPE):**
+
+- Lab coat
+- Safety glasses
+- Nitrile gloves
+
+**Chemical Safety:**
+
+- Handle DTT with care; it is an irritant and has a strong odor
+- Handle EDTA with care; it is an irritant
+- Work in a well-ventilated area
+- RNase-free technique required; wear gloves at all times
 :::
 
 ## Materials
 
--   2 µl Random Primer Mix (60 µM, NEB; a mix of random hexamers, anchored-dT primers, and 1 mM dNTPs)\*
+-   Thermal cycler or heat block
+-   Ice
+-   Microcentrifuge tubes (RNase-free)
+-   Pipettes and RNase-free tips
+-   Zymo DNA column
+
+## Solutions
+
+-   2 µl Random Primer Mix (60 µM, NEB; a mix of random hexamers, anchored-dT primers, and 1 mM dNTPs)
 -   0.8 µl 10 mM dNTP mix
 -   X µl up to 0.5 µg mRNA
--   Water (if necessary)
+-   Nuclease-free water (if necessary)
 -   4 µl 5x First-Strand Buffer (Invitrogen)
--   1 µl 0.1 mM DTT -- Invitrogen
--   1 µl RNase inhibitor -- e.g., RNAseOUT (Invitrogen)
--   1 µl Superscript III reverse transcriptase (200 u/µl -- Invitrogen)
+-   1 µl 0.1 M DTT (Invitrogen)
+-   1 µl RNase inhibitor, e.g., RNAseOUT (Invitrogen)
+-   1 µl Superscript III reverse transcriptase (200 u/µl, Invitrogen)
 -   15 µl 10x Second-Strand Synthesis Reaction Buffer (B6117S, NEB)
 -   3 µl 10 mM dNTPs
 -   1 µl E. coli ligase (10 u/µl)
 -   4 µl E. coli DNA Polymerase I (10 u/µl)
 -   0.4 µl E. coli RNase H (5 u/µl)
--   3.3 µl (10 u) T4 DNA polymerase (3 u/µl, NEB).
+-   3.3 µl (10 u) T4 DNA polymerase (3 u/µl, NEB)
 -   10 µl 0.5 M EDTA
--   Zymo DNA column
+
+## Related Protocols
+
+- See @sec-molecular-dbl_strand_cDNA for detailed double-stranded cDNA synthesis protocol
+- See @sec-molecular-RADseq for RAD-seq library preparation
+- See @sec-molecular-bead_extraction for DNA cleanup procedures
 
 ## Procedure
 
-### First strand synthesis {#first-strand-synthesis .subhead}
+### First Strand Synthesis {#sec-first-strand-synthesis}
 
-Combine:
+1.  Combine:
 
--   2 µl Random Primer Mix (60 µM, NEB; a mix of random hexamers, anchored-dT primers, and 1 mM dNTPs)\*
--   0.8 µl 10 mM dNTP mix
--   X µl up to 0.5 µg mRNA
--   Water (if necessary) to bring total to 12 µl
+    -   2 µl Random Primer Mix (60 µM, NEB; a mix of random hexamers, anchored-dT primers, and 1 mM dNTPs)
+    -   0.8 µl 10 mM dNTP mix
+    -   X µl up to 0.5 µg mRNA
+    -   Nuclease-free water (if necessary) to bring total to 12 µl
 
-Heat to 65˚C for 5 min., then ice
+2.  Heat to 65°C for 5 min., then place on ice
 
-Collect contents at bottom of tube by brief centrifugation.
+3.  Collect contents at bottom of tube by brief centrifugation.
 
-Add:
+4.  Add:
 
--   4 µl 5x First-Strand Buffer (Invitrogen)
--   1 µl 0.1 mM DTT -- Invitrogen
--   1 µl RNase inhibitor -- e.g., RNAseOUT (Invitrogen)
--   1 µl Superscript III reverse transcriptase (200 u/µl -- Invitrogen)
+    -   4 µl 5x First-Strand Buffer (Invitrogen)
+    -   1 µl 0.1 M DTT (Invitrogen)
+    -   1 µl RNase inhibitor, e.g., RNAseOUT (Invitrogen)
+    -   1 µl Superscript III reverse transcriptase (200 u/µl, Invitrogen)
 
-Mix by gentle aspiration
+5.  Mix by gentle aspiration
 
--   25°C for 10 min.
+6.  Incubate at 25°C for 10 min.
 
-::: {.callout-warning title="NOTES"}
-Reaction can be scaled up to accommodate more starting RNA
+::: {.callout-note title="Note"}
+Reaction can be scaled up to accommodate more starting RNA. This protocol continues with second strand synthesis as described in @sec-molecular-dbl_strand_cDNA.
 :::
 
-*Synthesis:* Incubate at 50°C for 50 min.
+7.  **Synthesis**: Incubate at 50°C for 50 min.
 
-*Inactivation:* 85°C for 5 min. Chill on ice, collect contents to bottom by short spin.
+8.  **Inactivation**: Heat to 85°C for 5 min. Chill on ice, collect contents to bottom by short spin.
+
+9.  Continue with second strand synthesis, end repair, and restriction digestion as needed for your eRAD library preparation (see @sec-molecular-RADseq for complete RAD-seq protocols).
+
+::: {.callout-note title="Storage"}
+cDNA can be stored at -20°C for several months or at -80°C for long-term storage.
+:::

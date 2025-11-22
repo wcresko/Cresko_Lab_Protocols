@@ -8,7 +8,25 @@
 
 -   **Author**: Susie Bassham
 
--   **Date Created**: xxx
+-   **Date Created**: Unknown
+
+::: {.callout-warning title="Safety"}
+**Personal Protective Equipment (PPE):**
+
+- Lab coat
+- Safety glasses
+- Nitrile gloves
+
+**Biological Safety:**
+
+- Use aseptic technique when handling bacterial cultures
+- Dispose of bacterial waste in appropriate biohazard containers
+- Work near a flame or in a biosafety cabinet when handling cultures
+
+**Chemical Safety:**
+
+- Ampicillin is an antibiotic; handle with care
+:::
 
 ## Materials
 
@@ -20,15 +38,21 @@
 
 ## Solutions
 
--   0.5 μl of salt solution
--   0.5 μl of vector
--   20 μl of TOP10 chemically competent cells
--   400 μl of room temp SOC
--   10.0 μl Lab PCR mix
--   0.25 μl T3/T7 Primer Pair
--   0.1 μl Taq
--   50 μl LB-Amp
+-   Salt solution (from TOPO TA Cloning Kit)
+-   TOPO PCR4 vector
+-   TOP10 chemically competent cells
+-   SOC medium (room temperature)
+-   Lab PCR mix (see @sec-molecular-2x_Turbo)
+-   T3/T7 Primer Pair
+-   Taq polymerase
+-   LB-Amp medium (LB + ampicillin)
 -   14% Glycerol
+
+## Related Protocols
+
+- See @sec-molecular-Phusion_PCR for PCR amplification
+- See @sec-molecular-gel for running gels
+- See @sec-molecular-clone_insert_screen for screening clones
 
 ## Procedure
 
@@ -84,6 +108,4 @@
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
+-   None listed

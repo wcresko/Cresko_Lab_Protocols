@@ -1,63 +1,157 @@
-# Steroid Measurement {#sec-vert_exp-steroid_measure}
+# Steroid Measurement in Conditioned Water {#sec-vert_exp-steroid_measure}
 
 ## Introduction
 
--   **Purpose**: This procedure describes the technique of how to measure steroids in water that has been occupied by fish.
+-   **Purpose**: This procedure describes the technique for measuring steroids in water that has been occupied by fish (conditioned water). This non-invasive method allows measurement of reproductive hormones without sacrificing the animal.
 -   **Procedure Type**: Vert Experiment
 -   **Species**:
-    -   Threespine stickleback, (*Gasterosteus aculeatus*),
-    -   Bay pipefish, (*Syngnathus leptorhyncus*),
+    -   Threespine stickleback, (*Gasterosteus aculeatus*)
+    -   Bay pipefish, (*Syngnathus leptorhyncus*)
     -   Gulf pipefish (*Syngnathus scovelli*)
-    -   Zebrafish, (*Danio rerio*),
--   **Author**: xxx
--   **Date Created**: xxx
+    -   Zebrafish, (*Danio rerio*)
+-   **Author**: Adapted from Scott et al. protocols
+-   **Date Created**: January 01, 2024
 
-## Materials: {#materials .head}
+::: {.callout-important title="IACUC Protocol Required"}
+This procedure requires an active IACUC protocol. While non-invasive, the temporary isolation of fish in collection beakers constitutes an experimental manipulation.
+:::
 
--   150 ml glass beaker
+::: {.callout-note title="Background"}
+Fish continuously release steroids into their surrounding water. By collecting and concentrating steroids from conditioned water, hormone levels can be measured using radioimmunoassay (RIA) without blood collection. This method is particularly useful for:
+-   Repeated measurements from the same individual
+-   Small fish where blood volume is limiting
+-   Studies requiring non-lethal sampling
+:::
+
+## Materials
+
+-   150 ml glass beakers (one per fish)
 -   C18 solid phase extraction (SPE) cartridges containing octadecylsilane (Sep-pak Plus, Waters Ltd., Watford, UK)
+-   60 ml syringes (BD Plastipak) for pushing water through SPE cartridges
+-   Vacuum manifold (optional, for SPE processing)
+-   Nitrogen gas source with regulator (for drying samples)
+-   Heating block or water bath (45°C)
+-   Scintillation vials
+-   Polypropylene centrifuge tubes (50 ml)
 
 ## Solutions
 
--   5 ml of distilled water
--   5 ml ethyl acetate
--   1 ml of RIA buffer (0.5 M phosphate buffer containing 0.2% bovine serum albumen, 0.8% sodium chloride, 0.03% EDTA and 0.01% sodium azide)
--   ^3^H-labeled steroids for 11-KT are purchased directly from Amersham Biosciences, UK (Scott et al., 2005)
+-   **100% methanol** (5 ml per sample)
+-   **Distilled water** (5 ml per sample)
+-   **Ethyl acetate** (5 ml per sample)
+-   **RIA buffer**: 0.5 M phosphate buffer containing 0.2% bovine serum albumin, 0.8% sodium chloride, 0.03% EDTA and 0.01% sodium azide (1 ml per sample)
+-   **^3^H-labeled steroids** for 11-KT (purchased from Amersham Biosciences, UK - Scott et al., 2005)
+-   **Dextran-coated charcoal** (for separating free and bound steroids)
+-   **Scintillation fluid** (7 ml per tube)
+
+::: {.callout-warning title="Chemical Safety"}
+-   Methanol and ethyl acetate are flammable - keep away from ignition sources.
+-   Work in a fume hood when using organic solvents.
+-   Sodium azide is toxic - handle with care.
+-   Follow radiation safety protocols when working with ^3^H-labeled compounds.
+:::
 
 ## Procedure
 
-### Water Collection {#water-collection .subhead}
+### Water Collection
 
--   The fish is placed in a 150-ml glass beaker with 50 ml of fresh water (the same source as used for aquaria) for 30 min.
--   In the case of male sticklebacks in individual tanks, the beaker is placed on a support in the tank to minimise the potential confinement stress.
--   After the 30-min period the fish is released in its tank.
--   If not able to pump the water sample immediately, pour the conditioned water into a 50-ml polypropylene centrifuge tube and store at 4°C (up to 1hour) or -20°C.
+1.  Place the fish in a 150 ml glass beaker with 50 ml of fresh water (the same source as used for home aquaria) for 30 minutes.
 
-### Steroid Extraction {#steroid-extraction .subhead}
+2.  **Minimize stress**: In the case of male sticklebacks in individual tanks, the beaker can be placed on a support within the home tank to minimize potential confinement stress.
 
--   Water samples are pumped through C18 solid phase extraction (SPE) cartridges containing octadecylsilane (Sep-pak Plus, Waters Ltd., Watford, UK).
--   The cartridges are first washed with 5 ml of 100% methanol and then 5 ml of distilled water.
--   As the volume of water is small (50ml) no filter is used.
--   The water samples are transferred into 60-ml syringes (BD Plastipak), drawn by vacuum through the cartridges, and 5 ml of distilled water is pushed through the cartridges and blown out.
--   The steroids are extracted with 5 ml ethyl acetate, which was then dried down to dryness under a stream of nitrogen (45°C).
--   Then, 1 ml of RIA buffer (0.5 M phosphate buffer containing 0.2% bovine serum albumen, 0.8% sodium chloride, 0.03% EDTA and 0.01% sodium azide) is added and the tubes stored at -20°C until RIAs.
+3.  **Return fish**: After the 30-minute collection period, return the fish to its tank.
 
-### Radioimmunoassay {#radioimmunoassay .subhead}
+4.  **Store water sample**: If not able to process the water sample immediately:
+    -   Pour the conditioned water into a 50 ml polypropylene centrifuge tube.
+    -   Store at 4°C (for up to 1 hour) or -20°C (for longer storage).
 
--   ^3^H-labeled steroids for 11-KT are purchased directly from Amersham Biosciences, UK (Scott et al., 2005).
--   Antisera came from previously recorded sources (see (Lower et al., 2004) where the same sort of study was carried out).
--   The RIA procedure has been described previously (Scott et al., 1980; Scott et al., 1984; Scott et al., 1982).
--   Briefly, 100 μl aliquots from the water sample extract or standards are transferred to assay tubes.
--   Labelled steroids and antisera are added in a further 100 μl of assay buffer, and the tubes left to incubate overnight at 4°C.
--   Free and bound labelled steroids are separated with dextran-coated charcoal by centrifugation (2,500 rpm for 12 min at 4ºC).
--   The supernatant is poured into suitable vials and 7 ml of scintillation fluid is added.
--   Each tube is then counted for 5 min in the counter (Beckman LS 6500).
--   The detection limit of the assays varied between 1 and 10 pg/ assay tube (i.e. 10 pg/ 100μl assay buffer).
+### Steroid Extraction via Solid Phase Extraction (SPE)
+
+5.  **Prepare SPE cartridges**:
+    -   Wash C18 SPE cartridges (Sep-pak Plus) with 5 ml of 100% methanol.
+    -   Follow with 5 ml of distilled water.
+    -   Do not allow cartridges to dry between steps.
+
+6.  **Load water samples**:
+    -   As the volume of water is small (50 ml), no filtration is needed.
+    -   Transfer water samples into 60 ml syringes (BD Plastipak).
+    -   Pass water through the SPE cartridges using gentle vacuum or manual pressure.
+
+7.  **Wash cartridges**:
+    -   Push 5 ml of distilled water through the cartridges.
+    -   Blow out excess water.
+
+8.  **Elute steroids**:
+    -   Elute steroids with 5 ml ethyl acetate.
+    -   Collect eluate in glass tubes.
+
+9.  **Dry samples**:
+    -   Dry down ethyl acetate to dryness under a stream of nitrogen gas at 45°C.
+    -   Be patient - complete drying is essential.
+
+10. **Reconstitute**:
+    -   Add 1 ml of RIA buffer to the dried residue.
+    -   Vortex to resuspend.
+    -   Store at -20°C until radioimmunoassays are performed.
+
+### Radioimmunoassay (RIA)
+
+::: {.callout-note title="RIA Protocol Overview"}
+The RIA procedure has been described in detail previously (Scott et al., 1980; Scott et al., 1984; Scott et al., 1982). The following is a brief overview:
+:::
+
+11. **Obtain reagents**:
+    -   ^3^H-labeled steroids for 11-KT (Amersham Biosciences, UK).
+    -   Antisera from established sources (see Lower et al., 2004 for validated sources).
+
+12. **Set up assay**:
+    -   Transfer 100 μl aliquots from the water sample extract or standards into assay tubes.
+    -   Add labeled steroids and antisera in a further 100 μl of assay buffer.
+
+13. **Incubate**:
+    -   Incubate tubes overnight at 4°C to allow antibody-antigen binding.
+
+14. **Separate free and bound steroids**:
+    -   Add dextran-coated charcoal to bind free (unbound) steroids.
+    -   Centrifuge at 2,500 rpm for 12 minutes at 4°C.
+    -   Charcoal pellet contains free steroids; supernatant contains antibody-bound steroids.
+
+15. **Count radioactivity**:
+    -   Pour supernatant into scintillation vials.
+    -   Add 7 ml of scintillation fluid to each vial.
+    -   Count each tube for 5 minutes in a scintillation counter (e.g., Beckman LS 6500).
+
+16. **Calculate steroid concentrations**:
+    -   Use standard curves to determine steroid concentrations.
+    -   Detection limit: 1-10 pg per assay tube (10 pg per 100 μl assay buffer).
+
+## Quality Control
+
+::: {.callout-tip title="Important Considerations"}
+-   Include standard curves with each assay run
+-   Run samples in duplicate or triplicate
+-   Include quality control samples at known concentrations
+-   Verify antibody specificity and cross-reactivity
+-   Document extraction efficiency for each steroid of interest
+:::
+
+## Related Protocols
+
+-   Fish blood collection (alternative method): @sec-vert_exp-blood_collection
+-   Fish husbandry and handling protocols
+
+## Troubleshooting
+
+::: {.callout-warning title="Common Issues"}
+-   **Low/undetectable steroids**: Ensure fish are in breeding condition; verify SPE extraction efficiency.
+-   **High variability**: Standardize collection time, water volume, and fish handling; reduce stress.
+-   **Poor RIA performance**: Check antibody storage and dilutions; verify scintillation counter calibration.
+:::
 
 ## Associated Papers
 
--   LOWER, N., SCOTT, A. P. & MOORE, A. (2004). Release of sex steroids into the water by roach. --- Journal of Fish Biology 64, 16-33.
--   SCOTT, A. P., BYE, V. J., BAYNES, S. M. & SPRINGATE, J. R. C. (1980). Seasonal variations in plasma concentrations of 11-ketotestosterone and testosterone in male rainbow trout, Salmo gairdnerii Richardson. --- Journal of Fish Biology 17, 495-505.
--   SCOTT, A. P., SHELDRICK, E. L. & FLINT, A.P.F. (1982). Measurement of 17a,20b-dihydroxy-4-pregnen-3-one in plasma of trout (Salmo gairdneri Richardson): seasonal changes and response to salmon pituitary extract. --- General and Comparative Endocrinology 46, 444-451
--   SCOTT, A. P., MACKENZIE, D. S. & STACEY, N. E. (1984). Endocrine changes during natural spawning in the white sucker, Catostomus commersoni. II. Steroid hormones. --- General and Comparative Endocrinology 56, 349-359.
--   SCOTT, A. P., PINILLOS, M. L. & HUERTAS, M. (2005). The rate of uptake of sex steroids from water by Tinca tinca is influenced by their affinity for sex steroid binding protein in plasma. --- Journal of Fish Biology 67, 182-200
+-   Lower, N., Scott, A.P. & Moore, A. (2004). Release of sex steroids into the water by roach. Journal of Fish Biology 64, 16-33.
+-   Scott, A.P., Bye, V.J., Baynes, S.M. & Springate, J.R.C. (1980). Seasonal variations in plasma concentrations of 11-ketotestosterone and testosterone in male rainbow trout, Salmo gairdnerii Richardson. Journal of Fish Biology 17, 495-505.
+-   Scott, A.P., Sheldrick, E.L. & Flint, A.P.F. (1982). Measurement of 17α,20β-dihydroxy-4-pregnen-3-one in plasma of trout (Salmo gairdneri Richardson): seasonal changes and response to salmon pituitary extract. General and Comparative Endocrinology 46, 444-451.
+-   Scott, A.P., Mackenzie, D.S. & Stacey, N.E. (1984). Endocrine changes during natural spawning in the white sucker, Catostomus commersoni. II. Steroid hormones. General and Comparative Endocrinology 56, 349-359.
+-   Scott, A.P., Pinillos, M.L. & Huertas, M. (2005). The rate of uptake of sex steroids from water by Tinca tinca is influenced by their affinity for sex steroid binding protein in plasma. Journal of Fish Biology 67, 182-200.

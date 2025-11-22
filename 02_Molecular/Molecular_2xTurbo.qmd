@@ -6,6 +6,20 @@
 -   **Procedure Type**: Molecular
 -   **Species**: N/A
 
+::: {.callout-warning title="Safety"}
+**Personal Protective Equipment (PPE):**
+
+- Lab coat
+- Safety glasses
+- Nitrile gloves
+
+**Chemical Safety:**
+
+- Handle Triton-X 100 with care; it is an irritant
+- Handle DMSO with care; it can facilitate absorption of other chemicals through skin
+- Work in a well-ventilated area when handling concentrated solutions
+:::
+
 ## Materials:
 
 -   33,000 µl npH2O
@@ -27,8 +41,20 @@ Total = 40 ml of buffer
 
 NONE
 
+## Related Protocols:
+
+- See @sec-molecular-clone_insert_screen for using 2x Turbo in insert screening
+
 ## Procedure:
 
--   Mix above reagents together
--   Place in 1.5 ml ependorph tubes
--   Store at -20C
+1.  Mix above reagents together in order listed
+2.  Mix thoroughly to ensure complete homogenization
+3.  Aliquot into 1.5 ml microcentrifuge tubes
+4.  Label tubes with contents, date, and initials
+5.  Store at -20°C
+
+::: {.callout-note title="Quality Control"}
+- Verify pH and concentration of stock solutions before mixing
+- Test new batch with a positive control PCR reaction
+- Date and track batch numbers for quality assurance
+:::
