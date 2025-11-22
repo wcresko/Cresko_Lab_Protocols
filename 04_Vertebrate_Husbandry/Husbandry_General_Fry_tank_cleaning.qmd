@@ -1,42 +1,52 @@
-# PLastic Tank Cleaning {#sec-husbandry-plastic_tank_cleaning}
+# Plastic Tank Cleaning {#sec-husbandry-plastic_tank_cleaning}
 
 ## Introduction
 
--   **Purpose**: This procedure describes how to clean plastic tanks. Fish will live in these tanks (4.5 or 10.5 liter) for 2-3 months at which point the tank will be emptied and sterilized using the dishwasher then stored for further use. If the fry remain in these tanks for longer then 3 months, or there is a build-up of waste or algae in the tanks, then follow this procedure.
+-   **Purpose**: This procedure describes how to clean plastic tanks. Fish will live in these tanks (4.5 or 10.5 liter) for 2-3 months at which point the tank will be emptied and sterilized using the dishwasher then stored for further use. If the fry remain in these tanks for longer than 3 months, or there is a build-up of waste or algae in the tanks, then follow this procedure.
 -   **Procedure Type**: Husbandry
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
     -   Gulf pipefish (*Syngnathus scovelli*)
 -   **Author**: Mark Currey
 -   **Date Created**: April 10, 2008
-
-## Materials:
-
--   2.8 L or 9.5 L Aquaneering tanks
--   matching lid
--   fry baffle - note: When placing new fish into the system use 400 micron (smaller) mesh baffles.
--   Blue tubing.
-
-## Solutions:
+-   **IACUC Protocol**: Covered under facility maintenance procedures
 
 ::: {.callout-caution title="Chemical Hygiene"}
-When using bleach and/or Sodium Thiosulfate. Eye protection is required. Please use splash proof glasses or a face shield and gloves during this protocol.
+When using bleach and/or Sodium Thiosulfate, eye protection is required. Please use splash proof glasses or a face shield and gloves during this protocol.
 :::
 
--   Bleach solution: Make a 10% bleach solution in a 2 gallon bucket. Add 4.5 L of water. Add 0.5 L of bleach and gently stir.
--   Sodium thiosulfate: Make a 3% solution of sodium thiosulfate in a separate 2 gallon bucket. Add 5 L of water (to line) and 150g (marked on dispenser) of sodium thiosulfate. Mix
+## Materials
 
-## Procedure:
+-   2.8 L or 9.5 L Aquaneering tanks
+-   Matching lid
+-   Fry baffle - note: When placing new fish into the system use 400 micron (smaller) mesh baffles
+-   Blue tubing
+-   Net (for transferring fish)
 
-1.  Obtain clean fry tank and install lid and baffle.
-2.  Put fish from dirty tank into clean tank. To do this remove dirty fish tank from rack and carefully pour off 1/3 of tank water. Then pour the rest of the water and fish into clean tank. If there is lots of waste in the tank transfer fish with a net to leaving waste in dirty tank.
-3.  Put clean tank of fish back on rack and start water.
-4.  Wash dirty tank, lid, and baffle using the dishwasher (see Dishwasher SOP).
-5.  Clean blue tubing with a squirt of bleach followed by a squirt of sodium thiosulfate and then rinsed thoroughly with hot water.
+## Solutions
+
+-   **Bleach solution**: Make a 10% bleach solution in a 2 gallon bucket. Add 4.5 L of water. Add 0.5 L of bleach and gently stir.
+-   **Sodium thiosulfate**: Make a 3% solution of sodium thiosulfate in a separate 2 gallon bucket. Add 5 L of water (to line) and 150g (marked on dispenser) of sodium thiosulfate. Mix thoroughly.
+
+## Procedure
+
+1.  **Prepare clean tank**: Obtain clean fry tank and install lid and baffle.
+
+2.  **Transfer fish**: Put fish from dirty tank into clean tank. To do this, remove dirty fish tank from rack and carefully pour off 1/3 of tank water. Then pour the rest of the water and fish into clean tank. If there is lots of waste in the tank transfer fish with a net, leaving waste in dirty tank.
+
+3.  **Return fish to system**: Put clean tank of fish back on rack and start water.
+
+4.  **Clean dirty tank**: Wash dirty tank, lid, and baffle using the dishwasher. See @sec-husbandry-dishwasher for dishwasher use instructions.
+
+5.  **Clean blue tubing**: Clean blue tubing with a squirt of bleach followed by a squirt of sodium thiosulfate and then rinse thoroughly with hot water.
+
+## Related Protocols
+
+-   See @sec-husbandry-dishwasher for dishwasher use
+-   See @sec-husbandry-plastic_glassware_cleaning for bleach and sodium thiosulfate cleaning
+-   See @sec-husbandry-20gal_tank_cleaning for 20 gallon tank cleaning
+-   See @sec-husbandry-incubator_use for fry care in incubator
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   None

@@ -9,46 +9,71 @@
     -   Gulf pipefish (*Syngnathus scovelli*)
 -   **Author**: J. Crandall
 -   **Date Created**: April 2016
+-   **IACUC Protocol**: Covered under facility maintenance procedures
+
+::: {.callout-note title="Note"}
+Bulkheads, PVC fittings, and PVC pipefish should be cleaned with bleach and sodium thiosulfate. See @sec-husbandry-plastic_glassware_cleaning for bleach cleaning procedures.
+:::
+
+::: {.callout-important title="Important"}
+BEFORE RUNNING THE DISHWASHER, SLIDE BOTH RACKS IN AND MAKE SURE THE RINSER ON THE BOTTOM OF THE TOP RACK CAN SPIN FREELY.
+:::
 
 ## Materials
 
--   Dishwasher soap
+-   Dishwasher soap (found under the sink)
+-   Temperature tape (used weekly on Thursday)
 
 ## Solutions
 
--   none
+-   None required
 
 ## Procedure
 
-::: {.callout-note title="NOTE"}
-Bulkheads, PVC fittings, and PVC pipefish should be cleaned with bleach and sodium thiosulfate (see xxxxxSOP).
+### Loading the Dishwasher
+
+1.  **Put away clean dishes**: If there are clean dishes from a previous cycle, put them away in their respective locations. If some are still wet, set them out to dry on the drying rack before putting them away.
+
+2.  **Rinse all dirty dishes very well**: Especially those with algae/food residue. The dishwasher will sanitize, but will not effectively clean, the dishes. Scrub dishes with a scrub pad to remove buildup, if needed.
+
+3.  **Load small tank lids**: Small tank lids should be stacked on the bottom rack, but not on the raised portion of the rack, as this impedes the rinser from spinning properly.
+
+4.  **Load plastic tanks and containers**: Plastic tanks and Ziploc containers should be placed on the top rack.
+
+5.  **Load nets**: Nets can be placed on both racks.
+
+6.  **Verify rinser can spin**: BEFORE RUNNING, slide both racks in and make sure the rinser on the bottom of the top rack can spin freely.
+
+::: {.callout-warning title="Weekly Temperature Check"}
+Once per week (ON THURSDAY) include temperature tape to verify dishwasher is reaching proper sanitization temperature.
 :::
 
--   Loading the dishwasher:
-    1.  If there are clean dishes from a previous cycle, put them away in their respective locations. If some are still wet, set them out to dry on the drying rack before putting them away.
-    2.  RINSE ALL DIRTY DISHES VERY WELL, especially those with algae/food residue. the dishwasher will sanitize, but will not effectively clean, the dishes. Scrub dishes with a scrub pad to remove buildup, if needed.
-    3.  Small tank lids should be stacked on the bottom rack, but not on the raised portion of the rack, as this impedes the rinser from spinning properly.
-    4.  Plastic tanks, Ziploc containers should be placed on the top rack.
-    5.  Nets can be placed on both racks.
+### Running the Dishwasher
 
-::: {.callout-note title="NOTE"}
-BEFORE RUNNING THE DISHWASHER, SLIDE BOTH RACKS IN AND MAKE SURE THE RINSER ON THE BOTTOM OF THE TOP RACK CAN SPIN FREELY
-:::
+1.  **Add detergent**: Add ~1/2 scoop of dish detergent (found under the sink) to the well in the door of the dishwasher. Close the lid to the well.
 
-::: {.callout-note title="NOTE"}
-Once per week (ON THURSDAY) include temperature tape
-:::
+2.  **Close and start**: Close and latch the door to the dishwasher. The display will light up, and after booting up it should read "User 1."
 
--   Running the dishwasher:
-    1.  Add \~1/2 scoop of dish detergent (found under the sink) to the well in the door of the dishwasher. Close the lid to the well.
-    2.  Close and latch the door to the dishwasher. The display will light up, and after booting up it should read "User 1." Press the RUN/CANCEL button to begin the cycle. If it instead displays a list of programs, use the down arrow key to navigate down the list to "User 1." When the "User 1" program is highlighted, press the RUN/CANCEL button to begin the cycle. If the screen displays something other than "User 1," press the DISPLAY button to show the list of programs, scroll down to "User 1," and press RUN/CANCEL.
-    3.  Should the program ever need to be cancelled mid-cycle, pressing the RUN/CANCEL button once will result in the cycle canceling and the water draining.
--   Cleaning large tank lids
-    1.  The small frontal lids to the large glass tanks should be loaded into the dishwasher. The large lids to the large glass tanks should be hosed off thoroughly with very hot water, and set on the rack to dry.
+3.  **Navigate menu (if needed)**:
+    -   If display shows "User 1": Press the RUN/CANCEL button to begin the cycle
+    -   If it displays a list of programs: Use the down arrow key to navigate down the list to "User 1." When "User 1" is highlighted, press RUN/CANCEL
+    -   If screen displays something other than "User 1": Press the DISPLAY button to show the list of programs, scroll down to "User 1," and press RUN/CANCEL
+
+4.  **Cancel if needed**: Should the program ever need to be cancelled mid-cycle, pressing the RUN/CANCEL button once will result in the cycle canceling and the water draining.
+
+### Cleaning Large Tank Lids
+
+1.  **Small frontal lids**: The small frontal lids to the large glass tanks should be loaded into the dishwasher.
+
+2.  **Large lids**: The large lids to the large glass tanks should be hosed off thoroughly with very hot water, and set on the rack to dry.
+
+## Related Protocols
+
+-   See @sec-husbandry-plastic_glassware_cleaning for bleach and sodium thiosulfate cleaning
+-   See @sec-husbandry-20gal_tank_cleaning for tank cleaning procedures
+-   See @sec-husbandry-plastic_tank_cleaning for fry tank cleaning
+-   See @sec-husbandry-autoclaving for autoclave use (for nets)
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   None

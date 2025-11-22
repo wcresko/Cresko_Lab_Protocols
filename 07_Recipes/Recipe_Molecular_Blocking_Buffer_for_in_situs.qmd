@@ -2,41 +2,83 @@
 
 ## Introduction
 
--   **Purpose**: Recipe for making 10 ml of blocking buffer for in situ hybridizations.
+-   **Purpose**: Recipe for making 10 ml of blocking buffer for in situ hybridizations to reduce non-specific antibody binding
 -   **Procedure Type**: Recipe
 -   **Author**: Micah Woods
 -   **Date Created**: March 5, 2024
 
 ## Solutions
 
--   Goat or sheep serum (200 ul)
-    -   Located in the "Pistol Frog Pond" freezer in 1.5 ml aliquots.
--   BSA (0.02 g)
-    -   Located in the "Cruella Cooper" fridge in a white bottle with a red lid.
--   PBT (10 ml)
+-   Goat or sheep serum (200 μl) - 2% final concentration
+    -   Located in the "Pistol Frog Pond" freezer in 1.5 ml aliquots
+    -   Heat-inactivated serum preferred
+-   BSA (0.02 g) - 0.2% final concentration
+    -   Bovine Serum Albumin, powder form
+    -   Located in the "Cruella Cooper" fridge in a white bottle with a red lid
+-   @sec-recipe-pbt (10 ml)
+    -   Phosphate Buffered Saline with Tween-20
 
 ## Materials
 
 -   15 ml plastic Falcon tube
--   Pipettess
+-   Pipettes (200 μl and 1-10 ml)
 -   Pipette tips
 -   Analytical balance
--   Weigh paper
+-   Weigh paper or weigh boat
+
+::: {.callout-note title="Note"}
+Prepare fresh blocking buffer on the day of use for best results. For large-scale experiments, can be prepared the day before and stored at 4°C.
+:::
 
 ## Procedure
 
-1.  Warm the goat or sheep serum to room temperature. Once melted and warmed to room temperature, flick the tube to mix and ensure the serum is homogenized.
+1.  Remove one aliquot of goat or sheep serum from freezer and thaw at room temperature
+    - Once melted and warmed to room temperature, flick the tube to mix and ensure the serum is homogenized
 
-2.  Add 200 ul of the goat or sheep serum to the 15 ml Falcon tube.
+2.  Add 200 μl of the goat or sheep serum to a clean 15 ml Falcon tube
 
-3.  Weigh 0.02 g of BSA using the analytical balance. Add the 0.02 g of BSA to the tube.
+3.  Weigh 0.02 g of BSA powder using the analytical balance
+    - Use clean weigh paper or weigh boat
+    - Add the 0.02 g of BSA to the tube with serum
 
-4.  Fill tube to 10 ml with PBT.
+4.  Fill tube to 10 ml mark with PBT (see @sec-recipe-pbt)
 
-5.  Mix the solution by gently inverting the tube a few times. Store in the fridge.
+5.  Cap tube and mix thoroughly by inverting 15-20 times until BSA is completely dissolved
+    - May take several minutes for BSA to fully dissolve
+    - Can gently vortex if needed to speed dissolution
 
-## Associated Papers
+6.  Check that solution is homogeneous with no visible BSA particles
 
--   x
--   x
--   x
+## Storage
+
+-   **Temperature**: 4°C (refrigerator)
+-   **Duration**: Use within 24 hours for best results; maximum 2-3 days
+-   **Container**: 15 ml Falcon tube with cap tightly sealed
+-   **Label**: Mark with "Blocking Buffer", date prepared, and expiration date
+
+## Quality Control
+
+-   **Appearance**: Solution should be clear to slightly opalescent
+-   **Protein dissolution**: No visible BSA particles should remain
+-   **Contamination check**: Discard if solution becomes cloudy or shows signs of bacterial growth
+-   **Efficacy**: Effective blocking reduces background staining in in situ hybridization
+
+::: {.callout-tip title="Usage Notes"}
+- Blocking buffer is used to pre-treat tissues before antibody incubation
+- Serum source (goat vs sheep) should match the host species of secondary antibody when possible
+- BSA provides additional protein to block non-specific binding sites
+- Typical blocking time is 1-2 hours at room temperature or 4°C
+- Can be scaled proportionally for larger or smaller volumes
+:::
+
+::: {.callout-caution title="Protein Handling"}
+**Gentle handling**: Avoid creating foam when mixing (proteins can denature at air-water interface)
+
+**Temperature**: Keep cold when not in use to prevent bacterial growth and protein degradation
+:::
+
+## Related Protocols
+
+-   Used in in situ hybridization protocols
+-   Requires @sec-recipe-pbt as base solution
+-   See immunohistochemistry and in situ hybridization protocols for detailed applications

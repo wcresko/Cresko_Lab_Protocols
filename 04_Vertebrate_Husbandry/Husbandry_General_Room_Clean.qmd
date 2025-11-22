@@ -3,13 +3,13 @@
 ## Introduction
 
 -   **Purpose**: Procedure for keeping animal facility clean and disinfected
--   **Procedure Type**: xxx
+-   **Procedure Type**: Husbandry
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
     -   Bay pipefish, (*Syngnathus leptorhyncus*)
     -   Gulf pipefish (*Syngnathus scovelli*)
--   **Author**: xxx
--   **Date Created**: xxx
+-   **Author**: Mark Currey
+-   **Date Created**: 2008
 
 ::: {.callout-caution title="Chemical Hygiene"}
 When using bleach and/or sodium thiosulfate. Eye protection is required. Please use splash proof glasses or a face shield when using bleach and sodium thiosulfate.
@@ -30,4 +30,9 @@ When using bleach and/or sodium thiosulfate. Eye protection is required. Please 
 -   Once per week the floors will be swept and mopped using a 10% bleach solution.
 -   Once per week counter tops will be cleaned with sponge and a 10% bleach solution.
 -   Broken tanks are to be taken to the dumpster located at the northeast corner of Pacific Hall.
--   Dishes will be done daily (see [Plastic and Glass Cleaning SOP]{#sec-husbandry-Plastic_Glassware_cleaning-bleach}.
+-   Dishes will be done daily (see @sec-husbandry-Plastic_Glassware_cleaning-bleach).
+
+## Related Protocols
+
+-   @sec-husbandry-Plastic_Glassware_cleaning-bleach - Plastic and glass cleaning
+-   @sec-husbandry-fish_health_check - Daily health checks

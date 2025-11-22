@@ -6,56 +6,79 @@
 -   **Procedure Type**: Vertebrate Husbandry
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
--   **Author**: Mark Currey\
+-   **Author**: Mark Currey
 -   **Date Created**: April 10, 2010, update January 1, 2014
+-   **IACUC Protocol**: Required for all euthanasia procedures
+
+::: {.callout-important title="IACUC Compliance"}
+-   All euthanasia must be performed by trained personnel
+-   Documented in laboratory records
+-   Follow approved euthanasia protocols
+-   Death must be confirmed before disposal or fixation
+:::
+
+::: {.callout-caution title="Chemical Safety"}
+-   Tricaine (MS-222) can be absorbed through skin - always wear gloves
+-   Work in well-ventilated area
+-   Dispose of MS-222 solutions according to chemical waste protocols
+:::
 
 ## Materials
 
--   Container to hold fish while being euthanized.
--   Post mortem fixing equipment
+-   Container to hold fish while being euthanized
+-   Post mortem fixing equipment (if needed)
 -   Morgue (if needed)
+-   95% Ethanol
+-   Gloves
 
 ## Solutions
 
--   Mesab Stock Solution {#sec-general_recipe_mesab}
-
--   Euthanasia strength Mesab (see below)
+-   **Mesab Stock Solution** - see @sec-general_recipe_mesab for detailed recipe:
+    -   4 g tricaine powder
+    -   979 ml DD water
+    -   ~21 ml 1 M Tris (pH 9)
+    -   Adjust pH to ~7
+    -   Aliquot in 50ml tubes, label with MESAB Stock Solution 4g/L, and store in a -20 freezer
+    -   This makes 1 liter of solution
 
 -   **Euthanasia Solution (300 mg/L)**:
-
-    -   Make Mesab stock solution or obtain an aliquot from the freezer.
-    -   Make a solution of 3.0 ppt Instant Ocean by adding 0.3 grams of Instant Ocean to 100 ml of DD water.
-    -   Combine 7.5ml of stock solution into 100 ml of 3 ppt Instant Ocean.
-    -   Store solution in an amber bottle to protect it from light and add mixed and expiration dates (6 months after being mixed) to the bottle.
+    -   Make Mesab stock solution or obtain an aliquot from the freezer
+    -   Make a solution of 3.0 ppt Instant Ocean by adding 0.3 grams of Instant Ocean to 100 ml of DD water
+    -   Combine 7.5ml of stock solution into 100 ml of 3 ppt Instant Ocean
+    -   Store solution in an amber bottle to protect it from light and add mixed and expiration dates (6 months after being mixed) to the bottle
 
 ## Procedure
 
-**Procedure for embryo euthanasia**
+### Procedure for Embryo Euthanasia
 
-```         
-1.  Place embryos into a MS-222 euthanasia solution.
-2.  Leave embryos in solution until movement has stopped, ~ 10 minutes.
-3.  If fish is to be used for experiments, proceed with fixation or preparation for the experiment.
-4.  If the fish are to be disposed of, place embryo in 95% ETOH for 5 minutes and then into morgue for disposal.
-```
+1.  **Immerse in euthanasia solution**: Place embryos into a MS-222 euthanasia solution.
 
-::: {.callout-warning title="NOTES"}
-The last step is necessary as a startle response is not obvious in unhatched fish.
+2.  **Wait for movement to stop**: Leave embryos in solution until movement has stopped, ~ 10 minutes.
+
+3.  **Additional confirmation**: If fish is to be used for experiments, proceed with fixation or preparation for the experiment. If the fish are to be disposed of, place embryo in 95% ETOH for 5 minutes and then into morgue for disposal.
+
+::: {.callout-warning title="Notes"}
+The ethanol step is necessary as a startle response is not obvious in unhatched fish. This provides secondary confirmation of death.
 :::
 
-**Procedure for larval euthanasia**
+### Procedure for Larval Euthanasia
 
-```         
-1.   Place larva into a MS-222 euthanasia solution.
-2.   Wait 10 minutes and perform a tap test to look for a startle response.
-3.   If there is a response wait 5 minutes and repeat startle response test.
-4.   Repeat this step every 5 minutes as needed.
-5.   If there is no response move to fixing for post mortem experiments or place in morgue.
-```
+1.  **Immerse in euthanasia solution**: Place larva into a MS-222 euthanasia solution.
+
+2.  **Wait and perform tap test**: Wait 10 minutes and perform a tap test to look for a startle response.
+
+3.  **Repeat if necessary**: If there is a response wait 5 minutes and repeat startle response test. Repeat this step every 5 minutes as needed.
+
+4.  **Confirm death**: If there is no response, death is confirmed. Move to fixing for post mortem experiments or place in morgue.
+
+## Related Protocols
+
+-   See @sec-husbandry_stickleback_adult_euthansisa for adult euthanasia
+-   See @sec-general_recipe_mesab for MS-222 solution preparation
+-   See @sec-husbandry_stickleback_crossing for stickleback crossing procedures
+-   See @sec-husbandry-adult_anesthesia for anesthesia procedures (non-lethal)
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   AVMA Guidelines for the Euthanasia of Animals: 2020 Edition
+-   None (lab-specific publications)

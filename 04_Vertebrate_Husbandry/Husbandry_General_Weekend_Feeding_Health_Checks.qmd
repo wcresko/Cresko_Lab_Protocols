@@ -33,15 +33,15 @@
 
 ## Procedure
 
-::: {.callout-warning title="NOTES"}
-Fish only need to be fed once per day on weekends. Ideally, fish will be fed on weekends around noon since they only receive one feeding, but this time can be flexible to accommodate weekend feeders? schedules.
+::: {.callout-note title="Note"}
+Fish only need to be fed once per day on weekends. Ideally, fish will be fed on weekends around noon since they only receive one feeding, but this time can be flexible to accommodate weekend feeders' schedules.
 :::
 
-1.  **Conduct health checks** of all fish in Winter Room and Summer Room according to the steps described in "Husbandry_Health_Check_SOP".
+1.  **Conduct health checks** of all fish in Winter Room and Summer Room according to the steps described in @sec-husbandry-fish_health_check.
 
-2.  Prepare brine cone for feeding by following the steps described in "Husbandry_Hatching_Feeding_BrineShrimp_SOP".
+2.  Prepare brine cone for feeding by following the steps described in the brine shrimp hatching and feeding protocol.
 
-::: {.callout-warning title="NOTES"}
+::: {.callout-note title="Note"}
 Since fish are only fed once per day on weekends, use the entire brine cone to feed fish.
 :::
 
@@ -57,8 +57,8 @@ Since fish are only fed once per day on weekends, use the entire brine cone to f
             1.  **Larval** (red tags): feed small squirt of brine shrimp.
             2.  **Juvenile** (green and blue tags): feed half of a scoop of juvenile food.
 
-    ::: {.callout-warning title="NOTES"}
-    If there is not sufficient adult or juvenile food to conduct feedings, see "Stickleback_Dry_Food_Mix_SOP" for instructions on making more food.
+    ::: {.callout-note title="Note"}
+    If there is not sufficient adult or juvenile food to conduct feedings, see the Stickleback Dry Food Mix protocol for instructions on making more food.
     :::
 
 4.  Feed Pipefish
@@ -69,7 +69,7 @@ Since fish are only fed once per day on weekends, use the entire brine cone to f
 
             1.  **Adults**: feed frozen mysids
 
-            ::: {.callout-warning title="NOTE FOR PREPARING AND FEEDING FROZEN MYSIDS"}
+            ::: {.callout-note title="Preparing and Feeding Frozen Mysids"}
             Partially fill the 1000 ml beaker labeled "Pipefish Only" located on the pipefish rack with pipefish water. Place a dime sized piece of frozen mysids (bottom shelf in freezer) in the beaker with water, and swirl water to thaw mysids. Once thawed, feed to the adult pipefish.
             :::
 
@@ -79,15 +79,19 @@ Since fish are only fed once per day on weekends, use the entire brine cone to f
 
             1.  **Juvenile pipefish/mysids**: feed small squirt of brine shrimp.
 
-::: {.callout-warning title="NOTES"}
+::: {.callout-important title="Important"}
 Please move any male that has given birth into a community (20g) adult pipefish tank
 :::
 
-5.  Reset brine shrimp cone according to steps described in "Husbandry_Hatching_Feeding_BrineShrimp_SOP".
+5.  Reset brine shrimp cone according to steps described in the brine shrimp hatching and feeding protocol.
 
-## Associated Papers
+::: {.callout-note title="IACUC Protocol"}
+This procedure is covered under the University of Oregon IACUC protocol for fish husbandry. Always follow approved protocols for animal welfare.
+:::
 
--   xxx
--   xxx
--   xxx
--   xxx
+## Related Protocols
+
+-   @sec-husbandry-fish_health_check - Daily health checks
+-   @sec-husbandry-mysid_culture - Mysid culture for pipefish feeding
+-   @sec-husbandry-stickle_density - Stickleback density standards
+-   @sec-husbandry_syng_cross - Pipefish crossing and breeding

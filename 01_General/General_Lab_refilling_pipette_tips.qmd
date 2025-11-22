@@ -2,57 +2,167 @@
 
 ## Introduction
 
--   **Purpose**: This procedure describes how to refill pipette tips.
--   **Procedure Type**: General Lab
--   **Author**: xxx
--   **Date Created**: xxx
+-   **Purpose**: This procedure describes how to clean, refill, and sterilize pipette tip boxes for laboratory use.
+-   **Procedure Type**: General Lab Maintenance
+-   **Author**: Cresko Lab
+-   **Date Created**: 2024
+
+::: {.callout-note title="Note"}
+This protocol covers both filtered and non-filtered pipette tips in 20 µL, 200 µL, and 1000 µL sizes. Proper sterilization of tip boxes prevents contamination of sensitive molecular biology experiments.
+:::
 
 ## Materials
 
--   Used pipette tip boxes
--   Autoclave
+-   Used/empty pipette tip boxes (20 µL, 200 µL, 1000 µL)
+-   Autoclave (located in PAC 306D)
 -   Autoclave tape
--   Pipette tip refills
+-   Pipette tip refills (available in lab stock)
+-   Permanent marker for labeling
 
-## Solutions
+## Tip Box Types
 
--   xxx
--   xxx
--   xxx
+-   **Non-filtered tips**: Standard tips for general use, can be autoclaved
+-   **Filtered tips**: Barrier tips to prevent aerosol contamination, CANNOT be autoclaved (see warning below)
+
+## Safety Precautions
+
+::: {.callout-warning title="Warning - Heat Hazard"}
+**Autoclave Safety**:
+- Items removed from autoclave will be extremely hot (121°C)
+- Allow autoclaved boxes to cool completely before handling
+- Do not open autoclave until pressure has completely released
+- Use heat-resistant gloves if boxes must be moved while warm
+- Condensation on boxes indicates they are still hot - allow more cooling time
+
+See @sec-general-lab_safety for complete autoclave safety guidelines.
+:::
+
+::: {.callout-danger title="Danger - Filter Tips"}
+**CRITICAL**: DO NOT autoclave filter tips or filter tip boxes. The heat will damage the filters and compromise their function. Filter tips are purchased pre-sterilized and should be used directly from the manufacturer's packaging.
+:::
 
 ## Procedure
 
-1.  Remove all tape from used pipette tip box and recycle inner cartridge (200 µL will only have a thin removable portion).
+### Preparing Empty Tip Boxes (Non-Filtered Tips Only)
 
-2.  Refill non-filtered tip boxes prior to autoclave, for directions see following steps, and tape down lids with autoclave tape (only tape the front side for 20 µL and 1000 µL boxes, but tape front and back side of the 200 µL boxes.)
+1.  Remove all autoclave tape from used pipette tip boxes.
 
-3.  Take all used boxes to the autoclave in room PAC 306D and run Gravity for 25 minutes (for use, 1=OK and 4=back).
+2.  Remove and recycle the inner cartridge:
+    -   For 20 µL and 1000 µL boxes: Remove entire inner cartridge
+    -   For 200 µL boxes: Remove only the thin removable portion
 
-    ::: {.callout-important title="IMPORTANT"}
-    DO NOT place filter tips in the autoclave.
+3.  Ensure boxes are empty and clean. If contaminated, rinse with DI water and allow to dry completely before proceeding.
+
+### Autoclaving Empty Boxes (Non-Filtered Tips Only)
+
+4.  Close the lids on the empty tip boxes.
+
+5.  Seal boxes with autoclave tape:
+    -   For 20 µL boxes: Tape front side only
+    -   For 200 µL boxes: Tape both front and back sides
+    -   For 1000 µL boxes: Tape front side only
+
+    ::: {.callout-tip title="Tip"}
+    Write the date on the autoclave tape to track when boxes were sterilized.
     :::
 
-4.  Let the boxes cool until there is no visible condensation, then replace tips.
+6.  Transport sealed boxes to the autoclave in room PAC 306D.
 
-5.  Replace tips
+7.  Load boxes into the autoclave and run the **Gravity cycle for 25 minutes** at 121°C.
 
-    -   Replacing 20 µL and 1000 µL tips:
+    ::: {.callout-note title="Note"}
+    Autoclave cycle selector (for reference):
+    - 1 = OK (cycle complete, safe to remove)
+    - 4 = Back (cycle in progress or failed, do not open)
+    :::
 
-        1.  Place blackened autoclave tape on top of lid and label “filter”, then remove lid.
-        2.  Remove paper bottom of new tips and place on top of clean tip box.
-        3.  Slightly push inward on the new tips (to make sure tabs fit inside filter tip box) and push down on one side of tips.
-        4.  Once this side is in, repeat this for the other side.
-        5.  Remove plastic covering and place the lid back on the box.
+8.  After the autoclave cycle completes, allow boxes to cool completely in the autoclave.
 
-    -   Replacing 200 µL tips:
+    ::: {.callout-important title="Important"}
+    Wait until there is NO visible condensation on the boxes before removing them. This typically takes 30-60 minutes. Hot boxes can cause burns and condensation can contaminate sterile tips.
+    :::
 
-        1.  Place blackened autoclave tape on top of lid and label “filter”, then remove lid.
-        2.  Remove paper bottom of new tips and place on top of clean tip box.
-        3.  Push down.
-        4.  Remove plastic covering and place the lid back on the box.
+### Refilling Non-Filtered Tips (Previously Autoclaved Boxes)
 
-## Associated Papers
+9.  Once boxes are completely cool and dry, proceed to refill with tips.
 
--   xxx
--   xxx
--   xxx
+#### For 20 µL and 1000 µL Tips:
+
+a.  Remove the lid from the autoclaved box.
+
+b.  Remove the paper backing from the bottom of the new tip refill.
+
+c.  Position the new tips on top of the empty tip box, ensuring proper alignment.
+
+d.  Slightly push inward on the edges of the tip refill to ensure the tabs fit properly inside the box.
+
+e.  Press down firmly on one side of the tips until they snap into place.
+
+f.  Repeat for the other side until the tips are fully seated in the box.
+
+g.  Remove the plastic protective covering from the top of the tips.
+
+h.  Replace the lid on the box.
+
+#### For 200 µL Tips:
+
+a.  Remove the lid from the autoclaved box.
+
+b.  Remove the paper backing from the bottom of the new tip refill.
+
+c.  Position the new tips on top of the empty tip box, ensuring proper alignment.
+
+d.  Press down firmly until the tips snap into place.
+
+e.  Remove the plastic protective covering from the top of the tips.
+
+f.  Replace the lid on the box.
+
+### Refilling Filter Tips (No Autoclaving Required)
+
+10. For filter tips, use pre-sterilized boxes directly from the manufacturer.
+
+    ::: {.callout-important title="Important"}
+    Filter tips come pre-sterilized. When the box is empty:
+    - Recycle the empty box (do NOT autoclave)
+    - Use a new pre-sterilized filter tip box from lab stock
+    - Mark the box with "FILTER" if not already labeled
+    :::
+
+### Labeling and Storage
+
+11. Label all refilled boxes appropriately:
+    -   Non-filtered tips: Can be labeled with date of sterilization
+    -   Filter tips: Mark clearly as "FILTER" to prevent accidental autoclaving
+
+12. Store refilled tip boxes in a clean, dry location until needed.
+
+## Waste Disposal
+
+-   Empty tip boxes (if not being reused): Recycle plastic
+-   Used filter tip boxes: Recycle (do not autoclave)
+-   Paper backing from tip refills: Recycle
+-   Plastic covering from tip refills: Regular trash
+
+## Related Protocols
+
+-   @sec-general-lab_safety - Cresko Lab Safety Highlights
+-   @sec-general-cleaning_pestles - Cleaning Pestles (autoclave procedures)
+-   @sec-general-clean_load_boats - Cleaning Loading Boats (autoclave procedures)
+
+## Troubleshooting
+
+::: {.callout-tip title="Tip - Common Issues"}
+**Tips don't fit properly in box**:
+- Ensure you're using the correct size refill for the box
+- Check that the box is completely dry before inserting tips
+- Verify proper alignment before pressing down
+
+**Condensation on autoclaved boxes**:
+- Allow more cooling time in the autoclave
+- Do not refill boxes until completely dry to prevent contamination
+
+**Filter tips accidentally autoclaved**:
+- Discard the entire box of tips - the filters are compromised
+- Use new pre-sterilized filter tips
+:::

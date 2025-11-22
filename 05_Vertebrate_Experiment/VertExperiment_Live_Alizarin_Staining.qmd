@@ -1,0 +1,191 @@
+# Live Alizarin Staining {#sec-vert_exp-live_alizarin}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to live stain fish with alizarin to visualize mineralized bone
+-   **Procedure Type**: Vertebrate Experimental
+-   **Species**:
+    -   Threespine stickleback (*Gasterosteus aculeatus*)
+    -   Bay pipefish (*Syngnathus leptorhyncus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+-   **Author**: Mark Currey
+-   **Date Created**: January 01, 2024, updated November 22, 2025
+-   **IACUC Protocol**: Required for live animal procedures
+
+::: {.callout-important title="Safety and Handling"}
+-   Wear appropriate PPE (lab coat, gloves, safety glasses)
+-   Alizarin is a dye that can stain skin and clothing
+-   Keep staining solutions in dark containers to prevent degradation
+-   Dispose of staining solutions according to chemical waste protocols
+:::
+
+## Background
+
+Alizarin red S is a calcium-binding dye that selectively binds to mineralized bone tissue, making it fluorescent under specific wavelengths. This allows for *in vivo* visualization of the skeleton in live fish without fixation. The staining is reversible, allowing fish to recover and be used for subsequent experiments or returned to normal husbandry.
+
+## Materials
+
+-   Large Petri dishes (100mm diameter) or small tanks
+-   Darkened containers or aluminum foil
+-   Transfer pipettes
+-   Alizarin Red S powder (SIGMA cat# A5533, certified)
+-   Sterile water
+-   NaOH solution (10%)
+-   pH meter or pH strips
+
+## Solutions
+
+### Alizarin Stock Solution (0.5% or 1%)
+
+-   **0.5% Stock**: 0.5g Alizarin Red S in 100ml sterile water
+-   **1.0% Stock**: 1.0g Alizarin Red S in 100ml sterile water (or 0.5g in 50ml)
+-   Store in dark bottle at room temperature for up to 6 months
+-   Make fresh if precipitation occurs
+
+### Staining Solutions
+
+Preparation varies by species due to different osmotic requirements:
+
+::: {.panel-tabset}
+
+#### Stickleback
+
+**For 1 Liter** (large scale):
+
+-   990 ml embryo medium (see @sec-recipe-embryo_medium)
+-   10 ml Alizarin stock (0.5% or 1%)
+-   Final concentration: 0.005% or 0.01%
+-   Adjust to pH 7.5 with NaOH
+
+**For 50 ml** (single petri dish):
+
+-   49.5 ml embryo medium
+-   500 µl Alizarin stock (0.5% or 1%)
+-   Adjust to pH 7.5 with NaOH
+
+#### Pipefish/Syngnathid
+
+**For 1 Liter** (large scale):
+
+-   990 ml 25 ppt Instant Ocean (artificial seawater)
+-   10 ml Alizarin stock (0.5% or 1%)
+-   Final concentration: 0.005% or 0.01%
+-   Adjust to pH 7.5 with NaOH
+
+**For 50 ml** (single petri dish):
+
+-   49.5 ml 25 ppt Instant Ocean
+-   500 µl Alizarin stock (0.5% or 1%)
+-   Adjust to pH 7.5 with NaOH
+
+:::
+
+### Additional Solutions
+
+-   MESAB anesthesia strength (see @sec-husbandry_anesth_stickleback for stickleback, @sec-husbandry_anesth_pipefish for pipefish)
+-   MESAB euthanasia strength (see @sec-husbandry_euthanasia_stickleback for stickleback, @sec-husbandry-pipefish_larval_euth for pipefish)
+
+## Procedure
+
+### Preparation (Day Before if Possible)
+
+1.  Prepare staining solution fresh or use within 1 week of preparation
+2.  Verify pH is 7.5 ± 0.2
+3.  Cover container with aluminum foil to protect from light
+4.  Pre-label all containers with fish ID, date, and treatment
+
+### Staining Protocol
+
+::: {.callout-tip title="Staining Duration Guidelines"}
+-   **Larvae**: 1-2 hours
+-   **Juveniles**: 2-6 hours
+-   **Adults**: Overnight (8-16 hours)
+-   Longer exposures generally produce brighter staining but monitor fish welfare
+:::
+
+1.  **Transfer fish** to container with staining solution
+
+    -   Use appropriate volume (50ml for 1-5 larvae, 500ml-1L for larger fish)
+    -   Ensure adequate oxygenation for overnight staining (gentle aeration or frequent water changes)
+
+2.  **Incubate in darkness**
+
+    -   Cover container with aluminum foil or place in dark location
+    -   Maintain appropriate temperature (16-20°C for stickleback, 18-22°C for pipefish)
+
+3.  **Monitor fish** during staining period
+
+    -   Check every 30-60 minutes for shorter staining periods
+    -   Check every 2-4 hours for overnight staining
+    -   Ensure fish are swimming normally and not stressed
+
+### De-staining and Imaging
+
+4.  **Rinse fish** to remove background staining
+
+    -   Transfer fish to fresh medium/seawater (appropriate for species)
+    -   Rinse for 30 minutes minimum
+    -   Background fluorescence will continue to decrease over time
+    -   Can perform 2-3 rinses for better signal-to-background ratio
+
+5.  **Optional: Sequential DASPEI staining**
+
+    -   If desired, proceed to DASPEI live staining (see @sec-vert_exp-live_daspei)
+    -   DASPEI can be performed on already alizarin-stained fish
+
+6.  **Anesthetize for imaging**
+
+    -   Place fish in anesthesia solution (appropriate strength for species)
+    -   Wait until movement slows sufficiently for safe handling
+    -   Aim for light plane of anesthesia (reduced gill movement, loss of equilibrium)
+
+7.  **Observe and image**
+
+    -   Alizarin fluorescence: Excitation ~530-560nm, Emission ~570-600nm (red)
+    -   Plan imaging for same day as staining for best results
+    -   Keep fish in dark between imaging sessions to preserve fluorescence
+
+::: {.callout-warning title="Important Imaging Notes"}
+-   Bone fluorescence **decreases over time** - plan to image within 24 hours of staining
+-   Keep fish in darkness as much as possible to preserve fluorescence
+-   Use minimal exposure to excitation light to prevent photobleaching
+:::
+
+### Recovery
+
+8.  **Transfer fish to recovery tank**
+
+    -   Use fresh medium/seawater at appropriate temperature
+    -   Ensure adequate oxygenation
+
+9.  **Monitor recovery**
+
+    -   Check fish every 5-10 minutes
+    -   Look for return of normal swimming behavior
+    -   Typical recovery time: 5-20 minutes depending on anesthesia depth
+
+10. **Return to system or proceed to next step**
+
+    -   If recovering well: return to normal husbandry system
+    -   Monitor during next daily health check
+    -   If proceeding to fixation: transfer to euthanasia solution (see appropriate euthanasia SOP for species)
+
+## Troubleshooting
+
+| Problem | Possible Cause | Solution |
+|---------|---------------|----------|
+| Weak or no staining | pH too low/high | Verify pH is 7.5 ± 0.2 |
+| | Old alizarin stock | Make fresh stock solution |
+| | Insufficient staining time | Increase staining duration |
+| High background | Insufficient rinsing | Extend rinse period or do multiple rinses |
+| | Staining solution too concentrated | Use lower concentration (0.005% instead of 0.01%) |
+| Fish stress/mortality | Staining solution too concentrated | Dilute solution to 0.005% |
+| | Inadequate oxygenation | Add gentle aeration or change solution every 4 hours |
+| Rapid fluorescence loss | Excessive light exposure | Keep fish in dark; minimize excitation light |
+| | Too much time post-staining | Image within 24 hours of staining |
+
+## Associated Papers
+
+-   Du, S. J., Frenkel, V., Kindschi, G., & Zohar, Y. (2001). Visualizing normal and defective bone development in zebrafish embryos using the fluorescent chromophore calcein. *Developmental Biology*, 238(2), 239-246. doi:10.1006/dbio.2001.0390
+-   Walker, M. B., & Kimmel, C. B. (2007). A two-color acid-free cartilage and bone stain for zebrafish larvae. *Biotechnic & Histochemistry*, 82(1), 23-28.
+-   xxx (add lab-specific publications)

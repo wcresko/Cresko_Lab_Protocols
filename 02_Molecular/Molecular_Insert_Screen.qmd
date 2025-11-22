@@ -2,33 +2,73 @@
 
 ## Introduction
 
--   **Purpose**: This procedure describes how to do a insert screen of clones using PCR.
--   **Procedure Type**: xxx
+-   **Purpose**: This procedure describes how to do an insert screen of clones using PCR.
+-   **Procedure Type**: Molecular
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
     -   Bay pipefish, (*Syngnathus leptorhyncus*)
     -   Gulf pipefish (*Syngnathus scovelli*)
     -   Zebrafish, (*Danio rerio*)
--   **Author**: xxx
--   **Date Created**: xxx
+-   **Author**: Susie Bassham
+-   **Date Created**: Unknown
 
-::: {.callout-warning title="NOTES"}
-xxxx
+::: {.callout-warning title="Safety"}
+**Personal Protective Equipment (PPE):**
+
+- Lab coat
+- Safety glasses
+- Nitrile gloves
+
+**Biological Safety:**
+
+- Use aseptic technique when handling bacterial cultures
+- Dispose of bacterial waste in appropriate biohazard containers
 :::
 
 ## Materials
 
-1.  10 ul 2X Turbo
-2.  0.1 ul T7
-3.  0.1 ul M13R
-4.  0.1 ul Taq
-5.  7.7 ul npH20
+-   PCR tubes or plates
+-   Pipettes and tips
+-   Thermocycler
+
+## Solutions
+
+-   10 µl 2X Turbo (see @sec-molecular-2x_Turbo for recipe)
+-   0.1 µl T7 primer
+-   0.1 µl M13R primer
+-   0.1 µl Taq polymerase
+-   7.7 µl npH2O
+
+## Related Protocols
+
+- See @sec-molecular-2x_Turbo for making 2X Turbo mix
+- See @sec-molecular-gel for visualizing PCR products
+- See @sec-molecular-TopoClone_PCR4 for cloning procedures
 
 ## Procedure
 
--   94-5min
--   94-1:15
--   55-1:15
--   72-2:30
--   cycle 2 for 36x
--   72-10min
+### PCR Mix (per reaction)
+
+Mix the following components for each reaction:
+
+-   10 µl 2X Turbo
+-   0.1 µl T7 primer
+-   0.1 µl M13R primer
+-   0.1 µl Taq polymerase
+-   7.7 µl npH2O
+-   Use toothpick or pipette tip to add small amount of bacterial colony as template
+
+### Thermocycler Program
+
+| Step | Temperature | Time | Cycles |
+|------|-------------|------|--------|
+| 1    | 94°C        | 5 min | 1x     |
+| 2    | 94°C        | 1:15  | 36x    |
+| 3    | 55°C        | 1:15  | 36x    |
+| 4    | 72°C        | 2:30  | 36x    |
+| 5    | 72°C        | 10 min | 1x    |
+| 6    | 4°C         | Hold  | -      |
+
+: Thermocycler program for insert screening {#tbl-insert-screen}
+
+After PCR is complete, run products on a gel to visualize inserts (see @sec-molecular-gel).

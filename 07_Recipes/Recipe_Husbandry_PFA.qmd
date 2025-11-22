@@ -1,8 +1,8 @@
-# Recipe - 8% Paraformaldehyde Stock Solution {#sec-recipe-PFA}
+# 8% Paraformaldehyde Stock Solution {#sec-recipe-PFA}
 
 ## Introduction
 
--   **Purpose**: Recipe for 8% Paraformaldehyde (PFA) Stock Solution\
+-   **Purpose**: Recipe for 8% Paraformaldehyde (PFA) Stock Solution used for tissue fixation in immunohistochemistry and in situ hybridization
 -   **Procedure Type**: recipe
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
@@ -11,53 +11,103 @@
 -   **Author**: Mark Currey
 -   **Date Created**: February 29, 2024
 
-::: {.callout-Warning title="warning"}
-Use gloves and PPE when handling paraformaldehyde
+::: {.callout-warning title="Safety Warning"}
+**CRITICAL**: This procedure must be performed in a chemical fume hood at all times.
+
+**Chemical Hazards**: Paraformaldehyde is highly toxic, carcinogenic, and a severe irritant. Powder and vapors are extremely dangerous.
+
+**Required PPE**:
+- Double nitrile gloves
+- Safety goggles or face shield
+- Lab coat
+- Work entirely in fume hood
+
+**Acute Exposure Risks**:
+- Inhalation: Severe respiratory irritation, potential lung damage
+- Skin contact: Burns and sensitization
+- Eye contact: Severe damage, potential blindness
+- Ingestion: Potentially fatal
+
+**Disposal**: PFA waste must be disposed of as hazardous chemical waste. Never pour down drain. Follow institutional chemical waste disposal procedures.
 :::
 
 ## Materials
 
-```         
--   paraformaldehyde
-```
-
-::: {.callout-note title="Note"}
-Paraformaldehyde can be found in the chemical cabinet.
-:::
-
-```         
--   Distilled Water
-```
+-   Paraformaldehyde powder (located in chemical cabinet)
+-   Distilled water
+-   Hot plate with magnetic stirrer
+-   Magnetic stir bar
+-   pH meter
+-   Thermometer
+-   0.45 μm or 0.2 μm filter apparatus
+-   Cryogenic vials or tubes for aliquoting
+-   Graduated cylinders
 
 ## Solutions
 
-```         
--  10N NaOH
--  20% HCl
-```
+-   10 N NaOH
+-   20% HCl
 
 ## Procedure
 
-::: {.callout-Warning title="warning"}
-USE A FUME HOOD!
+::: {.callout-warning title="Critical Warning"}
+**USE A FUME HOOD FOR THE ENTIRE PROCEDURE!**
+
+All steps must be performed with adequate ventilation. Never remove containers from fume hood until sealed.
 :::
 
-1.  Add 40 g Paraformaldehyde to 450 ml distilled water (or scale for desired final volume).
-2.  Add 1 ul of 10 N NaOH per ml of water (i.e. 500 ul for 500 ml).
-3.  Apply medium heat while stirring at medium speed to dissolve - approx 15-20 min. Solution should not go above 60º C. Eventually, granules will fully dissolve and the solution will become translucent.
+1.  In fume hood, add 40 g paraformaldehyde powder to 450 ml distilled water in a glass beaker (or scale for desired final volume)
 
-::: {.callout-Warning title="warning"}
-DO NOT LET THE SOLUTION STIR BEYOND THIS POINT - it will form a fuzzy precipitate that reduces the solution strength after filtering.
+2.  Add 1 μl of 10 N NaOH per ml of water (i.e., 500 μl for 500 ml total volume)
+
+3.  Place beaker on hot plate with stir bar and apply medium heat while stirring at medium speed
+    - Heat for approximately 15-20 minutes
+    - Monitor temperature - solution must not exceed 60°C
+    - Granules will gradually dissolve and solution will become translucent
+
+::: {.callout-warning title="Critical Warning"}
+**DO NOT LET THE SOLUTION STIR BEYOND THIS POINT** - over-stirring will form a fuzzy precipitate that reduces the solution strength after filtering. Stop immediately when solution clears.
 :::
 
-4.  Once the granules have dissolved and the solution clears, turn off the heat.
-5.  Equilibrate to pH 7.4 with approx 1.5 ml of 20% HCl (or scale, depending on target volume). Bring volume to 500 ml (or scaled volume) with distilled water.\
-6.  Filter while still warm to 0.45 um (or 0.2 um).\
-7.  Aliquot and store at -20º C.
+4.  Once granules have completely dissolved and solution is clear, turn off heat
 
-## Associated Papers
+5.  Allow to cool slightly, then equilibrate to pH 7.4 using approximately 1.5 ml of 20% HCl
+    - Add HCl slowly while monitoring pH
+    - Scale HCl volume depending on final target volume
+    - Bring final volume to 500 ml (or scaled volume) with distilled water
 
--   xxx
--   xxx
--   xxx
--   xxx
+6.  Filter while still warm through 0.45 μm filter (or 0.2 μm for extra purity)
+    - Filtering while warm improves flow rate
+    - Use vacuum filtration apparatus in fume hood
+
+7.  Aliquot into labeled cryogenic vials or tubes
+    - Typical aliquot size: 1-5 ml
+    - Label clearly with "8% PFA", date, and hazard warnings
+
+## Storage
+
+-   **Temperature**: -20°C (freezer)
+-   **Duration**: Stable for 6-12 months when frozen
+-   **Container**: Cryogenic vials or sealed tubes that can withstand freezing
+-   **Label**: Must include "8% PFA", "TOXIC", date prepared, and expiration date
+-   **Thawing**: Thaw aliquots in fume hood or well-ventilated area
+
+## Quality Control
+
+-   **pH**: Must be 7.4 ± 0.1 for optimal fixation
+-   **Appearance**: Solution should be clear and colorless
+-   **Concentration verification**: Can be verified by refractive index or other analytical methods
+-   **Discard if**: Solution is cloudy, has precipitate, or has been frozen/thawed more than 3 times
+
+::: {.callout-tip title="Usage Notes"}
+- For 4% PFA working solution, dilute 8% stock 1:1 with 2x PBS
+- Always work with PFA in fume hood, even when using working solutions
+- Warm aliquots to room temperature before opening to prevent condensation
+- Do not refreeze thawed aliquots multiple times
+:::
+
+## Related Protocols
+
+-   Used in immunohistochemistry protocols
+-   Used in in situ hybridization protocols
+-   See fixation protocols for proper usage and timing

@@ -1,8 +1,8 @@
-# Recipe - Holtfreiter's solution {#sec-recipe-holtfrieters}
+# Holtfreiter's Solution {#sec-recipe-holtfrieters}
 
 ## Introduction
 
--   **Purpose**: Recipe for Holtfreiter's solution\
+-   **Purpose**: Recipe for Holtfreiter's solution, a physiological saline solution used in amphibian and fish embryology
 -   **Procedure Type**: recipe
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
@@ -11,19 +11,76 @@
 -   **Author**: Mark Currey
 -   **Date Created**: March 07, 2024
 
-## Solutions
+## Materials
 
-**Holtfreiters Solution:**
+-   NaCl (sodium chloride)
+-   KCl (potassium chloride)
+-   CaCl2 (calcium chloride)
+-   NaHCO3 (sodium bicarbonate)
+-   Tris buffer (1 M, pH 7.4-8.0)
+-   Nanopure water (npH2O)
+-   1 liter glass bottle or flask
+-   Analytical balance
+-   Weigh boats or paper
+-   Graduated cylinders
+-   Stir bar and stir plate
+-   pH meter or pH strips
 
-1.  Make stock of Holtfreiter’s Solution, add: Mix solids into 750ml of npH2O 3.5 gm NaCl 0.05 gm KCl 0.1 gm CaCl2 0.02 gm NaHCO3 1.0 ml Tris Bring to 1 liter with npH2O
+::: {.callout-caution title="Safety"}
+**PPE Required**: Lab coat, safety glasses, and gloves when handling chemicals.
 
-::: {.callout-Notes title="Note"}
-Store at 4C
+**Handling**: Calcium chloride is hygroscopic and can cause skin and eye irritation. Handle in well-ventilated area.
 :::
 
-## Associated Papers
+## Procedure
 
--   xxx
--   xxx
--   xxx
--   xxx
+For 1 liter stock solution:
+
+1. Add 750 ml of npH2O to a clean 1 liter glass bottle
+
+2. Add the following reagents while stirring:
+   - 3.5 g NaCl
+   - 0.05 g KCl
+   - 0.1 g CaCl2
+   - 0.02 g NaHCO3
+
+3. Stir until all solids are completely dissolved
+
+4. Add 1.0 ml Tris buffer (1 M)
+
+5. Bring to 1 liter total volume with npH2O
+
+6. Mix thoroughly and check pH (should be approximately 7.4-7.8)
+
+7. Transfer to labeled storage bottle
+
+::: {.callout-note title="Note"}
+Store at 4°C. This solution is similar to @sec-recipe-ginzbergs_ringers but optimized for embryological work.
+:::
+
+## Storage
+
+-   **Temperature**: 4°C (refrigerator)
+-   **Duration**: Stable for 2-3 months when stored properly
+-   **Container**: Clean glass bottle with tight-sealing lid
+-   **Label**: Mark with "Holtfreiter's Solution", date prepared, and storage temperature
+
+## Quality Control
+
+-   **Appearance**: Solution should be clear and colorless
+-   **pH**: Should be approximately 7.4-7.8 (verify with pH meter)
+-   **Verification**: Check for clarity before each use; discard if cloudy or contaminated
+-   **Sterility**: For embryological work, solution can be filter-sterilized (0.22 μm) or autoclaved if needed
+
+::: {.callout-tip title="Usage Notes"}
+- Allow solution to warm to room temperature before use with embryos
+- Can be used for embryo rearing, tissue dissection, and other physiological procedures
+- Solution composition provides balanced osmolarity for developing embryos
+- For dilute Holtfreiter's (often used in embryo studies), dilute stock 1:10 with npH2O
+:::
+
+## Related Protocols
+
+-   Used in embryo culture and manipulation protocols
+-   Alternative to @sec-recipe-ginzbergs_ringers and @sec-recipe-hanks for certain applications
+-   See embryology and developmental biology protocols for specific uses

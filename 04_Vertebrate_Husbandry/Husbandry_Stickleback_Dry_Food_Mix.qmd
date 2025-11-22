@@ -8,37 +8,75 @@
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
 -   **Author**: Mark Currey
 -   **Date Created**: August 25, 2014; updated January 26, 2023 by Mark Currey
+-   **IACUC Protocol**: Covered under facility maintenance procedures
+
+::: {.callout-warning title="Notes"}
+At each new mixing of dry food (approximately once per week) food containers will be cleaned (washed in the dishwasher) and spoons cleaned with 70% ETOH. The beaker that holds feeding spoons will also be replaced with clean beaker.
+:::
+
+::: {.callout-note title="Note"}
+If we are out of one of the types of food it is ok to omit it from the mix. Continue with available ingredients.
+:::
 
 ## Materials
 
 -   Plastic measuring cup
--   Clean food container
+-   Clean food container with lid
+-   Clean spoons for feeding
+-   Beaker for storing spoons
+-   70% Ethanol for cleaning
 
 ## Solutions
 
--   none
+-   None required
 
 ## Procedure
 
-::: {.callout-warning title="NOTES"}
-At each new mixing of dry food (approximately once per week) food containers will be cleaned (washed in the dish washer) and spoons cleaned with 70% ETOH. The beaker that holds feeding spoons will also be replaced with clean beaker.
-:::
+### Food Mix Recipes
 
-1.  Mix equal parts of the following, store at 4C in fish facility food fridge. Label with an expiration date of 1 month from mixing.
+Mix equal parts of the following ingredients. Store at 4°C in fish facility food fridge. Label with an expiration date of 1 month from mixing.
 
-**Fry Mix**: 1. 100-200 micron golden pearls 2. Ziegler AP100
+1.  **Fry Mix**:
+    -   100-200 micron golden pearls
+    -   Ziegler AP100
 
-**Juvenile Mix**: (label with a yellow dot or yellow tape) 1. Aquanix cool mix flakes (or other flake food) 2. 200-300 micron golden pearls 3. Otohime C1 pellets
+2.  **Juvenile Mix** (label with a yellow dot or yellow tape):
+    -   Aquanix cool mix flakes (or other flake food)
+    -   200-300 micron golden pearls
+    -   Otohime C1 pellets
 
-**Adult Mix**: 1. Otohime S1 2. Ziegler zebrafish diet 3. Hikari micro pellet 4. Golden pearls 500-800 micron 5. Aquanix cool mix flakes (or other flake food)
+3.  **Adult Mix**:
+    -   Otohime S1
+    -   Ziegler zebrafish diet
+    -   Hikari micro pellet
+    -   Golden pearls 500-800 micron
+    -   Aquanix cool mix flakes (or other flake food)
 
-::: {.callout-note title="NOTES"}
-If we are out of one of the types of food it is ok to omite it from the mix.
-:::
+### Preparation Steps
+
+1.  **Clean containers**: Wash food containers in dishwasher. See @sec-husbandry-dishwasher for dishwasher use.
+
+2.  **Clean spoons**: Clean feeding spoons with 70% ETOH.
+
+3.  **Clean beaker**: Replace beaker that holds feeding spoons with clean beaker.
+
+4.  **Measure and mix**: Using measuring cup, measure equal parts of each ingredient and mix thoroughly in clean container.
+
+5.  **Label**: Label container with:
+    -   Mix type (Fry, Juvenile, or Adult)
+    -   Date mixed
+    -   Expiration date (1 month from mixing date)
+    -   Color code for juvenile mix (yellow dot or tape)
+
+6.  **Store**: Store at 4°C in fish facility food fridge.
+
+## Related Protocols
+
+-   See @sec-husbandry-dishwasher for dishwasher use
+-   See @sec-husbandry-foodstorage_sources for food storage and sources information
+-   See @sec-husbandry-weekday_feeding for weekday feeding procedures
+-   See @sec-husbandry-weekend_feeding for weekend feeding procedures
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   None

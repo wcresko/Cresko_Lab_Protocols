@@ -1,15 +1,15 @@
-# Pipefish Crossing {#sec-husbandry_wild_syng_introduction}
+# Wild Pipefish Introduction {#sec-husbandry_wild_syng_introduction}
 
 ## Introduction
 
--   **Purpose**: The procedure describes how introduce wild caught gulf pipefish into our aquaculture systems.
--   **Procedure Type**: husbandry
+-   **Purpose**: The procedure describes how to introduce wild caught gulf pipefish into our aquaculture systems.
+-   **Procedure Type**: Husbandry
 -   **Species**:
     -   Gulf pipefish (*Syngnathus scovelli*)
 -   **Author**: Mark Currey\
 -   **Date Created**: February 29, 2024
 
-::: {.callout-note title="NOTES"}
+::: {.callout-important title="Important"}
 Wild pipefish will arrive very stressed out so they need to be handled carefully.
 :::
 
@@ -24,8 +24,19 @@ Wild pipefish will arrive very stressed out so they need to be handled carefully
 
 ## Procedure
 
-1.  When pipefish arrive remove them from packaging and let float them in system water for 15-30 minutes to accilmate to the temperature.
-2.  Poor contents of each bag of pipefish into a 5 gallon bucket.
+1.  When pipefish arrive remove them from packaging and float them in system water for 15-30 minutes to acclimate to the temperature.
+2.  Pour contents of each bag of pipefish into a 5 gallon bucket.
 3.  Slowly acclimate the new pipefish by adding 1/4 - 1/2 gallon of system water to the 5 gallon bucket over the course of a few hours. Do this until most of the water in the bucket is system water.
 4.  Move pipefish (not water) to clean 20 gallon tank.
 5.  Feed lightly for 2-3 days as the fish acclimate to captivity. Slowly introduce frozen mysids along with live mysids.
+
+::: {.callout-note title="IACUC Protocol"}
+This procedure is covered under the University of Oregon IACUC protocol for fish husbandry and wild fish introduction. Always follow approved protocols for animal welfare and quarantine procedures.
+:::
+
+## Related Protocols
+
+-   @sec-husbandry_pipefish_tank_maint - Pipefish water system maintenance
+-   @sec-husbandry_syng_cross - Pipefish crossing and breeding
+-   @sec-husbandry-mysid_culture - Mysid culture for pipefish feeding
+-   @sec-husbandry-fish_health_check - Daily health checks

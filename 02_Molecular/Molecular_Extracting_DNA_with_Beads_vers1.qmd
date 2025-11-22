@@ -7,10 +7,25 @@
 -   **Species**:
 -   **Author**: Susan Bassham
 -   **Date Created**: November 27, 2023
--   **Date Updated**: xxx
+-   **Date Updated**: November 27, 2023
 
-::: {.callout-warning title="NOTES"}
-xxxx
+::: {.callout-warning title="Safety"}
+**Personal Protective Equipment (PPE):**
+
+- Lab coat
+- Safety glasses
+- Nitrile gloves
+
+**Chemical Safety:**
+
+- Ethanol is flammable; keep away from open flames
+- Work in a well-ventilated area when handling ethanol
+
+**Magnetic Safety:**
+
+- Do not use magnets if you have a pacemaker
+- Keep magnets away from electronic devices (laptops, cell phones, etc.)
+- Magnets can pinch skin; handle carefully
 :::
 
 ## Materials
@@ -19,8 +34,8 @@ xxxx
 
 -   Magnet (for 1.5 ml tubes, use Invitrogen DynaMag-Spin Magnetic Particle Concentrator; for PCR plate or strip tubes, use DynaMag-96 Slide magnet or Catalyst 96 Slotted Ring Magnet Plate)
 
-    ::: {.callout-important title="This is important"}
-    do not use magnets if you have a pacemaker. Do not use these powerful magnets near electronic devices like laptops or cell phones.
+    ::: {.callout-important title="Important"}
+    Do not use magnets if you have a pacemaker. Do not use these powerful magnets near electronic devices like laptops or cell phones.
     :::
 
 -   Pipettes
@@ -32,7 +47,13 @@ xxxx
 -   DNA in solution
 -   Omega Tech paramagnetic beads (we buy through GC3F, our sequencing Core facility)
 -   80% ethanol
--   Elution buffer of choice for re-elution
+-   Elution buffer of choice for re-elution (e.g., EB, TE, or AE)
+
+## Related Protocols
+
+- See @sec-molecular-bead_extraction for DNA extraction from tissue using beads
+- See @sec-molecular-Phusion_PCR for PCR after DNA cleanup
+- See @sec-molecular-RADseq for using cleaned DNA in library preparation
 
 ## Procedure
 
@@ -52,8 +73,13 @@ xxxx
 13. Put the samples back on the magnet and let the beads condense.
 14. **Transfer the supernatant with your DNA** to a fresh plate or tubes.
 
-![DNA Molecular Weight to Bead Proportion, UO GC3F](images/GC3F%20Bead%20Image%20for%20Molecular_Cleaning_Concentrating_DNA_with_Magnetic_Beads_SOP-02.png)
+::: {.callout-note title="Quality Control"}
+- Quantify DNA using a fluorometer (e.g., Qubit) or spectrophotometer
+- Check DNA integrity on a gel if needed (see @sec-molecular-gel)
+:::
+
+![DNA Molecular Weight to Bead Proportion (UO GC3F)](images/GC3F%20Bead%20Image%20for%20Molecular_Cleaning_Concentrating_DNA_with_Magnetic_Beads_SOP-02.png){#fig-bead-proportion}
 
 ## Associated Papers
 
--   
+-   None listed

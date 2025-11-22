@@ -2,14 +2,23 @@
 
 ## Introduction
 
--   **Purpose**: This protocol will add a t-overhang to PCR or other genomic DNA fragments for the purposes of cloning or Illumina sequencing.
+-   **Purpose**: This protocol will add a T-overhang to PCR or other genomic DNA fragments for the purposes of cloning or Illumina sequencing.
 -   **Procedure Type**: Molecular
 -   **Species**: N/A
--   **Author**: xxx
--   **Date Created**: xxx
+-   **Author**: Susie Bassham
+-   **Date Created**: Unknown
 
-::: {.callout-warning title="NOTES"}
-xxxx
+::: {.callout-warning title="Safety"}
+**Personal Protective Equipment (PPE):**
+
+- Lab coat
+- Safety glasses
+- Nitrile gloves
+
+**Chemical Safety:**
+
+- Handle all enzymes on ice
+- Work carefully with sharp razor blades during gel cutting
 :::
 
 ## Materials:
@@ -45,7 +54,7 @@ xxxx
 If you start with greater than 1 µg (up to 2 µg), you will either have to scale up the volume of the ligation, decrease the amount of EB used in the elution after addition of A overhangs, or make a batch of annealed adapter that is greater than 10 µM in order to maintain a 10:1 ratio of adapter to fragmented DNA in the ligation reaction.
 :::
 
-### End repair: {#end-repair .subhead}
+### End Repair {#sec-end-repair}
 
 To eluate, add NEB Quick Blunting kit reagents:
 
@@ -58,7 +67,7 @@ Then:
 -   30 min at room temperature
 -   Clean with Zymo column, elute 2 times with 21 µl EB.
 
-### Addition of A overhangs: {#addition-of-a-overhangs .subhead}
+### Addition of A Overhangs {#sec-a-overhangs}
 
 To eluate, add:
 
@@ -71,7 +80,7 @@ Then:
 -   30 min at 37°C
 -   Clean with Zymo column, elute 2 times with 20 µl EB
 
-### Ligation: {#ligation .subhead}
+### Ligation {#sec-ligation}
 
 To eluate, add:
 

@@ -1,7 +1,17 @@
 # Contact Information {#sec-general-contact}
 
-| Col1          | Col2         | Col3 |
+## Introduction
+
+This page provides contact information for key Cresko Lab personnel. In case of emergencies, refer to @sec-general-lab_safety for emergency procedures and contact information.
+
+## Key Lab Personnel
+
+| Name          | Phone Number | Type |
 |---------------|--------------|------|
 | Bill Cresko   | 541-285-5446 | Cell |
 | Mark Currey   | 541-505-0006 | Cell |
-| Susie Bassham | xxxx         | Cell |
+| Susie Bassham | TBD          | Cell |
+
+::: {.callout-note title="Note"}
+For laboratory emergencies, dial 911 first, then contact EHS at 6-2919. See @sec-general-lab_safety for complete emergency procedures.
+:::

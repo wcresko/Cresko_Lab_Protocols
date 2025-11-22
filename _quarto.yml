@@ -36,23 +36,19 @@ book:
     - part: Part2_Molecular.qmd
       chapters:
         - 02_Molecular/Molecular_Phusion_PCR.qmd
-        - 02_Molecular/Molecular_cDNA.qmd
+        - 02_Molecular/Molecular_2xTurbo.qmd
+        - 02_Molecular/Molecular_Pouring_and_Running_a_Gel.qmd
         - 02_Molecular/Molecular_cDNA_synthesis_for_PCR.qmd
         - 02_Molecular/Molecular_double_stranded_cDNA_synthesis.qmd
-        - 02_Molecular/Molecular_2xTurbo.qmd
-        - 02_Molecular/Molecular_8_Perc_Paraform.qmd
-        - 02_Molecular/Molecular_Alizarin.qmd
-        - 02_Molecular/Molecular_Pouring_and_Running_a_Gel.qmd
-        - 02_Molecular/Molecular_Alizarin.qmd
         - 02_Molecular/Molecular_cDNA_eRAD.qmd
         - 02_Molecular/Molecular_Extracting_DNA_with_Beads_vers1.qmd
         - 02_Molecular/Molecular_Extracting_DNA_with_Beads_vers2.qmd
         - 02_Molecular/Molecular_Insert_Screen.qmd
-        - 02_Molecular/Molecular_Pouring_and_Running_a_Gel.qmd
         - 02_Molecular/Molecular_Seq_RAD.qmd
         - 02_Molecular/Molecular_T_overhang.qmd
-        - 02_Molecular/Molecular_Topo_Clone.qmd
         - 02_Molecular/Molecular_TopoClone_with_PCR4_vector.qmd
+        - 02_Molecular/Molecular_Alizarin.qmd
+        - 02_Molecular/Molecular_8_Perc_Paraform.qmd
 
     - part: Part3_Microbiology.qmd
       chapters:
@@ -78,11 +74,11 @@ book:
         - 04_Vertebrate_Husbandry/Husbandry_General_Incubator_Use.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Program_Light.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Room_Clean.qmd
-        - 04_Vertebrate_Husbandry/Husbandry_General_Stickleback_Anesthesia.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_Adult_Anesthesia.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Rotifer_live_food_culture.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Weekend_Feeding_Health_Checks.qmd
         - 04_Vertebrate_Husbandry/Husbandry_General_Weekday_Feeding.qmd
-        - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Density_Standards.qmd
+        - 04_Vertebrate_Husbandry/Husbandry_General_Stickleback_Density_Standards.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Cross.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Dry_Food_Mix.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Stickleback_Testes_Storage.qmd
@@ -92,42 +88,31 @@ book:
         - 04_Vertebrate_Husbandry/Husbandry_Syngnathid_wild_fish_introduction.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Syngnathid_Crossing.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Syngnathid_Colony_Maintanence.qmd
-        - 04_Vertebrate_Husbandry/Husbandry_Syngnathid_Embryo_and_Larval_Euthanasia.qmd
         - 04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Euthanasia.qmd
-        - 04_Vertebrate_Husbandry/Husbandry_Syngnathid_Adult_Anesthesia.qmd
 
     - part: Part5_Vertebrate_Experiment.qmd
       chapters:
-        - 05_Vertebrate_Experiment/VertExperiment_Live_Alizarin_Staining_Syngnathid.qmd
-        - 05_Vertebrate_Experiment/VertExperiment_Live_Calcein_Staining_Syngnathid.qmd
-        - 05_Vertebrate_Experiment/VertExperiment_Live_Daspei_Staining_Syngnathid.qmd
-        - 05_Vertebrate_Experiment/VertExperiment_Live_Fin_Clipping_Syngnathid.qmd
-        - 05_Vertebrate_Experiment/VertExperiment_Field_Collection_Syngnathid.qmd
-        - 05_Vertebrate_Experiment/VertExperiment_Field_Collection_Stickleback.qmd
-        - 05_Vertebrate_Experiment/VertExperiment_Dechorionating_Zebrafish_Embryos.qmd
         - 05_Vertebrate_Experiment/VertExperiment_General_Fish_Blood.qmd
         - 05_Vertebrate_Experiment/VertExperiment_General_Needle_Pulling.qmd
         - 05_Vertebrate_Experiment/VertExperiment_General_Whole_mt_insitu.qmd
         - 05_Vertebrate_Experiment/VertExperiment_General_No_acid_stain.qmd
-        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Back_Fill_Neurons.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Live_Alizarin_Staining.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Live_Calcein_Staining.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Live_Daspei_Staining.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Live_Fin_Clipping.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Back_Fill_Neurons.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Field_Collection.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Cybrid_Creation.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Embryo_Injections.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Germ_Free.qmd
-        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Live_Alizarin_Staining.qmd
-        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Live_Calcein_Staining.qmd
-        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Live_Daspei_Staining.qmd
-        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Live_Fin_Clipping.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Monoassociation.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Salinity_Treatment.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Sex_Determ.qmd
         - 05_Vertebrate_Experiment/VertExperiment_Stickleback_Steroid_Measure.qmd
-        - 05_Vertebrate_Experiment/VertExperiment_Syngnathid_Back_Fill_Neurons.qmd
-        - 05_Vertebrate_Experiment/VertExperiment_Syngnathid_Live_Alizarin_Staining.qmd 
-        - 05_Vertebrate_Experiment/VertExperiment_Syngnathid_Live_Calcein_Staining.qmd
-        - 05_Vertebrate_Experiment/VertExperiment_Syngnathid_Live_Daspei_Staining.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_CRISPR_Cas9.qmd
         - 05_Vertebrate_Experiment/VertExperiment_double_haploid.qmd
         - 05_Vertebrate_Experiment/VertExperiment_egg_storage.qmd
-        - 05_Vertebrate_Experiment/VertExperiment_Stickleback_CRISPR_Cas9.qmd
+        - 05_Vertebrate_Experiment/VertExperiment_Dechorionating_Zebrafish_Embryos.qmd
 
     - part: Part6_Invertebrate_Husbandry.qmd
       chapters:
@@ -141,20 +126,14 @@ book:
         - 07_Recipes/Recipe_Husbandry_mesab_stock.qmd
         - 07_Recipes/Recipe_Husbandry_testes_solution.qmd
         - 07_Recipes/Recipe_Husbandry_PFA.qmd
-        - 07_Recipes/Recipe_Molecular_2x_SSC_Tween_20.qmd
-        - 07_Recipes/Recipe_Molecular_Blocking_Buffer_for_in_situs.qmd
-        - 07_Recipes/Recipe_Molecular_Fake_Hyb.qmd
-        - 07_Recipes/Recipe_Molecular_NTMT_Buffer.qmd
-        - 07_Recipes/Recipe_Molecular_PBT.qmd
-        - 07_Recipes/Recipe_Molecular_TBE_TAE_Buffer.qmd
-        - 07_Recipes/Recipe_Molecular_2x_SSC_Tween_20.qmd
-        - 07_Recipes/Recipe_Molecular_Blocking_Buffer_for_in_situs.qmd
-        - 07_Recipes/Recipe_Molecular_Fake_Hyb.qmd
-        - 07_Recipes/Recipe_Molecular_NTMT_Buffer.qmd
-        - 07_Recipes/Recipe_Molecular_PBT.qmd
-        - 07_Recipes/Recipe_Molecular_TBE_TAE_Buffer.qmd
         - 07_Recipes/Recipe_Husbandry_Hanks.qmd
         - 07_Recipes/Recipe_Husbandry_holtfreiters.qmd
+        - 07_Recipes/Recipe_Molecular_2x_SSC_Tween_20.qmd
+        - 07_Recipes/Recipe_Molecular_Blocking_Buffer_for_in_situs.qmd
+        - 07_Recipes/Recipe_Molecular_Fake_Hyb.qmd
+        - 07_Recipes/Recipe_Molecular_NTMT_Buffer.qmd
+        - 07_Recipes/Recipe_Molecular_PBT.qmd
+        - 07_Recipes/Recipe_Molecular_TBE_TAE_Buffer.qmd
         
     - part: Part8_Bioinformatic.qmd
       chapters:

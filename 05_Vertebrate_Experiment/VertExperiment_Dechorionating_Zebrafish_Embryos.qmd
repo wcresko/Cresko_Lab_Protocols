@@ -30,21 +30,75 @@
 
 ## Procedure
 
-1.  Chorions can be removed easily using two forceps (it is critical that the tips are sharp and that their ends can touch). When raised in E3 medium at 28.5°C, zebrafish embryos develop normally outside of their chorions. Manually dechorionate embryos, using the following procedure:
+### Method 1: Manual Dechorionation
 
-    a.  While using one pair of forceps to hold the chorion, make a tear in the chorion with the other pair of forceps.
-    b.  Hold the chorion in a region opposite of the tear, and gently push the embryo through the opening by passing the chorion and the embryo between the tips of the other pair of forceps.
+Chorions can be removed easily using two pairs of forceps. **Critical**: Forceps tips must be sharp and able to touch precisely.
 
-::: {.callout-warning title="IMPORTANT"}
-Embryos younger than 15 hpf are particularly fragile and great care must be taken not to damage them.
+1.  **Position embryo**: Place embryos in E3 medium in a petri dish under a dissecting microscope.
+
+2.  **Tear chorion**:
+    a.  Using one pair of forceps, gently hold the chorion to stabilize it.
+    b.  With the other pair of forceps, make a small tear in the chorion.
+
+3.  **Release embryo**:
+    a.  Grasp the chorion on the side opposite the tear with one pair of forceps.
+    b.  Gently push the embryo through the opening by passing the chorion and embryo between the tips of the other pair of forceps.
+    c.  The embryo should slide out through the tear.
+
+::: {.callout-warning title="Handle with Care"}
+Embryos younger than 15 hours post fertilization (hpf) are particularly fragile and great care must be taken not to damage them. Work slowly and gently.
 :::
 
-2.  Alternatively, embryos can be enzymatically dechorionated in bulk using the following procedure:
+### Method 2: Enzymatic Dechorionation (Bulk Processing)
 
-    a.  Incubate the embryos in the Pronase Solution at room temperature for a brief time (typically 1-10 minutes, depending on the embryonic stage). Constantly check the condition of the chorions by gently depressing them with a poker (made by attaching a loop of 6X flyfishing tippet to a capillary tube) and looking at them under a microscope. When the chorions no longer return to a spherical shape, the Pronase treatment is complete.
-    b.  Thoroughly wash the embryos (3 to 4 times) in E3 mediun to remove the Pronase solution. Using the fire-polished Pasteur pipet, pipet the embryos back and fourth in the E3 medium. The Pronase-treated chorions should break open, releasing the embryos.
-    c.  Dechorionated embryos should be handled using fire-polished Pasteur pipets to minimize damage.
+Alternatively, embryos can be enzymatically dechorionated in bulk:
+
+1.  **Prepare embryos**: Collect embryos in a petri dish.
+
+2.  **Pronase treatment**:
+    -   Incubate embryos in Pronase Solution (2 mg/ml in E3) at room temperature.
+    -   Duration: 1-10 minutes, depending on embryonic stage (older embryos require longer treatment).
+
+3.  **Monitor chorion integrity**:
+    -   Use a poker (made by attaching a loop of 6X flyfishing tippet to a capillary tube).
+    -   Gently depress chorions under a microscope.
+    -   When chorions no longer return to a spherical shape, the Pronase treatment is complete.
+
+4.  **Wash embryos**:
+    -   Thoroughly wash embryos 3-4 times in fresh E3 medium to remove all Pronase.
+    -   Using a fire-polished wide-bore Pasteur pipette, gently pipette embryos back and forth.
+    -   The weakened chorions should break open, releasing embryos.
+
+5.  **Transfer dechorionated embryos**:
+    -   Handle dechorionated embryos using only fire-polished Pasteur pipettes to minimize damage.
+    -   Transfer to fresh E3 medium.
+
+## Post-Dechorionation Care
+
+::: {.callout-tip title="Maintaining Embryo Health"}
+-   Keep dechorionated embryos in E3 medium at 28.5°C
+-   Dechorionated embryos are more susceptible to bacterial contamination - maintain clean conditions
+-   Remove dead embryos promptly
+-   Change medium daily
+-   Expect slightly higher mortality compared to chorionated embryos
+:::
+
+## Related Protocols
+
+-   Zebrafish husbandry and breeding
+-   Embryo microinjection procedures
+-   Live imaging protocols
+
+## Troubleshooting
+
+::: {.callout-warning title="Common Issues"}
+-   **Embryos damaged during manual dechorionation**: Forceps may be too dull or technique too forceful; practice on older, more robust embryos first.
+-   **Incomplete pronase digestion**: Increase pronase concentration or incubation time; check pronase activity.
+-   **Over-digestion with pronase**: Embryos appear damaged or sticky; reduce incubation time and monitor more frequently.
+-   **High mortality after dechorionation**: May indicate damage during processing; ensure pipettes are properly fire-polished and handle embryos gently.
+:::
 
 ## Associated Papers
 
--   
+-   Westerfield, M. The Zebrafish Book. A Guide for the Laboratory Use of Zebrafish (*Danio rerio*). 5th Edition. University of Oregon Press, Eugene.
+-   Kimmel, C.B., et al. (1995). Stages of embryonic development of the zebrafish. Dev Dyn 203:253-310.

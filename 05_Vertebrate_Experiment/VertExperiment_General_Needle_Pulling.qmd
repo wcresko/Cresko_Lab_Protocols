@@ -2,7 +2,7 @@
 
 ## Introduction
 
--   **Purpose**: This procedure describes how to pull needles for injections.
+-   **Purpose**: This procedure describes how to pull needles for microinjections of embryos.
 -   **Procedure Type**: Vert Experiment
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
@@ -10,21 +10,71 @@
 -   **Author**: Susie Bassham
 -   **Date Created**: March 1, 2024
 
-::: {.callout-warning title="NOTES"}
-xxxx
+::: {.callout-important title="IACUC Protocol Required"}
+If using these needles for embryo injections, ensure your IACUC protocol covers microinjection procedures.
+:::
+
+::: {.callout-note title="Background"}
+Properly pulled needles are critical for successful microinjections. The needle must be thin enough to penetrate the chorion without dragging the embryo, yet strong enough not to bend during penetration. The exact pulling parameters may need to be optimized for your specific needle puller and capillary type.
 :::
 
 ## Materials
 
--   filament capillaries (1.2OD/0.69ID)
--   needle puller
--   glass
+-   Filament capillaries (1.2 mm OD/0.69 mm ID) - for zebrafish
+-   Needle puller (e.g., Sutter Instrument P-97 or equivalent)
+-   Fine-tip permanent marker for labeling
+-   Petri dish or needle holder for storing pulled needles
 
 ## Solutions
 
+-   Not applicable for this protocol
+
 ## Procedure
 
--   use zebrafish filament capillaries (1.2OD/0.69ID)
--   needle puller
--   Program 1, range from 140 to 200 PSI by 20PSI steps
--   Mark Appropriately
+1.  **Prepare the needle puller**:
+    -   Turn on the needle puller and allow it to warm up.
+    -   Select Program 1 (or appropriate program for your puller model).
+
+2.  **Set pulling parameters**:
+    -   Set pressure range from 140 to 200 PSI in 20 PSI increments.
+    -   Adjust heat and pull settings as needed for your specific puller.
+
+3.  **Load capillary**:
+    -   Place a filament capillary (1.2 mm OD/0.69 mm ID) into the needle puller.
+    -   Ensure the capillary is centered and secure.
+
+4.  **Pull the needle**:
+    -   Activate the pulling program.
+    -   The puller will heat and pull the capillary to create a fine tip.
+
+5.  **Inspect the needle**:
+    -   Examine the pulled needle under a dissecting microscope.
+    -   The tip should be long, thin, and have a gradual taper.
+    -   The opening should be fine enough for embryo injection.
+
+6.  **Store and label**:
+    -   Mark the needle appropriately with pressure settings used.
+    -   Store in a safe location (e.g., petri dish with clay or dedicated needle holder).
+    -   Keep track of which pulling parameters produce the best needles.
+
+::: {.callout-tip title="Optimization Tips"}
+-   Test different PSI settings to find the optimal needle shape for your application.
+-   Keep a log of pulling parameters that work best for different injection types.
+-   Pull multiple needles at once to have backups ready during injection sessions.
+-   If needles are too fragile, decrease the pull time or heat; if too blunt, increase these parameters.
+:::
+
+## Related Protocols
+
+-   Embryo injections: @sec-vert_exp-embryo_injections
+-   CRISPR/Cas9 injections: @sec-vert_exp_CRISPR
+-   Stickleback crossing for embryo collection: @sec-husbandry_stickleback_crossing
+
+## Troubleshooting
+
+::: {.callout-warning title="Common Issues"}
+-   **Needles too fragile**: Reduce heat or pull time in the program settings.
+-   **Needles too blunt**: Increase heat or pull time.
+-   **Inconsistent results**: Check that capillaries are properly centered and the filament is intact.
+-   **Needle bends during injection**: Use a thicker-walled capillary or adjust pulling parameters for a stronger needle.
+:::

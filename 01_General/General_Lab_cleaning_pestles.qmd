@@ -2,34 +2,86 @@
 
 ## Introduction
 
--   **Purpose**: This procedure describes how to clean pestles.
--   **Procedure Type**: General Lab
--   **Author**: xxx
--   **Date Created**: xxx
+-   **Purpose**: This procedure describes how to clean and sterilize pestles used for tissue homogenization.
+-   **Procedure Type**: General Lab Maintenance
+-   **Author**: Cresko Lab
+-   **Date Created**: 2024
 
 ## Materials
 
--   Large beaker (or similar vessel in which to soak pestles)
+-   Large beaker (or similar vessel for soaking pestles)
 -   Aluminum foil
 -   Autoclave tape
--   Autocalve
+-   Autoclave (PAC 306D)
+-   Nitrile gloves
+-   Lab coat
+-   Safety glasses
 
 ## Solutions
 
--   10% bleach solution
--   xxx
--   xxx
+-   10% bleach solution (diluted from stock bleach)
+-   Tap water
+-   DI water (deionized water)
+
+## Safety Precautions
+
+::: {.callout-warning title="Warning - Chemical and Heat Hazards"}
+**Bleach Safety**:
+- Wear nitrile gloves, lab coat, and safety glasses when working with bleach solutions
+- Work in a well-ventilated area
+- Never mix bleach with acids or ammonia-containing products
+
+**Autoclave Safety**:
+- Items removed from autoclave will be extremely hot
+- Allow items to cool completely before handling
+- Use heat-resistant gloves if items must be moved while warm
+- Follow autoclave operating procedures
+
+See @sec-general-lab_safety for complete laboratory safety guidelines.
+:::
 
 ## Procedure
 
-1.  Rinse dirty pestles with tap water.
-2.  Place pestles into a large beaker and fill the beaker with 10% bleach solution. Let the pestles sit for 10 minutes.
-3.  Drain the bleach solution and rinse the pestles with DI water.
-4.  Section the pestles into 5-10 pestle bunches, wrap each bunch in tin foil, and use a section of autoclave tape to close foil.
-5.  Autoclave foil-wrapped pestles using the 25 minute Gravity program
+1.  Put on appropriate PPE (gloves, lab coat, safety glasses).
 
-## Associated Papers
+2.  Rinse dirty pestles thoroughly with tap water to remove tissue debris and residue.
 
--   xxx
--   xxx
--   xxx
+3.  Place pestles into a large beaker and fill the beaker with 10% bleach solution, ensuring all pestles are submerged.
+
+4.  Let the pestles sit for 10 minutes to decontaminate.
+
+    ::: {.callout-note title="Note"}
+    The 10-minute bleach treatment helps eliminate biological contamination before autoclaving.
+    :::
+
+5.  Drain the bleach solution and rinse the pestles thoroughly with DI water to remove all bleach residue.
+
+6.  Section the pestles into bunches of 5-10 pestles each.
+
+7.  Wrap each bunch securely in aluminum foil.
+
+8.  Use autoclave tape to seal the foil packages. Write the date on the autoclave tape.
+
+9.  Transport wrapped pestles to the autoclave in room PAC 306D.
+
+10. Autoclave foil-wrapped pestles using the 25-minute Gravity program.
+
+    ::: {.callout-important title="Important"}
+    Allow pestles to cool completely in the autoclave before removing. Hot items can cause burns.
+    :::
+
+11. Once cooled, store autoclaved pestles in a clean, dry location until needed.
+
+## Waste Disposal
+
+-   Dispose of bleach solution down the sink with running water
+-   Recycle used aluminum foil if not contaminated, otherwise dispose in regular trash
+-   For hazardous waste disposal guidelines, see @sec-general-hazard_waste
+
+## Related Protocols
+
+-   @sec-general-lab_safety - Cresko Lab Safety Highlights
+-   @sec-general-PCRmats - Cleaning PCR Mats
+-   @sec-general-clean_load_boats - Cleaning Loading Boats
+-   @sec-general-hazard_waste - Disposing of Hazardous Waste
+-   @sec-general-pipette_tips - Refilling Pipette Tips (autoclave procedures)

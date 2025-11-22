@@ -2,44 +2,110 @@
 
 ## Introduction
 
--   **Purpose**: This procedure describes how to inject embryos with injection rig.
+-   **Purpose**: This procedure describes how to inject stickleback embryos with CRISPR elements, DNA, mRNA, lineage tracer dyes, or other reagents using a microinjection rig.
 -   **Procedure Type**: Vert Experimental
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
--   **Author**: Mark Currey\
+-   **Author**: Mark Currey
 -   **Date Created**: January 01, 2024
+
+::: {.callout-important title="IACUC Protocol Required"}
+This procedure requires an active IACUC protocol covering embryo microinjection. Ensure all personnel are properly trained in microinjection techniques and embryo handling.
+:::
 
 ## Materials
 
--   Petri dish with specialized trough rig
--   Injection rig
+-   Petri dish with specialized trough rig (agarose mold or plastic insert)
+-   Microinjection rig with micromanipulator
+-   Dissecting microscope with transmitted light
+-   Pulled glass needles (see @sec-vert_exp-needle_pulling)
+-   Microinjector (pneumatic or manual)
+-   Fine forceps for embryo manipulation
+-   Transfer pipettes
 
 ## Solutions
 
--   Embryo medium
+-   Embryo medium - see @sec-general_recipe_embryo_medium
+-   Phenol red (optional, for visualizing injection volume)
 
-## Procedure:
+## Background
 
-::: {.callout-note title="background"}
-(from: Zebrafish Book 4th addition chp 5) This is an easy method for holding embryos while injecting CRISPR elements, DNA, lineage tracer dyes, etc., without removing their chorions. The embryos are held in wedged-shaped troughs. Each trough can hold approximately 35 embryos (with chorions). Embryos can be aligned by gently tamping them down with forceps. As the pipette penetrates the chorion, the embryo is forced against the rear vertical wall of the trough. The exact positioning of the pipette tip within the embryo is achieved by slight movement of the pipette with a micromanipulator or by movement of the stage. If the pipette tip is thin and long enough, it can be withdrawn from the chorion without dragging the embryo out of the trough. A problem with thin pipettes, however, is that they lack the tensile strength to penetrate the chorion and bend when forced onto the chorion surface. Thicker pipettes do not easily slip out of the chorion, although the embryo can be held with forceps as the pipette is slowly withdrawn.
+::: {.callout-note title="Method Overview"}
+(Adapted from Zebrafish Book 4th edition, Chapter 5)
+
+This is an easy method for holding embryos while injecting CRISPR elements, DNA, lineage tracer dyes, etc., without removing their chorions. The embryos are held in wedge-shaped troughs. Each trough can hold approximately 35 embryos (with chorions).
+
+**Key principles**:
+-   Embryos can be aligned by gently tamping them down with forceps.
+-   As the pipette penetrates the chorion, the embryo is forced against the rear vertical wall of the trough.
+-   The exact positioning of the pipette tip within the embryo is achieved by slight movement of the pipette with a micromanipulator or by movement of the stage.
+
+**Needle considerations**:
+-   If the pipette tip is thin and long enough, it can be withdrawn from the chorion without dragging the embryo out of the trough.
+-   Thin pipettes may lack the tensile strength to penetrate the chorion and bend when forced onto the chorion surface.
+-   Thicker pipettes do not easily slip out of the chorion, although the embryo can be held with forceps as the pipette is slowly withdrawn.
 :::
 
--   
+## Procedure
 
-1.  Injecting:
-    1.  Warm the Petri dish to the temperature you prefer for injection (embryos can tolerate 18°C for about 1 hour, and the slower division rate allows more time to inject at the 1 and 2 cell stage).
-    2.  Remove the plastic mold.
-    3.  Position the dish on a microscope stage and adjust the angle of the pipette so that you can aim directly into the trough.
-    4.  Transfer embryos into the troughs.
-    5.  Using forceps, align the embryos all in the same orientation. Add enough culture medium so that the level reaches the plastic edges of the slits. Gently tamp the embryos down into the trough.
-    6.  Using controls on the micromanipulator, force the pipette through the chorion and the yolk cell, entering the embryonic cell(s) from the yolk cell. (You might prefer to enter the embryonic cell directly; in this case, you would choose a different orientation of the embryo in the trough.)
-    7.  As the pipette goes through the yolk, move the Petri dish a bit so that the pipette is close to the plastic cover.
-    8.  Inject the desired volume of solution and then withdraw the pipette with a slow steady motion. The embryo will catch on the plastic cover and drop back into the trough.
-    9.  Transfer the embryos into a dish with embryo medium and maintain at 20°C for further development.
+### Preparation
+
+1.  **Temperature adjustment**: Warm the Petri dish to the temperature you prefer for injection.
+    -   Embryos can tolerate 18°C for about 1 hour.
+    -   The slower division rate at 18°C allows more time to inject at the 1 and 2-cell stages.
+    -   Standard development occurs at 20°C.
+
+2.  **Setup**: Remove the plastic mold from the agarose if applicable.
+
+3.  **Microscope positioning**: Position the dish on a microscope stage and adjust the angle of the pipette so that you can aim directly into the trough.
+
+### Injection
+
+4.  **Load embryos**: Transfer embryos into the troughs using a transfer pipette.
+
+5.  **Align embryos**:
+    -   Using forceps, align the embryos all in the same orientation.
+    -   Add enough embryo medium so that the level reaches the plastic edges of the slits.
+    -   Gently tamp the embryos down into the trough with forceps.
+
+6.  **Penetrate chorion**: Using controls on the micromanipulator, force the pipette through the chorion and the yolk cell, entering the embryonic cell(s) from the yolk cell.
+    -   Alternative: You might prefer to enter the embryonic cell directly; in this case, you would choose a different orientation of the embryo in the trough.
+
+7.  **Position needle**: As the pipette goes through the yolk, move the Petri dish slightly so that the pipette is close to the plastic cover.
+
+8.  **Inject**: Inject the desired volume of solution (typically 1-2 nl) and then withdraw the pipette with a slow steady motion.
+    -   The embryo will catch on the plastic cover and drop back into the trough.
+
+9.  **Transfer and incubate**: Transfer the embryos into a dish with fresh embryo medium and maintain at 20°C for further development.
+
+## Post-Injection Care
+
+::: {.callout-tip title="Monitoring Embryos"}
+-   Monitor embryo development at regular intervals (4, 8, 24, 48 hours post-injection)
+-   Remove dead or severely abnormal embryos
+-   Expect some mortality from the injection procedure itself
+-   Document survival rates and phenotypes
+:::
+
+## Related Protocols
+
+-   Needle pulling for injections: @sec-vert_exp-needle_pulling
+-   CRISPR/Cas9 injections: @sec-vert_exp_CRISPR
+-   Stickleback crossing and embryo collection: @sec-husbandry_stickleback_crossing
+-   Cybrid creation: @sec-vert_exp-stickleback_cybrid
+
+## Troubleshooting
+
+::: {.callout-warning title="Common Issues"}
+-   **Embryos roll out of trough**: Trough may be too shallow or wide; adjust mold or use different size.
+-   **Chorion doesn't penetrate**: Needle may be too dull; pull fresh needles.
+-   **High mortality**: May indicate needle too large, injection volume too high, or contaminated injection solution.
+-   **Embryos stick to needle**: Needle may be too thick or injection too forceful.
+:::
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   Westerfield, M. The Zebrafish Book. A guide for the laboratory use of zebrafish (Danio rerio), 4th Edition. University of Oregon Press, Eugene.
+-   Bell, M.A. & Foster, S.A. (Eds.) 1994. The Evolutionary Biology of the Threespine Stickleback. Oxford University Press.
+-   Papers on CRISPR/Cas9 injection in stickleback
+-   Papers on transgenic stickleback generation

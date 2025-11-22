@@ -1,0 +1,504 @@
+# Adult Fish Anesthesia {#sec-husbandry-adult_anesthesia}
+
+## Introduction
+
+-   **Purpose**: This protocol describes how to safely anesthetize adult fish for imaging, measurements, surgical procedures, or other manipulations
+-   **Procedure Type**: Husbandry/Anesthesia
+-   **Species**:
+    -   Threespine stickleback (*Gasterosteus aculeatus*)
+    -   Bay pipefish (*Syngnathus leptorhyncus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+-   **Author**: Mark Currey
+-   **Date Created**: February 28, 2024, updated November 22, 2025
+-   **IACUC Protocol**: Required for all anesthesia procedures
+
+::: {.callout-important title="Safety and Handling"}
+-   Wear appropriate PPE (lab coat, gloves, safety glasses)
+-   MS-222 (tricaine) can be absorbed through skin - always wear gloves
+-   Work in well-ventilated area
+-   Never consume food or drink in anesthesia work area
+-   Dispose of MS-222 solutions according to chemical waste protocols
+-   Keep MSDS (Material Safety Data Sheet) readily accessible
+:::
+
+::: {.callout-warning title="IACUC Compliance"}
+All anesthesia procedures must be:
+
+-   Covered by current IACUC protocol
+-   Performed by trained personnel
+-   Documented in laboratory records
+-   Monitored for fish welfare
+-   Ended with appropriate recovery or euthanasia
+
+**Anesthesia is not euthanasia:** Fish must either fully recover or be properly euthanized. Prolonged anesthesia without recovery or euthanasia is not acceptable.
+:::
+
+## Background
+
+MS-222 (tricaine methanesulfonate, also called tricaine or ethyl 3-aminobenzoate methanesulfonate) is the most commonly used anesthetic for fish. It is FDA-approved for use in fish and acts as a central nervous system depressant, inducing a dose-dependent sedation and anesthesia.
+
+### Mechanism of Action
+
+MS-222 works by blocking sodium channels in nerve cell membranes, similar to local anesthetics like lidocaine. At appropriate concentrations, it produces:
+
+-   Light sedation (reduced activity, maintained equilibrium)
+-   Deep sedation (loss of equilibrium, reduced opercular rate)
+-   Surgical anesthesia (no response to stimuli, slow opercular rate)
+-   Overdose/death (cessation of opercular movements)
+
+The goal for most procedures is to achieve deep sedation or light surgical anesthesia - enough to immobilize the fish for manipulation but maintaining respiratory movements.
+
+### Factors Affecting Anesthesia
+
+-   **Water temperature:** Warmer water increases metabolic rate and speeds induction
+-   **Fish size:** Smaller fish require less time to anesthetize
+-   **Fish health:** Stressed or sick fish are more sensitive
+-   **Water chemistry:** pH, salinity, oxygen levels all affect uptake
+-   **Individual variation:** Always monitor each fish individually
+
+## Materials
+
+### Equipment
+-   Small containers or petri dishes (for anesthesia)
+-   Larger containers or tanks (for recovery)
+-   Transfer pipettes or small nets
+-   Timer or clock
+-   Thermometer
+-   pH meter or pH strips
+-   Imaging equipment or other experimental apparatus (as needed)
+
+### Optional
+-   Dissecting microscope (for detailed observation)
+-   Small sponge or soft surface (for positioning during imaging)
+-   Gloves (nitrile or latex)
+
+## Solutions
+
+### MS-222 Stock Solution (4g/L)
+
+::: {.callout-note title="Pharmaceutical Grade Tricaine"}
+**CRITICAL:** Tricaine must be pharmaceutical-grade. We use tricaine purchased from Pentair (manufactured by Western Chemical, FDA approved). Tricaine (3-amino benzoic acid ethyl ester, also called ethyl m-aminobenzoate) comes in powdered form. Purchase the smallest amount possible because tricaine expires quickly (typically 1-2 years from manufacture date).
+
+-   Check expiration date before use
+-   Store powder at 4°C in original container
+-   Protect from light and moisture
+-   Discard if discolored or clumped
+:::
+
+**Tris-Buffered MS-222 Stock (4g/L)**
+
+```
+-   4 g tricaine powder
+-   979 ml deionized (DD) water
+-   ~21 ml 1 M Tris (pH 9)
+-   Adjust pH to ~7.0
+-   Aliquot in 50ml tubes
+-   Label with "MS-222 Stock Solution 4g/L" and date
+-   Store at -20°C
+-   This makes 1 liter of stock solution
+-   Stable for 6 months when frozen
+```
+
+::: {.callout-tip title="Why Buffer MS-222?"}
+Unbuffered MS-222 is very acidic (pH ~3), which is stressful to fish and less effective as an anesthetic. Buffering to neutral pH (7.0-7.5) with Tris improves efficacy and reduces stress. Always check pH before use.
+:::
+
+### Anesthesia Working Solution
+
+The standard anesthesia concentration for adult fish is **168 mg/L** (also written as 0.168 g/L or 168 ppm).
+
+::: {.panel-tabset}
+
+#### Stickleback
+
+**For 100 ml working solution:**
+
+-   92.5 ml of 3 ppt Instant Ocean solution
+-   7.5 ml of MS-222 stock (4g/L)
+-   Final concentration: 168 mg/L in 3 ppt salinity
+
+**Prepare 3 ppt Instant Ocean:**
+
+-   0.3 g Instant Ocean salt mix
+-   100 ml deionized water
+-   Mix until fully dissolved
+
+**Storage:**
+
+-   Store in amber (dark) bottle to protect from light
+-   Label with: "MS-222 Anesthesia 168 mg/L", preparation date, expiration date (6 months)
+-   Keep at room temperature or 4°C
+-   Discard if discolored, precipitated, or past expiration
+
+#### Pipefish/Syngnathid
+
+**For 100 ml working solution:**
+
+-   92.5 ml of 25-30 ppt Instant Ocean solution
+-   7.5 ml of MS-222 stock (4g/L)
+-   Final concentration: 168 mg/L in 25-30 ppt salinity
+
+**Prepare 25-30 ppt Instant Ocean:**
+
+-   2.5-3.0 g Instant Ocean salt mix
+-   100 ml deionized water
+-   Mix until fully dissolved
+
+**Notes for Syngnathids:**
+
+-   Use full-strength seawater (25-30 ppt) to match their osmotic requirements
+-   Bay pipefish are more sensitive - may need lower concentration (start with 120-140 mg/L)
+-   Gulf pipefish tolerate wider salinity range but prefer 25-30 ppt
+
+**Storage:**
+
+-   Store in amber bottle to protect from light
+-   Label with: "MS-222 Anesthesia 168 mg/L", preparation date, expiration date (6 months)
+-   Keep at room temperature or 4°C
+
+:::
+
+### Recovery Water
+
+Prepare fresh water appropriate for your species:
+
+-   **Stickleback:** 3 ppt Instant Ocean or system water
+-   **Pipefish:** 25-30 ppt Instant Ocean or system water
+-   Use same temperature as holding system
+-   Ensure adequate oxygenation (aeration or frequent water changes)
+
+## Procedure
+
+### Pre-Anesthesia Preparation
+
+::: {.callout-tip title="Planning Ahead"}
+-   Know exactly what procedure you will perform and estimate duration
+-   Have all equipment ready before anesthetizing fish
+-   Work quickly but carefully - minimize anesthesia time
+-   Target total anesthesia time: <10 minutes for routine procedures
+-   Plan recovery container and monitoring schedule
+:::
+
+1.  **Prepare workspace**
+
+    -   Set up anesthesia container (petri dish or small container)
+    -   Set up recovery container with fresh, aerated water
+    -   Prepare imaging or experimental equipment
+    -   Ensure adequate lighting
+    -   Have timer ready
+
+2.  **Prepare solutions**
+
+    -   Pour ~50-100 ml MS-222 anesthesia solution into anesthesia container
+    -   Fill recovery container with fresh water (200-500 ml, depending on fish size)
+    -   Verify temperature is appropriate (16-20°C for stickleback, 18-22°C for pipefish)
+    -   Optional: Check pH of anesthesia solution (should be 7.0-7.5)
+
+3.  **Select and observe fish**
+
+    -   Choose healthy fish only - do not anesthetize sick or stressed fish
+    -   Observe for 5 minutes: normal swimming, feeding, coloration
+    -   Record fish ID or description
+    -   Note start time
+
+### Anesthesia Induction
+
+4.  **Transfer fish to anesthesia solution**
+
+    -   Use transfer pipette or small net
+    -   Minimize air exposure
+    -   Gently place fish in anesthesia container
+    -   Start timer immediately
+
+5.  **Monitor anesthesia stages**
+
+    ::: {.callout-note title="Stages of Anesthesia"}
+    **Stage 1: Light Sedation (0-2 minutes)**
+
+    -   Decreased swimming activity
+    -   Decreased response to external stimuli
+    -   Normal opercular rate
+    -   Normal equilibrium
+
+    **Stage 2: Deep Sedation (2-4 minutes)**
+
+    -   Increased loss of muscle tone
+    -   Erratic swimming
+    -   Decreased opercular rate
+    -   Loss of equilibrium (fish tips on side or inverts)
+
+    **Stage 3: Surgical Anesthesia (4-6 minutes)**
+
+    -   Total loss of muscle tone
+    -   No response to handling
+    -   Slow, regular opercular movements
+    -   No reflex response to tail pinch
+
+    **Stage 4: Overdose**
+
+    -   Opercular movements very slow or stopped
+    -   Cardiac arrest (if prolonged)
+    -   **AVOID THIS STAGE** unless euthanizing
+    :::
+
+6.  **Achieve appropriate anesthesia depth**
+
+    -   For imaging or measurements: Stage 2 (loss of equilibrium) is usually sufficient
+    -   For surgery or manipulations: Stage 3 (surgical anesthesia) required
+    -   **Key indicator:** Fish should not respond to gentle handling but maintain slow opercular movements
+    -   Typical induction time: 3-6 minutes for adults (faster for smaller fish)
+
+### During Anesthesia
+
+7.  **Perform procedure**
+
+    -   Work quickly but carefully
+    -   Keep fish moist if out of water
+        -   Use transfer pipettes to drip anesthesia solution on gills
+        -   Can place fish on damp sponge or soft surface
+        -   Never let fish dry out
+    -   Monitor opercular movements continuously
+    -   Target procedure time: <5 minutes for routine work, <10 minutes maximum
+
+::: {.callout-warning title="Monitoring During Anesthesia"}
+**CRITICAL MONITORING:**
+
+-   **Opercular (gill cover) movements must continue throughout procedure**
+-   If opercular movements stop: immediately transfer to recovery water
+-   If opercular movements become very slow (<10 per minute): prepare to end procedure
+-   If fish appears too deeply anesthetized: transfer to recovery water immediately
+
+**Normal opercular rates during anesthesia:**
+
+-   Light sedation: 50-80% of normal rate
+-   Deep sedation: 30-50% of normal rate
+-   Surgical anesthesia: 20-40% of normal rate
+-   **Danger zone:** <20% of normal rate
+:::
+
+8.  **Complete procedure**
+
+    -   Finish procedure as quickly as possible
+    -   Record any observations or measurements
+    -   Take photos if needed
+    -   Note total anesthesia time
+
+### Recovery
+
+9.  **Transfer to recovery water**
+
+    -   Gently transfer fish using pipette or soft net
+    -   Place in recovery container with fresh, aerated water
+    -   Position fish upright if needed
+    -   Note time of transfer to recovery
+
+10. **Support recovery**
+
+    -   If fish is deeply anesthetized, gently move through water to pass water over gills
+    -   Hold fish upright with head facing into gentle current (if using airstone)
+    -   Can use transfer pipette to gently direct water flow over gills
+    -   Continue until fish shows signs of increased opercular rate
+
+11. **Monitor recovery progression**
+
+    ::: {.callout-note title="Stages of Recovery"}
+    **Early Recovery (0-5 minutes):**
+
+    -   Opercular rate increases
+    -   May remain on side or inverted
+    -   No swimming movements
+
+    **Mid Recovery (5-10 minutes):**
+
+    -   Opercular rate near normal
+    -   Fish rights itself
+    -   Weak swimming movements begin
+
+    **Late Recovery (10-20 minutes):**
+
+    -   Normal opercular rate
+    -   Active swimming
+    -   Maintains equilibrium
+    -   May still have reduced response to external stimuli
+
+    **Full Recovery (20+ minutes):**
+
+    -   Normal swimming behavior
+    -   Normal response to stimuli
+    -   Normal coloration
+    :::
+
+12. **Check recovery every 2-5 minutes**
+
+    -   Look for increasing opercular rate
+    -   Watch for return of swimming ability
+    -   Note return of equilibrium
+    -   Check for normal coloration
+    -   Typical recovery time: 5-20 minutes
+
+::: {.callout-warning title="Recovery Problems"}
+**If fish is not recovering:**
+
+-   Ensure water is well-oxygenated (add airstone if not present)
+-   Check water temperature (should match system temperature)
+-   Gently move fish through water to increase gill perfusion
+-   Continue support for up to 30 minutes
+-   If no signs of recovery after 30 minutes, consult with supervisor
+
+**Signs of successful recovery:**
+
+-   Normal opercular rate
+-   Active swimming
+-   Attempts to evade handling
+-   Normal coloration (not pale or dark)
+:::
+
+### Post-Recovery
+
+13. **Return to system or continue monitoring**
+
+    -   Once fully recovered (normal swimming, equilibrium, responsiveness), fish can be returned to home tank
+    -   **Alternative:** Keep in recovery tank for additional monitoring (2-24 hours)
+    -   Monitor during next daily health check
+    -   Record successful recovery and any observations
+
+14. **Documentation**
+
+    -   Record in laboratory notebook or database:
+        -   Fish ID
+        -   Date and time
+        -   Anesthesia concentration and duration
+        -   Procedure performed
+        -   Recovery time
+        -   Any complications or observations
+    -   Update IACUC records if required
+
+## Troubleshooting
+
+| Problem | Possible Cause | Solution |
+|---------|---------------|----------|
+| Slow or no induction | Anesthesia solution too dilute | Check concentration; make fresh solution |
+| | Old or degraded MS-222 | Use fresh stock; check expiration date |
+| | pH too low or high | Verify pH is 7.0-7.5; adjust if needed |
+| | Water temperature too cold | Warm to appropriate temperature |
+| Rapid, deep anesthesia | Concentration too high | Use lower concentration (120-140 mg/L) |
+| | Fish too small for adult dose | Reduce concentration or volume |
+| | Fish stressed or weakened | Select healthier fish; pre-screen carefully |
+| Fish stops breathing | Over-anesthetization | Immediately transfer to recovery water; support gills |
+| | Procedure too long | Work faster; plan procedure better |
+| | Anesthesia too concentrated | Reduce concentration for next fish |
+| Slow recovery | Excessive anesthesia depth | Reduce concentration or time for next fish |
+| | Inadequate oxygenation | Add airstone; change water |
+| | Fish exhausted or stressed | Provide extended recovery time; monitor closely |
+| No recovery | Overdose | Ensure opercular monitoring during procedure |
+| | Procedure too long | Limit anesthesia time to <10 minutes |
+| | Underlying health issue | Pre-screen fish health carefully |
+| Fish hyperactive after recovery | Insufficient anesthesia | Increase concentration slightly |
+| | Stress response | Normal for some fish; monitor, usually resolves |
+| Repeat anesthesia needed | First dose insufficient | Acceptable to re-anesthetize after full recovery |
+| | | Allow at least 30 minutes between anesthesia events |
+
+## Concentration Adjustments
+
+### When to Use Lower Concentrations
+
+-   Very small fish (<30 mm)
+-   Fish in poor health or stressed
+-   Prolonged procedures (>10 minutes)
+-   Species known to be sensitive (e.g., bay pipefish)
+
+**Suggested lower dose:** 120-140 mg/L
+
+### When to Use Higher Concentrations
+
+-   Very large fish (>60 mm)
+-   Fish resistant to anesthesia
+-   Quick procedures (<2 minutes)
+
+**Suggested higher dose:** 200-250 mg/L
+
+::: {.callout-warning}
+Always start with standard concentration (168 mg/L) for new species or procedures. Adjust only after observing response. Never exceed 300 mg/L for routine anesthesia.
+:::
+
+## Special Considerations
+
+::: {.panel-tabset}
+
+### Stickleback
+
+**Anesthesia Response:**
+-   Generally robust and tolerate anesthesia well
+-   Adult males in breeding condition may be more sensitive
+-   Spines can make handling difficult - use soft nets or careful hand positioning
+
+**Recovery:**
+-   Usually quick and uneventful
+-   Can be quite active immediately upon recovery - use covered containers to prevent jumping
+
+**Typical Timings:**
+-   Induction: 3-5 minutes
+-   Recovery: 5-15 minutes
+
+### Pipefish/Syngnathid
+
+**Anesthesia Response:**
+-   More delicate than stickleback - require careful monitoring
+-   Bay pipefish (*S. leptorhyncus*) may be more sensitive than gulf pipefish
+-   Body shape makes it difficult to assess equilibrium loss - watch for cessation of swimming
+
+**Recovery:**
+-   May be slower than stickleback (10-20 minutes)
+-   Often settle to bottom during recovery - this is normal
+-   Pregnant males: extra care to avoid embryo loss
+
+**Typical Timings:**
+-   Induction: 4-6 minutes (bay pipefish often faster)
+-   Recovery: 10-20 minutes
+
+**Special Notes:**
+-   Use full-strength seawater (25-30 ppt)
+-   Ensure water temperature matches system (18-22°C)
+-   Can be more prone to jumping during light sedation - use covered containers
+
+:::
+
+## Alternative Anesthetics
+
+While MS-222 is the standard, other anesthetics are occasionally used:
+
+### Clove Oil (Eugenol)
+
+-   Natural anesthetic derived from clove plants
+-   Less expensive than MS-222
+-   Must be dissolved in ethanol first (1:10 clove oil:ethanol)
+-   Working concentration: 40-100 mg/L
+-   Not FDA approved for fish
+-   Recovery can be longer than MS-222
+
+### 2-Phenoxyethanol
+
+-   Alternative to MS-222
+-   Working concentration: 0.1-0.5 ml/L
+-   Less commonly used
+-   Not FDA approved
+
+::: {.callout-note}
+This protocol focuses on MS-222 as it is FDA-approved and most commonly used in research settings. Consult with supervisor and IACUC before using alternative anesthetics.
+:::
+
+## Quality Control
+
+-   Test anesthesia solution with control fish before critical experiments
+-   Keep log of induction and recovery times to track consistency
+-   Make fresh working solutions every 6 months
+-   Check pH of stock solutions periodically
+-   Maintain accurate records for IACUC compliance
+
+## Associated Papers
+
+-   Neiffer, D. L., & Stamper, M. A. (2009). Fish sedation, anesthesia, analgesia, and euthanasia: considerations, methods, and types of drugs. *ILAR Journal*, 51(4), 343-357.
+-   Ross, L. G., & Ross, B. (2008). *Anaesthetic and Sedative Techniques for Aquatic Animals* (3rd ed.). Blackwell Publishing.
+-   Summerfelt, R. C., & Smith, L. S. (1990). Anesthesia, surgery, and related techniques. In C. B. Schreck & P. B. Moyle (Eds.), *Methods for Fish Biology* (pp. 213-272). American Fisheries Society.
+-   Zahl, I. H., Samuelsen, O., & Kiessling, A. (2012). Anaesthesia of farmed fish: implications for welfare. *Fish Physiology and Biochemistry*, 38(1), 201-218.
+-   xxx (add lab-specific publications)

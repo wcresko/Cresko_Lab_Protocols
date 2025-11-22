@@ -3,27 +3,27 @@
 ## Introduction
 
 -   **Purpose**: This protocol describes the setup, care, and processing of sentinel fish for the Pacific Stickleback fish room.
--   **Procedure Type**: xxx
+-   **Procedure Type**: Husbandry
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
     -   Bay pipefish, (*Syngnathus leptorhyncus*)
     -   Gulf pipefish (*Syngnathus scovelli*)
--   **Author**: xxx
--   **Date Created**: xxx
+-   **Author**: Mark Currey
+-   **Date Created**: 2010
 
-::: {.callout-warning title="NOTES"}
-xxxx
+::: {.callout-note title="Note"}
+Sentinel fish are used to monitor the health status of the aquatic system and detect potential disease outbreaks.
 :::
 
 ## Materials
 
--   Dietrich's fixative {#sec-general_recipe_dietrichs_fix}
+-   Dietrich's fixative (see @sec-general_recipe_dietrichs_fix)
 -   50 ml tubes
 -   Straight razor
 
 ## Solutions
 
--   Prepare Dietrich's Fixative (100 ml) as follows & {#sec-general_recipe_dietrichs_fix}
+-   Prepare Dietrich's Fixative (100 ml) as follows (see @sec-general_recipe_dietrichs_fix)
 -   Store fixative at room temperature.
     -   30 ml Ethanol (95%)
     -   10 ml Formalin (Formaldehyde 37% solution, histological grade, contains 10-15% methanol, Sigma \# F1635)
@@ -51,3 +51,13 @@ xxxx
 ### Fish to Dr. Kathy Snell
 
 1.  Arrange drop off of slides to Dr. Snell located in Huestis Hall, snellk\@uoregon.edu
+
+::: {.callout-note title="IACUC Protocol"}
+This procedure is covered under the University of Oregon IACUC protocol for fish husbandry and health monitoring. Always follow approved protocols for animal welfare.
+:::
+
+## Related Protocols
+
+-   @sec-husbandry-fish_health_check - Daily health checks
+-   @sec-general_recipe_dietrichs_fix - Dietrich's fixative recipe
+-   @sec-husbandry_facility_cleaning - Facility cleaning and disinfection

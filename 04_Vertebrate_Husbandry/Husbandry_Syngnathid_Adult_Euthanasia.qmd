@@ -18,11 +18,11 @@
 
 ## Solutions
 
-::: {.callout-warning title="NOTES"}
+::: {.callout-note title="Note"}
 Tricaine must be pharmaceutical-grade. We use tricaine purchased from Pentair, manufactured by Western Chemical and FDA approved. Tricaine (3-amino benzoic acid ethyl lester also called ethyl m-aminoboenzoate) comes in a powdered form. Purchase the smallest amount possible because tricaine expires quickly.
 :::
 
--   Euthanasia strength Mesab (see below) and {#sec-general_recipe_mesab}
+-   Euthanasia strength Mesab (see below and @sec-general_recipe_mesab)
 
 -   **Mesab Stock Solution (4g/L From Zebrafish Book 4th edition) (tris buffered)**:
 
@@ -45,9 +45,12 @@ Tricaine must be pharmaceutical-grade. We use tricaine purchased from Pentair, m
 1.  Place fish in euthanasia strength mesab and wait 10 minutes.
 2.  To confirm death wait ten minutes after opercular movement has stopped and perform a tap test. TO do this gently tap on the table next to the container holding the fish. If the fish is still alive this will trigger a startle response, wait 5 more minutes and repeat tap test. If no response, proceed to fixing for post mortem experiments or place fish in the morgue.
 
-## Associated Papers
+::: {.callout-note title="IACUC Protocol"}
+This procedure is covered under the University of Oregon IACUC protocol for fish euthanasia. Euthanasia must be performed using approved methods and only by trained personnel. Always follow approved protocols for animal welfare.
+:::
 
--   xxx
--   xxx
--   xxx
--   xxx
+## Related Protocols
+
+-   @sec-general_recipe_mesab - Mesab stock solution recipe
+-   @sec-husbandry-pipefish_larval_euth - Pipefish embryo and larval euthanasia
+-   @sec-husbandry-fish_health_check - Daily health checks

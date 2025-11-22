@@ -22,8 +22,8 @@
 
 ## Procedure
 
-::: {.callout-important title="This is important"}
-Researchers are responsible for monitoring and caring of their research animals while in the incubator. This includes water changes, removing ?deads?, fixing, euthanizing and any other procedures regarding the fish. If the fish are to be raised past hatching please contact Mark, prior to hatching, to make arrangements for putting fish into the system. Also, please see Mark prior to initial use of incubator for brief training.
+::: {.callout-important title="Important"}
+Researchers are responsible for monitoring and caring for their research animals while in the incubator. This includes water changes, removing dead embryos, fixing, euthanizing and any other procedures regarding the fish. If the fish are to be raised past hatching please contact Mark, prior to hatching, to make arrangements for putting fish into the system. Also, please see Mark prior to initial use of incubator for brief training.
 :::
 
 Procedure:
@@ -38,9 +38,12 @@ Procedure:
 
 3.  **Initial checklist and add what type of check was done to checklist.**
 
-## Associated Papers
+::: {.callout-note title="IACUC Protocol"}
+This procedure is covered under the University of Oregon IACUC protocol for fish husbandry and breeding. Always follow approved protocols for animal welfare.
+:::
 
--   xxx
--   xxx
--   xxx
--   xxx
+## Related Protocols
+
+-   @sec-husbandry-stickle_density - Stickleback density standards for fry
+-   @sec-husbandry-fish_health_check - Daily health checks
+-   @sec-husbandry-room_lighting - Room lighting requirements

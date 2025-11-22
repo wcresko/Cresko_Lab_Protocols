@@ -8,13 +8,27 @@
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
 -   **Author**: Mark Currey
 -   **Date Created**: August 25, 2011; updated 2023 by M. Currey
+-   **IACUC Protocol**: Covered under facility maintenance procedures
 
-## Procedure
-
-::: {.callout-warning title="NOTES"}
+::: {.callout-warning title="Notes"}
 -   Label all foods with received date and expiration date (see below for how to determine expiration date).
 -   If one or more component is missing (being ordered) it is ok to leave it out of the mix. Please alert Mark C. to order the missing component.
 :::
+
+## Materials
+
+-   Food storage containers
+-   Labels and markers
+-   Refrigerator (4°C)
+-   Freezer (-20°C)
+
+## Solutions
+
+-   None
+
+## Procedure
+
+### Food Sources and Storage
 
 1.  **Brine Shrimp**:
 
@@ -37,10 +51,10 @@
 
     -   Source: Brine Shrimp Direct, www.brineshrimpdirect.com
     -   Expiration: Good **1** year if kept unopened in the fridge
-        -   Store in -4°C fridge.
+        -   Store in 4°C fridge.
         -   If stored unopened label with expiration date **1 year** from receiving date.
         -   Upon opening change expiration date to **6 months** from date opened.
-        -   Store at room temperature.
+        -   Store at room temperature after opening.
 
 4.  **Hikari dry foods**: Micro Pellets
 
@@ -67,14 +81,14 @@
 
     -   Source: http://reedmariculture.com/product_otohime_fish_diet.php#tab_tech
     -   Expiration: If un-opened, expiration date is labeled on container by manufacturer. Once opened and placed in freezer the food is good for **6 months**.
-        -   Upon receiving label with received date and expiration date (1 years from received date).
+        -   Upon receiving label with received date and expiration date (1 year from received date).
         -   Store at 4°C.
 
 8.  **Ziegler Zebrafish Diet**:
 
     -   Source: http://www.zeiglerfeed.com/research-diets/adult-zebrafish-diet/
     -   Expiration: If un-opened, expiration date is labeled on container by manufacturer. Once opened and placed in freezer the food is good for **6 months**.
-        -   Upon receiving label with received date and expiration date (1 years from received date).
+        -   Upon receiving label with received date and expiration date (1 year from received date).
         -   Store at 4°C.
 
 9.  **Frozen Mysid and Blood Worms**:
@@ -84,9 +98,13 @@
         -   Upon receiving label with received date
         -   Store at -20°C.
 
+## Related Protocols
+
+-   See @sec-husbandry-dry_fish_food for stickleback dry food mix preparation
+-   See @sec-husbandry-brine_gen_hatch_feed for hatching and feeding brine shrimp
+-   See @sec-husbandry-weekday_feeding for weekday feeding procedures
+-   See @sec-husbandry-weekend_feeding for weekend feeding procedures
+
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   None

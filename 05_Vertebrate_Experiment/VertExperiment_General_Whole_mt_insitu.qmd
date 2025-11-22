@@ -1,8 +1,8 @@
-# Whole Mount *In situ* {#sec-vert_exp-insitu_whole_mount}
+# Whole Mount *In situ* Hybridization {#sec-vert_exp-insitu_whole_mount}
 
 ## Introduction
 
--   **Purpose**: This procedure describes how to perform insitus on whole mount embryos.
+-   **Purpose**: This procedure describes how to perform *in situ* hybridization on whole mount embryos for immunohistochemistry applications.
 -   **Procedure Type**: Vert Experiment
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
@@ -11,72 +11,121 @@
 -   **Author**: Susan Bassham
 -   **Date Created**: March 1, 2024
 
-::: {.callout-warning title="Chemical Warning"}
-Wear PPE when handling PFA.
+::: {.callout-important title="IACUC Protocol Required"}
+This procedure requires an active IACUC protocol covering tissue fixation and processing. Ensure all personnel are properly trained.
+:::
+
+::: {.callout-warning title="Chemical Safety"}
+-   Wear appropriate PPE (lab coat, gloves, safety glasses) when handling paraformaldehyde (PFA).
+-   Work in a fume hood when preparing or using PFA solutions.
+-   PFA is a fixative and potential carcinogen - handle with care.
+-   Acetone is flammable - keep away from ignition sources.
+-   Sodium azide is toxic - handle with care and dispose of properly.
 :::
 
 ## Materials
 
--   ice
--   distilled water
--   primary antibody (eg. mouse anti-fish)
--   secondary antibody (eg. goat anti-mouse)
--   tertiary antibody (ie mouse PAP)
+-   Ice
+-   Distilled water
+-   Primary antibody (e.g., mouse anti-fish specific antibody)
+-   Secondary antibody (e.g., goat anti-mouse)
+-   Tertiary antibody (e.g., mouse PAP - peroxidase-antiperoxidase)
+-   Water bath or incubator (35-40°C)
+-   Shaker/rocker (optional, for antibody incubations)
+-   Microcentrifuge tubes or small vials for embryo processing
 
 ## Solutions
 
--   8% PFA {#sec-general_recipe_8%PFA}
--   BT fix, 4% paraformaldehyde in PBS
--   0.1 M sodium citrate buffer, pH 6.4
--   citrate buffer containing 0.1% sodium azide
--   acetone
--   blocking solution (2% normal goat serum in wash solution -- PBS containing 1% BSA, 1% DMSO, 0.2% triton-X 100)
+-   8% PFA - see @sec-general_recipe_8%PFA
+-   **BT fix**: 4% paraformaldehyde in PBS
+-   **0.1 M sodium citrate buffer**, pH 6.4
+-   **Citrate buffer with sodium azide**: 0.1 M citrate buffer containing 0.1% sodium azide
+-   **Acetone** (stored at -20°C for permeabilization step)
+-   **Blocking solution**: 2% normal goat serum in wash solution
+-   **Wash solution**: PBS containing 1% BSA, 1% DMSO, 0.2% Triton X-100
 
 ## Procedure
 
-### Fixation
+### Day 1: Fixation
 
-1.  Fix embryos in BT Fix for 4 to 6 hours on ice or at 4°C (see notes below).
+1.  Fix embryos in BT Fix for 4 to 6 hours on ice or at 4°C (see notes below for fixative composition considerations).
 
-### Modified Antigen-Retrieval
+### Day 1-2: Modified Antigen Retrieval
 
-2.  Wash in 0.1 M sodium citrate buffer, pH 6.4, 5 min.
+2.  Wash embryos in 0.1 M sodium citrate buffer, pH 6.4, for 5 minutes.
+
 3.  Replace with fresh citrate buffer containing 0.1% sodium azide.
-4.  Incubate overnight in 35-40°C water bath. (see note below).
 
-### Acetone Permeabilization
+4.  Incubate overnight in 35-40°C water bath (see optimization notes below).
 
-5.  Wash in DW 5 min.
-6.  Freeze in acetone at -20°C for 7 min. to permeabilize the tissue (see note below).
-7.  Wash in DW 5 min.
-8.  Wash in 0.1 M citrate buffer 5 min.
+### Day 2: Acetone Permeabilization
 
-## Immuno-histochemistry
+5.  Wash in distilled water for 5 minutes.
 
-9.  Treat with blocking solution (2% normal goat serum in wash solution -- PBS containing 1% BSA, 1% DMSO, 0.2% triton-X 100) to block nonspecific binding sites for 30 min.
-10. Treat with primary antibody (eg. mouse anti-fish) diluted in blocking solution for 5 hours at RT or overnight at 4°C. A shaker may be used to facilitate process.
-11. Wash for about 2 hours with frequent changes of wash solution.
-12. Treat with secondary antibody (eg. goat anti-mouse) diluted in wash solution overnight at 4°C or for 5 hours at RT.
-13. Repeat wash step.
-14. If required, treat with tertiary antibody (ie mouse PAP) diluted in wash buffer overnight at 4°C or for 5 hours at RT.
-15. Repeat wash step.
-16. If required, develop enzyme-mediated stain.
+6.  Transfer to acetone at -20°C for 7 minutes to permeabilize the tissue.
 
-::: {.callout-note title="Composition of fixative"}
-I simultaneously fixed fish in three different aldehyde fixatives: BT fix, 4% paraformaldehyde in PBS, or 4% paraformaldehyde in 0.1 M phosphate, pH 7.3. - Those fish fixed in 4% paraformaldehyde in phosphate buffer were poorly and incompletely stained. - Those fish fixed in BT fix or in 4% pf in PBS demonstrated robust staining throughout the head and trunk of the fish (the staining in the BT-fixed fish may have been slightly better). - I also tested the components in the BT fix. The 4% sucrose in this fix was required for high-quality staining. - In contrast, the quality of the staining in fish fixed in BT fixative without calcium was comparable to that of fish fixed in BT fix containing 0.15 mM calcium chloride.
+7.  Wash in distilled water for 5 minutes.
+
+8.  Wash in 0.1 M citrate buffer for 5 minutes.
+
+### Day 2-3: Immunohistochemistry
+
+9.  Treat with blocking solution (2% normal goat serum in wash solution) to block nonspecific binding sites for 30 minutes at room temperature.
+
+10. Incubate with **primary antibody** (e.g., mouse anti-fish) diluted in blocking solution:
+    -   5 hours at room temperature, OR
+    -   Overnight at 4°C
+    -   Optional: Use a shaker or rocker to facilitate antibody penetration.
+
+11. Wash for approximately 2 hours with frequent changes of wash solution (every 15-20 minutes).
+
+12. Incubate with **secondary antibody** (e.g., goat anti-mouse) diluted in wash solution:
+    -   Overnight at 4°C, OR
+    -   5 hours at room temperature
+
+13. Wash for approximately 2 hours with frequent changes of wash solution.
+
+14. **If using a tertiary antibody**: Incubate with tertiary antibody (e.g., mouse PAP) diluted in wash buffer:
+    -   Overnight at 4°C, OR
+    -   5 hours at room temperature
+
+15. Wash for approximately 2 hours with frequent changes of wash solution.
+
+16. **If required**: Develop enzyme-mediated stain according to the specific detection system being used.
+
+## Optimization Notes
+
+::: {.callout-note title="Fixative Composition"}
+Comparative testing of different aldehyde fixatives showed:
+
+-   **4% paraformaldehyde in phosphate buffer (pH 7.3)**: Poorly and incompletely stained.
+-   **BT fix or 4% PFA in PBS**: Demonstrated robust staining throughout the head and trunk of the fish (BT-fixed fish showed slightly better results).
+-   **BT fix components**: The 4% sucrose in BT fix was required for high-quality staining.
+-   **Calcium in BT fix**: The quality of staining in fish fixed in BT fixative without calcium was comparable to that of fish fixed in BT fix containing 0.15 mM calcium chloride.
+
+**Recommendation**: Use BT fix or 4% PFA in PBS for optimal results.
 :::
 
-::: {.callout-note title="Modified Antigen Retrieva"}
--   First introduced in the early 1990s, antigen-retrieval methods have been widely adopted by the clinical community as a way to recover antigenicity in paraffin sections.
--   Several authors have demonstrated that heat is one of the most important variables in antigen retrieval (Brain Res 632, 105-113, 1993; Pathol Int 44, 759-764, 1994; APMIS 102, 295-307, 1994). In my initial experiments,
--   I performed overnight incubations in citrate buffer at one of 4 temperatures: 4C, room temperature, 37C or 44C.
--   The 5-day embryos incubated overnight at 4C or room temperature were poorly and incompletely stained, whereas those incubated at 37C and 44C were stained robustly throughout the head and trunk of the fish.
--   However, the background staining in embryos incubated at 44C was quite high.
--   This background staining was not present in embryos incubated at 37C.
--   Since these initial experiments, I have been using embryos incubated overnight at 4C as my negative control.
--   The quality of the staining in the negative control varies tremendously from experiment to experiment, whereas there is little or no experiment-to-experiment variation in the quality of staining in my positive controls using the above protocol.
+::: {.callout-note title="Modified Antigen Retrieval Optimization"}
+Antigen-retrieval methods were first introduced in the early 1990s and have been widely adopted by the clinical community as a way to recover antigenicity in paraffin sections.
+
+**Temperature optimization**: Several studies have demonstrated that heat is one of the most important variables in antigen retrieval (Brain Res 632:105-113, 1993; Pathol Int 44:759-764, 1994; APMIS 102:295-307, 1994).
+
+**Experimental results**:
+-   Overnight incubations were tested at four temperatures: 4°C, room temperature, 37°C, and 44°C.
+-   **4°C or room temperature**: 5-day embryos were poorly and incompletely stained.
+-   **37°C and 44°C**: Embryos were stained robustly throughout the head and trunk.
+-   **44°C**: High background staining was observed.
+-   **37°C**: No background staining present - optimal temperature.
+
+**Recommendation**: Use 37-40°C for overnight incubation. Embryos incubated at 4°C can serve as negative controls.
 :::
 
-##Papers
+## Related Protocols
 
--   Antigen Retrieval Techniques: Immunohistochemistry and Molecular Morphology\*, S-R Shi, J Gu and CR Taylor, Eds., Eaton Publishing, Natick, MA, 2000.
+-   Paraformaldehyde solution preparation: @sec-general_recipe_8%PFA
+-   Live staining protocols for comparison with whole mount techniques
+
+## Associated Papers
+
+-   Antigen Retrieval Techniques: Immunohistochemistry and Molecular Morphology, S-R Shi, J Gu and CR Taylor, Eds., Eaton Publishing, Natick, MA, 2000.

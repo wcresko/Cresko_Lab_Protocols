@@ -6,33 +6,66 @@
 -   **Procedure Type**: Husbandry
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
--   **Author**: Mark Currey\
+-   **Author**: Mark Currey
 -   **Date Created**: August 25, 2011, update February 29, 2014
+-   **IACUC Protocol**: Covered under embryo handling and disease prevention procedures
+
+::: {.callout-caution title="Chemical Hygiene"}
+-   Wear gloves and eye protection when working with bleach
+-   Work in well-ventilated area
+-   Bleach can damage embryos if exposure time is too long
+:::
+
+::: {.callout-important title="Important"}
+This procedure is critical for preventing pathogen introduction into established fish colonies. Always bleach embryos from wild-caught fish or when transferring between facilities.
+:::
 
 ## Materials
 
 -   Wash bottle and petri dishes
 -   Timer
+-   Wide-blade entomology forceps
+-   Transfer pipettes
 
 ## Solutions
 
 -   6% sodium hypochlorite (standard bleach)
--   Working stock of bleach, mix: 500 µl of bleach 1 liter of embryo medium {#sec-general_recipe_embryo_medium}
+-   **Working stock of bleach**: Mix 500 µl of bleach into 1 liter of embryo medium (see @sec-general_recipe_embryo_medium)
+-   Embryo medium (see @sec-general_recipe_embryo_medium)
 
 ## Procedure
 
-```         
-  1.  Raise embryos according to standard crossing and rearing protocols {#sec-husbandry_stickleback_crossing}
-  2.  At 48-60 hours post-fertilization (@ 20C - at this point most organogenesis is complete) remove embryo medium from petri dishes and rinse embryos once with fresh embryo medium.
-  3.  Fill petri dish with working stock solution of bleach. Swirl and let sit for 1.5 min. Do not bleach embryos for longer as chorions can thicken and it becomes difficult for embryos to hatch.
-  4.  Drain bleach solution from embryos, and wash them three times with fresh embryo medium. This is really important.
-  5.  Replace embryo medium daily. If crosses are done in the field, the embryos can be shipped from day 3 to day 6 post-fertilization. To ship embryos, rinse once with embryo medium, place embryos into a 50ml conical tube (~100 embryos/tube) and fill with fresh embryo medium. Place tubes in a shipping container with wet ice. Separate the tubes from the ice with bubble-wrap and newspapers. Ship the embryos overnight.
-  6.  When the embryos arrive at the lab, rinse the outside of the containers well before moving into the lab. Allow them to equilibrate to room temp (~20C). Place the embryos into petri dishes, rinse once, and add new embryo medium. Rear according to standard protocol.
-```
+1.  **Raise embryos**: Raise embryos according to standard crossing and rearing protocols in @sec-husbandry_stickleback_crossing.
+
+2.  **Timing**: At 48-60 hours post-fertilization (@ 20°C - at this point most organogenesis is complete) remove embryo medium from petri dishes and rinse embryos once with fresh embryo medium.
+
+3.  **Bleach treatment**: Fill petri dish with working stock solution of bleach. Swirl and let sit for 1.5 min.
+
+::: {.callout-warning title="Important Timing"}
+Do not bleach embryos for longer than 1.5 minutes as chorions can thicken and it becomes difficult for embryos to hatch.
+:::
+
+4.  **Rinse thoroughly**: Drain bleach solution from embryos, and wash them three times with fresh embryo medium. This is really important to remove all bleach residue.
+
+5.  **Shipping embryos (optional)**: Replace embryo medium daily. If crosses are done in the field, the embryos can be shipped from day 3 to day 6 post-fertilization. To ship embryos:
+    -   Rinse once with embryo medium
+    -   Place embryos into a 50ml conical tube (~100 embryos/tube) and fill with fresh embryo medium
+    -   Place tubes in a shipping container with wet ice
+    -   Separate the tubes from the ice with bubble-wrap and newspapers
+    -   Ship the embryos overnight
+
+6.  **Receiving shipped embryos**: When the embryos arrive at the lab:
+    -   Rinse the outside of the containers well before moving into the lab
+    -   Allow them to equilibrate to room temp (~20°C)
+    -   Place the embryos into petri dishes, rinse once, and add new embryo medium
+    -   Rear according to standard protocol in @sec-husbandry_stickleback_crossing
+
+## Related Protocols
+
+-   See @sec-husbandry_stickleback_crossing for stickleback crossing procedures
+-   See @sec-general_recipe_embryo_medium for embryo medium recipe
+-   See @sec-husbandry-incubator_use for incubator use and embryo care
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   None

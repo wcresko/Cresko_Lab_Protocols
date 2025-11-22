@@ -12,6 +12,31 @@
 -   **Author**: Susan Bassham
 -   **Date Created**: October 16, 2023; modified November 17, 2023 by Susan Bassham
 
+::: {.callout-warning title="Safety"}
+**Personal Protective Equipment (PPE):**
+
+- Lab coat
+- Safety glasses
+- Nitrile gloves
+
+**Chemical Safety:**
+
+- Proteinase K is an irritant; handle with care
+- Ethanol is flammable; keep away from open flames
+- ATL buffer may contain guanidine salts; avoid contact with bleach
+
+**Magnetic Safety:**
+
+- Do not use magnets if you have a pacemaker
+- Keep magnets away from electronic devices
+:::
+
+## Related Protocols
+
+- See @sec-molecular-bead_extraction_dup for cleaning/concentrating already-extracted DNA
+- See @sec-molecular-Phusion_PCR for using extracted DNA in PCR
+- See @sec-molecular-RADseq for using extracted DNA in RAD-seq
+
 ## Background
 
 This protocol uses magnetic beads (also known as superparamagnetic particles) and magnets to extract DNA. Magnetic beads are made of tiny (20 to 30 nm) particles of iron oxide and exhibit magnetic behavior in the presence of an external magnetic field. Using a magnetic field, magnetic beads can be separated from a suspension. In molecular biology, magnetic beads modified with different surface properties can be used to purify various types of biomolecules (genomic DNA, plasmids, mitochondrial DNA, RNA, and proteins). Below is a step-by-step overview of how DNA extraction using magnetic beads works:

@@ -3,7 +3,7 @@
 ## Introduction
 
 -   **Purpose**: To track stickleback crosses, families, lines and collections.
--   **Procedure Type**: xxx
+-   **Procedure Type**: Husbandry
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
     -   Bay pipefish, (*Syngnathus leptorhyncus*)
@@ -12,17 +12,21 @@
 -   **Author**: Mark Currey\
 -   **Date Created**: February 12, 2024
 
-##Materials N/A
+## Materials
 
-##Sloutions N/A
+-   N/A
 
-::: {.callout-warning title="NOTE"}
+## Solutions
+
+-   N/A
+
+::: {.callout-note title="Note"}
 If you have not been given access to the stickleback database please ask Mark C to do this.
 :::
 
 ## Procedure
 
-##Wild Collections
+## Wild Collections
 
 1.  Go to the stickleback website, https://sticklebackdb.uoregon.edu/sticklebackdb/ (if you don't have access please see note above).
 2.  Click on the "stocks" button from the tool bar.
@@ -33,17 +37,12 @@ If you have not been given access to the stickleback database please ask Mark C 
 7.  Click the "create" button.
 8.  Record information in the crossing book.
 
-##Lab Crosses
+## Lab Crosses
 
 1.  Go to the stickleback website, https://sticklebackdb.uoregon.edu/sticklebackdb/ (if you don't have access please see note above).
 2.  Click on the "stocks" button from the tool bar.
 3.  Click on "New Stock from Breeding".
 4.  Add stock name information. The convention for crosses is "stock - line " (e.g. Stock - Cushman Slough) or if it's an experimental cross, "line - experiment information" (Cushman - CRISPR - FGF16 CNE KO).
-
-::: {.callout-warning title="NOTE"}
-If it is a new experiment (e.g. a new CRISPR target) you will need to create a name by simply typing it in.
-:::
-
 5.  Add line information from drop down list.
 6.  Add maternal ID or add a new maternal individual.
 7.  Add paternal ID or add a new paternal individual.
@@ -52,3 +51,12 @@ If it is a new experiment (e.g. a new CRISPR target) you will need to create a n
 10. Add any Label notes or comments
 11. Click the "create" button.
 12. Record information in the crossing book.
+
+::: {.callout-note title="Note"}
+If it is a new experiment (e.g. a new CRISPR target) you will need to create a name by simply typing it in.
+:::
+
+## Related Protocols
+
+-   @sec-husbandry-stickle_density - Stickleback density standards
+-   @sec-husbandry-fish_health_check - Daily health checks

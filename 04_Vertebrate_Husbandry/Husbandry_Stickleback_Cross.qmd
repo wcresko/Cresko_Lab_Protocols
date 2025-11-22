@@ -2,14 +2,28 @@
 
 ## Introduction
 
--   **Purpose**: The procedure describes the creation of stickleback crosses via invitro fertilization.
+-   **Purpose**: The procedure describes the creation of stickleback crosses via in vitro fertilization.
 -   **Procedure Type**: Husbandry
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
 -   **Author**: Mark Currey
 -   **Date Created**: created March 4th, 2004, updated February 2nd, 2024
+-   **IACUC Protocol**: Required for all crosses and animal procedures
 
-## Materials:
+::: {.callout-important title="IACUC Compliance"}
+-   All crosses must be documented in laboratory records
+-   Fish must be euthanized following approved protocols
+-   Embryos must be monitored daily for health and development
+-   See @sec-husbandry_stickleback_adult_euthansisa for euthanasia procedures
+:::
+
+::: {.callout-caution title="Chemical Hygiene"}
+-   When using MS-222 and ethanol, wear gloves and eye protection
+-   Work in well-ventilated area
+-   Dispose of chemicals according to waste protocols
+:::
+
+## Materials
 
 -   25 and 90mm disposable sterile petri dishes (standard)
 -   Fine scissors and forceps
@@ -22,65 +36,76 @@
 
 ## Solutions
 
--   Testes Solution {#sec-recipes_testes_solution}
--   MS222 Tricaine Methanesulfonate {#sec-recipes_Mesab}
+-   Testes Solution - see @sec-recipes_testes_solution
+-   MS222 Tricaine Methanesulfonate - see @sec-recipes_Mesab
 -   95% ethanol
--   Embryo medium @sec-general-em
+-   Embryo medium - see @sec-general-em
 
 ## Procedures
 
 ### Squeeze Female
 
-::: {.callout-Tip title="Tip"}
+::: {.callout-tip title="Tip"}
 Gravid females can be identified by those that have large rounded abdomens and a slightly extended cloaca. If you can see individual eggs in the abdomen this is an indication that the eggs are old.
 :::
 
 1.  Cover fingers with stress coat and gently squeeze gravid female.
+
 2.  If eggs do not emerge with very slight pressure the female is not quite ready or the eggs are too old.
+
 3.  Remove eggs by slightly squeezing the abdomen starting just posterior of the pectoral girdle towards the cloaca expelling the eggs into a 25mm sterile petri dish.
+
 4.  Note the stock number of the female on the petri dish.
 
-::: {.callout-Note title="Note"}
+::: {.callout-note title="Note"}
 The small size of petri dish allows the sperm to be concentrated on the eggs.
 :::
 
 ### Dissect Testes From Male
 
 5.  Euthanize male by placing him into a small container containing a lethal volume of MS222.
+
 6.  Clean a large, 30cm by 60cm or similar size, glass sheet, fine scissors, and forceps with 95% ethanol.
-7.  When male is motionless and not responding in accordance with the Stickleback Adult Euthanasia procedure {#sec-husbandry_stickleback_adult_euthansisa}, remove and the fish and place on the glass sheet. Sever the spinal cord behind skull using a razor to be sure of euthanization.
+
+7.  When male is motionless and not responding in accordance with the @sec-husbandry_stickleback_adult_euthansisa, remove the fish and place on the glass sheet. Sever the spinal cord behind skull using a razor to be sure of euthanization.
+
 8.  Use scissors to make incision from the cloaca anteriorly to the pelvic girdle making the incision along the mid line of the fish.
+
 9.  Make another cut to each side of the fish from the cloaca dorsally approximately 15mm so that the body cavity is easily accessed.
 
-::: {.callout-Note title="Note"}
+::: {.callout-note title="Note"}
 Incisions should be made just deep enough to cut the skin and body wall muscle while being wary to not cut into the stomach and intestines that are located just below the skin surface.
 :::
 
 10. Locate paired testes and vas deferens.
 
-::: {.callout-Note title="Note"}
+::: {.callout-note title="Note"}
 Testes are variable in shape and coloration, but are usually long and pigmented, usually having the same pigmentation as the skin surface, and sit in the dorsal part of the coelom near the kidneys. The vas deferens are threadlike and are usually as long as the testis to which it connects.
 :::
 
 11. Use fine forceps to grab vas deferens, sever near the cloaca, and remove one (or often) both testes.
 
-::: {.callout-Note title="Note"}
+::: {.callout-note title="Note"}
 Doing so keeps the testes intact, allowing them to contain viable sperm for up to 1 month at 4°C in Testes Solution.
 :::
 
 ### Storing of Testes
 
-12. If only a single cross is to be made with a male, proceed to step 4.
-13. Otherwise, place testes into 15 ml tube filled with cold Testes Solution and label tube with make stock number and date.
+12. If only a single cross is to be made with a male, proceed to step 16.
+
+13. Otherwise, place testes into 15 ml tube filled with cold Testes Solution and label tube with male stock number and date.
+
 14. Store testes at 4°C.
-15. To store testes for extended periods, change out medium once a week.
+
+15. To store testes for extended periods, change out medium once a week. See @sec-husbandry_testes_storage for detailed testes storage procedures.
 
 ### Prepare Testis
 
-16. If multiple crosses are to be performed from a single pair of male's testes, place both testes on the inside lid of the 25mm petri dish into which a females eggs have been squeezed.
+16. If multiple crosses are to be performed from a single pair of male's testes, place both testes on the inside lid of the 25mm petri dish into which a female's eggs have been squeezed.
+
 17. Using a sterile razor to macerate testis.
 
-::: {.callout-Note title="Note"}
+::: {.callout-note title="Note"}
 Under a dissecting scope swimming sperm should cause a 'sparkling' refraction.
 :::
 
@@ -94,32 +119,54 @@ Under a dissecting scope swimming sperm should cause a 'sparkling' refraction.
 
 ### Separation of Embryos and Second Cleaning (t = 2 hr)
 
-::: {.callout-Note title="Note"}
+::: {.callout-note title="Note"}
 The animal pole of the embryo is established at the site of sperm entry, and at 20°C the first cell syncitium is usually visible within 45 minutes. The first cell division usually occurs approximately 25 minutes later, and the two cell stage is fully visible approximately 1.5 - 2 hr post fertilization. During this time, the chorion thickens and attaches to the petri dish as well as to other embryos.
 :::
 
 22. After 2 hours post fertilization, use the wide blade entomological forceps to detach the embryos from one another, as well as to dislodge embryos from the bottom of the petri dish.
+
 23. Remove all of the unfertilized eggs to limit mold contamination, and record the total number of eggs and embryos.
+
 24. Rinse embryos 3 to 4 more times then distribute embryos to 90mm petri dishes (30-50 embryos per dish) filled half way with fresh embryo medium.
-25. Enter cross information into database, print labels for dishes, and place embryos into incubator at 20°C.
+
+25. Enter cross information into database (see @sec-husbandry-stickleback_database_use), print labels for dishes, and place embryos into incubator at 20°C.
 
 ### Raise Embryos (check daily)
 
-::: {.callout-Note title="Note"}
-Embryos will develop at approximately 2.5 times zebrafish time \[see <http://zfin.org/zf_info/zfbook/stages/index.html>\], and hatch at approximately 7-9 days. 48 to 52 hpf stickleback embryos have completed most major morphogenetic processes, and the melanic pigment cells are just starting to migrate. A beating heart can be seen after \~72hr.
+::: {.callout-note title="Note"}
+Embryos will develop at approximately 2.5 times zebrafish time [see <http://zfin.org/zf_info/zfbook/stages/index.html>], and hatch at approximately 7-9 days. 48 to 52 hpf stickleback embryos have completed most major morphogenetic processes, and the melanic pigment cells are just starting to migrate. A beating heart can be seen after ~72hr.
 :::
 
 26. Check petri dishes daily and remove embryos that have arrested development.
+
 27. Change of embryo medium at 3-4 dpf and more if water has fouled.
-28. Record health checks on incubator checklist.
 
-## Place embryos into aquaculture system
+28. Record health checks on incubator checklist. See @sec-husbandry-incubator_use for incubator use procedures.
 
-29. Prepare small 4.5 L fry tank by adding 400 micron baffle and tuirning in the system water to the tank while letting it flush for 15 minutes.
+## Place Embryos into Aquaculture System
 
-::: {.callout-Note title="Note"}
-If the plumbing line has set stagnent for awhile flush the line by turning on the valve and expressing system water into a small (not the tank) container.
+29. Prepare small 4.5 L fry tank by adding 400 micron baffle and turning on the system water to the tank while letting it flush for 15 minutes.
+
+::: {.callout-note title="Note"}
+If the plumbing line has sat stagnant for awhile flush the line by turning on the valve and expressing system water into a small (not the tank) container.
 :::
 
-30. Once embryos have hatched and thier yolks have absorbed (\~9 dpf) add aquaculture system water to dish and let sit 15 minutes.
-31. Gently add the fry to the preppared tank making sure all fry have been added.
+30. Once embryos have hatched and their yolks have absorbed (~9 dpf) add aquaculture system water to dish and let sit 15 minutes.
+
+31. Gently add the fry to the prepared tank making sure all fry have been added.
+
+## Related Protocols
+
+-   See @sec-husbandry_testes_storage for testes storage procedures
+-   See @sec-husbandry_stickleback_adult_euthansisa for adult euthanasia
+-   See @sec-husbandry-stickleback_database_use for stock number assignment
+-   See @sec-husbandry-incubator_use for incubator use and embryo monitoring
+-   See @sec-husbandry-plastic_tank_cleaning for fry tank cleaning
+-   See @sec-recipes_testes_solution for testes solution recipe
+-   See @sec-recipes_Mesab for MS-222 solution recipe
+-   See @sec-general-em for embryo medium recipe
+-   See @sec-husbandry_stickleback_embryo_bleaching for embryo bleaching/disinfection
+
+## Associated Papers
+
+-   None

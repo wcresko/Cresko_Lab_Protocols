@@ -1,0 +1,272 @@
+# Live Fin Clipping {#sec-vert_exp-live_fin_clipping}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to take live fin clips from fish for genetic sampling or marking
+-   **Procedure Type**: Vertebrate Experimental
+-   **Species**:
+    -   Threespine stickleback (*Gasterosteus aculeatus*)
+    -   Bay pipefish (*Syngnathus leptorhyncus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+-   **Author**: Mark C. Currey
+-   **Date Created**: April 06, 2010, updated November 22, 2025
+-   **IACUC Protocol**: Required for live animal procedures involving tissue sampling
+
+::: {.callout-important title="Safety and Animal Welfare"}
+-   Wear appropriate PPE (lab coat, gloves, safety glasses)
+-   Use sharp, sterilized scissors and forceps to ensure clean cuts
+-   Minimize fish exposure to anesthesia
+-   Never clip into the caudal peduncle (base of tail) - this can be fatal
+-   Use antibacterial/antifungal treatment post-procedure to prevent infection
+-   Do not fin clip fish that are already stressed or showing signs of disease
+:::
+
+## Background
+
+Fin clipping is a common procedure in fish research for obtaining tissue samples for genetic analysis (DNA extraction, genotyping, parentage analysis) or for individual identification (mark-recapture studies). The caudal fin (tail fin) is typically used because it:
+
+1.  Contains sufficient tissue for DNA extraction
+2.  Regenerates completely in most fish species
+3.  Has minimal impact on swimming ability when clipped properly
+4.  Is easily accessible and visible
+
+Proper technique is essential to minimize stress, prevent infection, and ensure fish welfare. The procedure involves brief anesthesia, quick removal of a small portion of the caudal fin blade (avoiding the peduncle), and recovery in clean water with antibacterial treatment.
+
+## Materials
+
+-   Beakers or small containers for anesthesia and recovery (200-500ml)
+-   Fine-tipped scissors (sterilized)
+-   Fine-tipped forceps (sterilized)
+-   Bucket of ice
+-   1.5ml microcentrifuge tubes (pre-labeled)
+-   Transfer pipettes
+-   Paper towels or kimwipes
+-   Waste container
+
+## Solutions
+
+### Anesthesia Solutions
+
+-   MESAB (MS-222) anesthesia strength for stickleback (see @sec-husbandry_anesth_stickleback)
+-   MESAB (MS-222) anesthesia strength for pipefish (see @sec-husbandry_anesth_pipefish)
+-   Concentration typically 168 mg/L for pipefish
+
+### Recovery and Treatment Solutions
+
+-   Clean system water (temperature-appropriate for species)
+-   Melafix (antifungal and antibacterial agent)
+    -   Dilute according to manufacturer's recommendations (typically 5ml per 10 gallons)
+    -   Prepare fresh for each use
+
+### Euthanasia Solutions (if needed)
+
+-   MESAB euthanasia strength for stickleback (see @sec-husbandry_euthanasia_stickleback)
+-   MESAB euthanasia strength for pipefish (see @sec-husbandry-pipefish_larval_euth)
+
+## Procedure
+
+### Preparation (Critical for Minimizing Anesthesia Exposure)
+
+::: {.callout-tip title="Preparation is Key"}
+Complete ALL labeling and setup before anesthetizing fish to minimize their exposure to MS-222. Fish should spend the minimum time necessary under anesthesia.
+:::
+
+1.  **Label all materials** before starting
+
+    -   Label 1.5ml tubes with fish ID, date, and project code
+    -   Arrange tubes in rack on ice
+    -   Prepare data sheet for recording fish IDs and clip times
+
+2.  **Prepare solutions**
+
+    -   Anesthesia beaker: 200-500ml MS-222 at appropriate concentration
+    -   Recovery beaker 1: 200-500ml clean system water
+    -   Recovery beaker 2: 200-500ml system water with Melafix
+    -   Label each beaker clearly
+
+3.  **Sterilize instruments**
+
+    -   Wipe scissors and forceps with 70% ethanol
+    -   Allow to air dry or wipe with sterile gauze
+    -   Re-sterilize between fish or when switching between family groups to prevent cross-contamination
+
+### Anesthesia and Fin Clipping
+
+4.  **Transfer fish to anesthesia solution**
+
+    -   Use transfer pipette or small net
+    -   Start timer to monitor anesthesia duration
+    -   Target: minimum time necessary for safe handling
+
+5.  **Monitor anesthesia progression**
+
+    -   Watch operculum (gill cover) movement - it will slow
+    -   Fish will lose equilibrium and turn on side
+    -   Wait for light plane of anesthesia (reduced movement, slowed breathing)
+    -   Typical time: 1-3 minutes depending on fish size and temperature
+
+::: {.callout-note title="Signs of Appropriate Anesthesia"}
+-   Reduced opercular movement (slowed breathing)
+-   Loss of equilibrium (fish turns on side)
+-   Reduced response to stimuli
+-   Fish should still show gill movement (NOT complete cessation of breathing)
+:::
+
+6.  **Remove fish from anesthesia and clip fin**
+
+    -   Use forceps to gently lift fish from beaker
+    -   Place on clean, damp paper towel or kimwipe
+    -   Keep fish moist during procedure
+    -   Use scissors and forceps to remove portion of caudal fin blade
+    -   **CRITICAL**: Avoid the caudal peduncle (base of tail where it meets body)
+    -   Remove approximately 2-5mm of fin depending on fish size
+    -   Make clean, quick cuts to minimize tissue damage
+
+::: {.callout-warning title="Critical Anatomical Landmark"}
+The **caudal peduncle** is the narrow base of the tail where it connects to the body. **NEVER** clip into this region as it contains major blood vessels and nerve cords. Cutting this area can cause:
+
+-   Severe bleeding
+-   Permanent swimming impairment
+-   Death
+
+Always clip only the **fin blade** (the thin, flexible part of the tail fin).
+:::
+
+7.  **Preserve tissue sample**
+
+    -   Immediately place fin clip into pre-labeled 1.5ml tube on ice
+    -   Ensure tube is properly labeled and sealed
+    -   Note any observations (fish ID, clip size, anomalies)
+
+### Recovery and Post-Procedure Care
+
+8.  **Initiate recovery**
+
+    -   Immediately place fish into recovery beaker with clean system water
+    -   Gently move fish back and forth to force water over gills
+    -   This helps restore normal respiration
+
+9.  **Monitor recovery**
+
+    -   Watch for return of opercular movement (gill beating)
+    -   Look for fish to right itself (regain equilibrium)
+    -   Continue gentle agitation until fish begins swimming
+    -   Typical recovery time: 30 seconds to 3 minutes
+
+10. **Antibacterial/antifungal treatment**
+
+    -   Once fish is swimming upright, transfer to beaker with Melafix solution
+    -   Leave fish in Melafix for 15 minutes
+    -   This prevents infection at the wound site
+    -   Continue monitoring during treatment
+
+11. **Return to system**
+
+    -   After Melafix treatment, return fish to home tank or appropriate system location
+    -   Monitor fish for at least 5 minutes after return
+    -   Check that fish swims normally and shows no signs of distress
+    -   Flag tank/container for daily health monitoring over next 3-5 days
+
+### Sample Storage
+
+12. **Process tissue samples**
+
+    -   Keep samples on ice during procedure
+    -   Transfer to -20°C or -80°C freezer for long-term storage
+    -   Alternatively, preserve in 95-100% ethanol for DNA extraction
+    -   Record sample locations in lab database
+
+## Post-Procedure Monitoring
+
+::: {.callout-important title="Health Monitoring Schedule"}
+Monitor clipped fish daily for at least 3-5 days post-procedure:
+
+-   **Day 1-2**: Check 2x daily for signs of stress, infection, or behavioral changes
+-   **Day 3-5**: Check 1x daily during normal health checks
+-   **Signs of concern**: Lethargy, rapid breathing, refusal to eat, white/fuzzy growth on fin (fungal infection), erratic swimming
+-   Document any issues and consult with IACUC/veterinarian if problems arise
+:::
+
+### Expected Recovery Timeline
+
+-   **Hours 0-4**: Fish may be slightly less active, fin regeneration begins
+-   **Days 1-3**: Transparent tissue forms at wound edge, fish returns to normal behavior
+-   **Weeks 1-2**: Fin begins to regenerate ray structure
+-   **Weeks 4-8**: Complete regeneration (varies by species, age, and fin size removed)
+
+## Troubleshooting
+
+| Problem | Possible Cause | Solution |
+|---------|---------------|----------|
+| Excessive bleeding | Cut into caudal peduncle | Apply pressure with damp gauze; monitor closely; consult veterinarian if bleeding continues >2 min |
+| | Cut too large for fish size | Use smaller clips; ensure scissors are sharp |
+| Slow or no recovery | Over-anesthetized | Increase water flow over gills; ensure fresh water; continue monitoring; most fish recover with time |
+| | Water temperature too different | Ensure anesthesia and recovery water are same temperature as home tank |
+| Infection/fungal growth | Contaminated instruments | Sterilize instruments between fish; ensure Melafix treatment |
+| | Stressed/immunocompromised fish | Do not clip fish showing prior signs of disease; ensure water quality is optimal |
+| Fish dies during/after procedure | Anesthesia overdose | Reduce anesthesia time; check MS-222 concentration |
+| | Cut into peduncle | Review anatomy; practice technique on euthanized fish first |
+| Difficulty handling fish | Fish too small | Consider postponing until fish is larger (minimum ~20mm for most species) |
+| | Fish too active | Ensure adequate anesthesia depth before removing from water |
+| Fin doesn't regenerate | Damage to fin base | Ensure future clips avoid the very base of fin rays |
+| | Fish health issues | Monitor overall fish health and water quality |
+
+## Species-Specific Considerations
+
+::: {.panel-tabset}
+
+### Stickleback
+
+-   **Size recommendations**: Can clip fish as small as 20-25mm total length
+-   **Anesthesia**: Use stickleback-specific MS-222 concentration
+-   **Recovery temperature**: 16-20°C
+-   **Regeneration time**: 4-6 weeks for complete regeneration
+-   **Notes**: Hardy species, generally tolerate procedure well
+-   Pectoral or pelvic spines may prick handler - use care
+
+### Pipefish
+
+-   **Size recommendations**: Clip fish >30mm total length (pipefish are more delicate)
+-   **Anesthesia**: Use pipefish-specific MS-222 concentration (typically 168 mg/L)
+-   **Recovery temperature**: 18-22°C
+-   **Regeneration time**: 6-8 weeks (slower than stickleback)
+-   **Notes**: More delicate than stickleback; handle gently
+-   Elongated body shape requires careful positioning during procedure
+-   Monitor more closely post-procedure
+
+:::
+
+## Alternative Methods
+
+### Non-Invasive Sampling (Future Consideration)
+
+For some applications, consider non-lethal alternatives:
+
+-   **Scale sampling**: For species with large scales (not applicable to most stickleback/pipefish)
+-   **Mucus sampling**: Emerging technique for eDNA analysis
+-   **Buccal swabs**: Less invasive but yields less DNA
+-   **Visual marking**: PIT tags or visible implant elastomer for identification without sampling
+
+### Lethal Sampling
+
+If fish will be euthanized for other purposes, collect tissue then rather than fin clipping:
+
+-   Larger tissue sample available
+-   No recovery period needed
+-   No infection risk
+-   See species-specific euthanasia SOPs
+
+## Associated Papers
+
+-   Östlund-Nilsson, S., Mayer, I., & Huntingford, F. A. (2007). *Biology of the Three-Spined Stickleback*. CRC Press. (Chapter on experimental methods)
+-   Bergstrom, C. A., & Reimchen, T. E. (2005). Habitat-dependent associations between parasitism and susceptibility to predation in threespine stickleback. *Oikos*, 108(2), 321-332. (Fin clipping methodology)
+-   xxx (add lab-specific publications)
+
+## Appendix: Genetics Lab Information
+
+For tissue samples intended for genetic analysis, coordinate with genetics lab regarding:
+
+-   Preferred storage method (frozen vs. ethanol)
+-   Required tissue amount
+-   Labeling conventions
+-   Chain of custody documentation

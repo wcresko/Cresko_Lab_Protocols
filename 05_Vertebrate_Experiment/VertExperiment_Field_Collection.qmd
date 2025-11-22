@@ -1,0 +1,505 @@
+# Wild Fish Field Collections {#sec-vert_exp-wild_collections}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to collect wild fish populations from natural habitats for research purposes
+-   **Procedure Type**: Field Collection
+-   **Species**:
+    -   Threespine stickleback (*Gasterosteus aculeatus*)
+    -   Bay pipefish (*Syngnathus leptorhyncus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+-   **Author**: Mark Currey
+-   **Date Created**: September 10, 2012, updated November 22, 2025
+-   **Permit Requirements**: ODFW Scientific Taking Permit required (see below)
+
+::: {.callout-important title="Permits and Legal Requirements"}
+**REQUIRED before any field collection:**
+
+-   Valid ODFW (Oregon Department of Fish and Wildlife) Scientific Taking Permit
+-   All collectors listed on permit or supervised by listed collector
+-   Collect only authorized species at authorized locations
+-   Adhere to all permit conditions (bag limits, methods, reporting)
+-   Carry permit copy in field at all times
+-   Annual reporting required (species counts, locations, dates)
+-   Check for additional local, state, or federal permits depending on location
+:::
+
+::: {.callout-warning title="Safety in the Field"}
+**Environmental Hazards:**
+
+-   Tide tables and water level fluctuations
+-   Slippery rocks and unstable substrates
+-   Cold water temperatures - risk of hypothermia
+-   Wildlife (snakes, wasps, aggressive waterfowl)
+-   Sun exposure and dehydration
+-   Poison oak/ivy in riparian areas
+
+**Safety Equipment:**
+
+-   Cell phone or communication device
+-   First aid kit
+-   Drinking water
+-   Sun protection (hat, sunscreen)
+-   Appropriate footwear (waders or water shoes)
+-   Personal flotation device (PFD) if using kayak or in deep water
+-   Always work with a field partner - never collect alone
+:::
+
+::: {.callout-note title="New Collectors"}
+New collectors should accompany an experienced collector for at least one field trip before collecting independently. This ensures:
+
+-   Proper handling techniques for target species
+-   Recognition of by-catch species (especially protected species)
+-   Understanding of equipment deployment and retrieval
+-   Familiarity with permit requirements and data recording
+:::
+
+## Background
+
+Field collections of wild populations are essential for:
+
+-   Establishing lab populations from diverse genetic backgrounds
+-   Comparative studies of local adaptation
+-   Understanding phenotypic variation in natural populations
+-   Genetic mapping and QTL studies
+-   Collecting tissue for molecular analyses
+
+Both stickleback and pipefish inhabit coastal and estuarine environments but have different microhabitat preferences. Successful collecting requires understanding species-specific ecology and using appropriate methods for each species.
+
+### Habitat and Ecology
+
+::: {.panel-tabset}
+
+#### Stickleback
+
+**Preferred Habitats:**
+-   Shallow vegetated margins of lakes, ponds, and streams
+-   Estuarine environments with emergent vegetation
+-   Tidal pools and channels
+-   Areas with cover (vegetation, woody debris, undercut banks)
+
+**Seasonal Considerations:**
+-   Spring (March-June): Breeding season, easiest to collect, males in breeding coloration
+-   Summer: Juveniles abundant, adults post-breeding
+-   Fall/Winter: More difficult to collect, fish in deeper water
+
+**Collection Methods:**
+-   Minnow traps (most effective)
+-   Seining (effective in open areas)
+-   Dip nets (for targeted collection)
+
+#### Pipefish/Syngnathid
+
+**Preferred Habitats:**
+-   Eelgrass (*Zostera marina*) beds
+-   Floating algae mats
+-   Shallow protected bays and estuaries
+-   Dock pilings with algae growth
+-   Salt marsh edges
+
+**Seasonal Considerations:**
+-   Late spring through fall: Most active, easier to collect
+-   Breeding season varies by species and location
+-   Winter: Less active, found in deeper water
+
+**Collection Methods:**
+-   Seining through eelgrass (most effective)
+-   Dip nets in algae mats
+-   Minnow traps (less effective than for stickleback)
+
+:::
+
+## Materials
+
+### Field Equipment
+
+**Collection Devices:**
+-   Minnow traps (collapsible wire mesh, 2-4 traps recommended)
+-   Seine net (4-6 feet tall, 10-30 feet long, 1/8 to 1/4 inch mesh)
+-   Dip nets (various sizes, fine mesh)
+-   Trap tethers (rope, carabiners, anchors)
+
+**Containers and Transport:**
+-   5-gallon buckets (2-4)
+-   500ml and 1000ml Nalgene bottles (for preserved specimens)
+-   Small mouse cages or ventilated containers (for live transport)
+-   Portable aerator (battery powered, for live transport)
+-   Cooler with ice packs (for temperature control during transport)
+
+**Data Recording:**
+-   Waterproof field notebook
+-   Pencils (not pens - may run when wet)
+-   GPS unit or smartphone with GPS
+-   Camera (waterproof or in protective case)
+-   Thermometer
+-   pH meter/strips (optional)
+-   Dissolved oxygen meter (optional)
+-   Salinity refractometer
+
+**Personal Safety:**
+-   Waders or waterproof boots
+-   Gloves (nitrile or rubber)
+-   Personal flotation device (if working in deep water)
+-   Kayak or small boat (optional, for accessing some sites)
+-   First aid kit
+-   Sun protection
+
+**Optional Equipment:**
+-   Crossing materials (if breeding fish in field - see stickleback crossing SOP)
+-   Liquid nitrogen dewar (for flash freezing high-quality tissue samples)
+-   Portable shade structure
+
+## Solutions
+
+### Euthanasia and Preservation
+
+-   **95% Ethanol** (for tissue preservation)
+    -   Bring 1-2 liters for full day of collecting
+    -   Store in labeled, sealed containers
+    -   Must be fresh (not recycled) for DNA preservation
+
+-   **MS-222 (Tricaine)** (for euthanasia)
+    -   See euthanasia SOPs: @sec-husbandry_euthanasia_stickleback and @sec-husbandry-pipefish_larval_euth
+    -   Prepare working solution before field trip
+    -   Store in dark bottles
+    -   Bring 500ml-1L of euthanasia strength solution
+
+-   **Liquid Nitrogen** (optional, for flash freezing)
+    -   Required for high-quality DNA/RNA preservation
+    -   Transport in appropriate dewar
+    -   Follow institutional safety protocols
+
+## Procedure
+
+### Pre-Collection Planning
+
+1.  **Check permits and regulations**
+
+    -   Verify current ODFW permit is valid and covers collection site
+    -   Review permit conditions (species, numbers, methods, dates)
+    -   Check for any site-specific restrictions
+    -   Ensure all collectors are authorized
+
+2.  **Check environmental conditions**
+
+    -   Review weather forecast
+    -   Check tide tables (for estuarine/coastal sites)
+    -   Verify water body is accessible (not closed due to flooding, fire, etc.)
+    -   Contact land manager if collecting on private or restricted land
+
+3.  **Prepare equipment**
+
+    -   Clean and inspect all collection gear
+    -   Ensure traps and nets are in good repair
+    -   Charge batteries for aerators and electronics
+    -   Pack all materials on checklist
+
+### Collection Methods
+
+::: {.callout-tip title="Collection Strategy"}
+-   Scout the site first before deploying equipment
+-   Start with least invasive methods (observation, trapping)
+-   Use active collection (seining, dip netting) if passive methods unsuccessful
+-   Target areas with appropriate habitat for your species
+-   Rotate through multiple sites if permitted to avoid over-collection from one location
+:::
+
+#### Minnow Trap Collection
+
+4.  **Deploy traps**
+
+    -   Place traps in areas with cover (vegetation, woody debris, structure)
+    -   Ensure traps are fully submerged
+    -   Tether each trap securely to shore or non-movable object
+    -   Mark trap locations clearly
+    -   Record GPS coordinates and deployment time in field notebook
+
+::: {.callout-warning title="TIDAL AREAS"}
+**CRITICAL for tidal waters:** Check tide tables and ensure traps remain below low tide line. Traps placed above the low water mark will be left dry during low tide, resulting in fish mortality and permit violations.
+
+-   Deploy traps 1-2 hours before low tide
+-   Check water depth at predicted low tide
+-   Place traps in subtidal channels or pools
+-   Consider using shorter trap deployment times (2-6 hours instead of 24 hours)
+:::
+
+5.  **Check traps regularly**
+
+    -   **Maximum trap deployment: 24 hours** (often less in tidal areas)
+    -   Check every 2-6 hours if possible to minimize stress on captured fish
+    -   More frequent checks in warm weather (lower oxygen capacity)
+
+6.  **Retrieve and process catch**
+
+    -   **FIRST: Check for protected species**
+        -   Salmonids (salmon, trout)
+        -   Oregon chub (endemic to Willamette Basin)
+        -   Bull trout
+        -   Coho salmon
+        -   Any other ESA-listed species
+    -   **If protected species present:**
+        -   Open trap underwater
+        -   Release all fish immediately
+        -   Do not handle protected species unless absolutely necessary
+        -   Move trap to different location
+    -   **If no protected species:**
+        -   Remove trap from water
+        -   Empty contents into bucket filled 1/3 with water from collection site
+        -   Proceed to sorting and counting
+
+#### Active Collection (Seine/Dip Net)
+
+7.  **Seine net collection**
+
+    -   Two-person operation: one person on each end of seine
+    -   Wade into appropriate depth (knee to waist deep)
+    -   Keep bottom of net on substrate
+    -   Pull seine steadily through habitat
+    -   For pipefish: Seine slowly through eelgrass beds
+    -   Bring net to shore or shallow water
+    -   Carefully remove fish and place in bucket
+
+8.  **Dip net collection**
+
+    -   Effective for targeted collection in algae mats or vegetation
+    -   Approach slowly to avoid disturbing fish
+    -   Use quick, decisive net movement
+    -   Immediately transfer catch to bucket
+
+### Data Recording
+
+9.  **Count and identify all fish**
+
+    -   Separate by species
+    -   Count target species (record in field notebook)
+    -   Count all by-catch species (required for permit reporting)
+    -   Photograph any unusual species or observations
+    -   Take photos of target species if desired
+
+::: {.callout-note title="Data to Record"}
+**Required for each collection event:**
+
+-   Date and time
+-   Location (GPS coordinates, site name)
+-   Collection method
+-   Number of each species collected
+-   Number of each species released
+-   Water temperature
+-   Water type (fresh, brackish, marine)
+-   Salinity (if applicable)
+
+**Recommended additional data:**
+
+-   Water condition (clear, turbid, stained)
+-   Substrate type (sand, mud, gravel, rock)
+-   Vegetation type and density
+-   Weather conditions
+-   pH (if possible)
+-   Dissolved oxygen (if possible)
+-   Tidal stage (if applicable)
+-   Photos of habitat
+:::
+
+10. **Release by-catch**
+
+    -   Immediately release any non-target species
+    -   Release protected species first
+    -   Handle fish gently and minimize air exposure
+    -   Release in same location collected
+    -   Record number released for each species
+
+### Processing Collected Fish
+
+#### For Preserved Specimens
+
+11. **Euthanize fish**
+
+    -   Transfer fish to MS-222 euthanasia solution
+    -   Wait until opercular movements cease (5-10 minutes)
+    -   Verify death (no gill movement, no response to stimuli)
+
+12. **Preserve in ethanol**
+
+    -   Collect fish from MS-222 using fine mesh net
+    -   Blot excess liquid
+    -   Place fish into Nalgene bottle with 95% ethanol
+    -   **IMPORTANT: Do not overfill bottles**
+        -   Fill bottle maximum 1/3 to 1/2 with fish
+        -   Body fluids dilute ethanol, leading to tissue degradation
+        -   Use multiple bottles rather than overfilling
+    -   Label with: Species, location, date, collector, stock number (assign upon return)
+
+13. **Alternative: Flash freezing** (for high-quality DNA/RNA)
+
+    -   Euthanize as above
+    -   Blot excess liquid
+    -   Place individual fish in cryovials or small bags
+    -   Immediately place in liquid nitrogen
+    -   Transfer to dry ice for transport
+    -   Store at -80°C in lab
+    -   Label with complete collection information
+
+#### For Live Introduction to Lab
+
+::: {.callout-warning title="Biosecurity and Disease Prevention"}
+**Never introduce wild fish directly to lab system:**
+
+-   Wild fish may carry pathogens, parasites, or invasive species
+-   All wild fish must be quarantined
+-   For breeding: use embryos only (see embryo bleaching SOP)
+-   For live experiments: maintain separate from colony fish
+:::
+
+14. **Transport live fish**
+
+    -   Transfer fish to aerated containers
+    -   Use water from collection site
+    -   Keep cool but not cold (use ice packs outside container)
+    -   Minimize transport time (ideally <4 hours)
+    -   Avoid overcrowding (max 10-20 fish per 5-gallon bucket with aeration)
+    -   Monitor during transport
+
+15. **Wild crosses for lab introduction** (See specific crossing SOPs)
+
+    -   Perform crosses immediately upon return to lab or within 24 hours
+    -   See stickleback crossing SOP for detailed protocol
+    -   Bleach embryos to remove surface pathogens (see embryo bleaching SOP)
+    -   Only introduce bleached embryos to fish system
+    -   OR: Fix embryos for morphological/developmental studies
+
+16. **Return to lab and catalog**
+
+    -   Assign stock numbers to all preserved specimens
+    -   Enter data into lab database/spreadsheet
+    -   Store preserved specimens in designated location
+    -   Label all containers clearly
+    -   Update permit records (running total of collections)
+
+### Trap and Equipment Disinfection
+
+::: {.callout-important title="TRAP DISINFECTION - CRITICAL FOR BIOSECURITY"}
+**Required disinfection situations:**
+
+-   Collecting between different watersheds
+-   Collecting between different water bodies within a watershed (when specified by ODFW)
+-   After encountering invasive species (New Zealand mudsnails, etc.)
+-   Check current ODFW permit comments for specific requirements
+:::
+
+17. **Standard disinfection protocol**
+
+    -   Rinse all equipment thoroughly with clean water to remove organic matter
+    -   Air dry equipment for minimum 1 week between collection sites
+    -   Dry time kills many pathogens and invertebrates
+    -   Store in dry, protected location
+
+18. **Enhanced disinfection** (when required)
+
+    -   Rinse equipment to remove organic matter
+    -   Soak in 10% bleach solution for 10 minutes
+    -   OR: Soak in Virkon solution (follow manufacturer's instructions)
+    -   Rinse thoroughly with clean water
+    -   Air dry completely before next use
+    -   Additional protocols may be needed for specific invasive species - consult with ODFW
+
+## Troubleshooting
+
+| Problem | Possible Cause | Solution |
+|---------|---------------|----------|
+| No or few target species caught | Wrong habitat selection | Move to areas with more cover/appropriate vegetation |
+| | Wrong time of year | Consult literature on seasonal patterns |
+| | Wrong collection method | Try different methods (seine vs. trap) |
+| | Low population density | Try different site |
+| High by-catch of protected species | Trap placement in migration corridor | Move traps to different microhabitat |
+| | Wrong site selection | Consider alternative collection sites |
+| Fish mortality in traps | Traps left too long | Check more frequently; reduce deployment time |
+| | High water temperature | Collect in cooler parts of day; use shade |
+| | Low oxygen | Use traps with larger openings; check more frequently |
+| | Tidal exposure | Verify trap depth at low tide; move to subtidal areas |
+| Fish mortality during transport | Overcrowding | Use more containers; reduce density |
+| | Temperature stress | Use ice packs; insulate containers |
+| | Inadequate oxygenation | Check aerator function; add airstones |
+| Ethanol preservation poor quality | Bottles overfilled with fish | Use more bottles; maximum 1/3 to 1/2 full |
+| | Old ethanol | Use fresh 95% ethanol only |
+| | Contamination | Ensure fish fully euthanized before preservation |
+| Equipment loss | Inadequate tethering | Use secure knots; check tether strength |
+| | Theft or vandalism | Place traps in less visible locations; check frequently |
+
+## Species-Specific Tips
+
+::: {.panel-tabset}
+
+### Stickleback
+
+**Best Practices:**
+-   Spring collections during breeding season are most productive
+-   Males in breeding coloration are easily spotted
+-   Traps work extremely well - place in vegetated areas
+-   Seining effective in open shallow water
+-   Can be abundant - easy to over-collect (respect permit limits)
+
+**Handling:**
+-   Spines can puncture skin - use gloves or careful handling
+-   Generally hardy during transport
+-   Tolerate range of salinities (freshwater to full seawater)
+
+**Locations:**
+-   Oregon coast: estuaries, tidal creeks, freshwater streams
+-   Willamette Valley: ponds, sloughs, slow-moving streams
+-   Check ODFW permit for authorized locations
+
+### Pipefish/Syngnathid
+
+**Best Practices:**
+-   Focus on eelgrass beds and floating algae
+-   Seining is most effective method
+-   Dip nets good for algae mats along docks
+-   Traps less effective than for stickleback
+-   Look for characteristic "S" posture when swimming
+
+**Handling:**
+-   Very delicate - minimize handling
+-   Can be stressed by air exposure
+-   Keep in species-appropriate salinity (full seawater, 25-30 ppt)
+-   Pregnant males: handle with extra care to avoid embryo loss
+
+**Bay Pipefish (*S. leptorhyncus*):**
+-   Oregon and Washington estuaries and protected bays
+-   Associated with eelgrass beds
+-   Year-round but more abundant late spring through fall
+
+**Gulf Pipefish (*S. scovelli*):**
+-   Gulf of Mexico and Atlantic coast
+-   More tolerant of variable salinity than bay pipefish
+-   Found in seagrass beds, algae, and estuarine vegetation
+
+:::
+
+## Post-Collection Tasks
+
+### Within 24 Hours
+-   Process all fish (preserve or cross)
+-   Enter data into field notebook and lab database
+-   Assign stock numbers
+-   Clean and store equipment
+-   Update permit tracking spreadsheet
+
+### Within 1 Week
+-   Back up field data digitally
+-   Organize and label preserved specimens
+-   Begin any planned crosses or experiments
+-   Disinfect equipment if collecting at different site soon
+
+### End of Permit Year
+-   Compile annual report for ODFW
+-   Include: all species collected, quantities, locations, dates
+-   Submit by permit deadline (usually December 31 or permit anniversary)
+-   Renew permit if needed for following year
+
+## Associated Papers
+
+-   Bell, M. A., & Foster, S. A. (Eds.). (1994). *The Evolutionary Biology of the Threespine Stickleback*. Oxford University Press.
+-   Ostlund-Nilsson, S., Mayer, I., & Huntingford, F. A. (Eds.). (2007). *Biology of the Three-spined Stickleback*. CRC Press.
+-   Dawson, C. E. (1985). *Indo-Pacific Pipefishes (Red Sea to the Americas)*. Gulf Coast Research Laboratory.
+-   Wilson, A. B., Vincent, A., Ahnesjo, I., & Meyer, A. (2001). Male pregnancy in seahorses and pipefishes (family Syngnathidae): Rapid diversification of paternal brood pouch morphology inferred from a molecular phylogeny. *Journal of Heredity*, 92(2), 159-166.
+-   xxx (add lab-specific publications)

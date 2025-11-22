@@ -7,8 +7,8 @@
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
     -   Gulf pipefish (*Syngnathus scovelli*)
--   **Author**: xxx
--   **Date Created**: xxx
+-   **Author**: Mark Currey
+-   **Date Created**: 2008
 
 ## Materials
 
@@ -27,8 +27,12 @@
 
 ## Procedure
 
-::: {.callout-warning title="NOTES"}
+::: {.callout-caution title="Safety"}
 -   Always wear gloves when handling UV bulbs as oils from your hands can ruin the bulb.
+-   UV light can be harmful to eyes and skin. Ensure unit is powered off before opening.
+:::
+
+::: {.callout-note title="Note"}
 -   If bulb is not on it is probably because the prongs are incorrect.
 -   Take bulb back out and change the way the bulb is plugged in.
 -   Bulbs should be replaced once per year.
@@ -43,9 +47,7 @@
 7.  Check to see that UV is working by looking for light through "viewing window" at the end of the filter.
 8.  Update changed/next change needed sticker on outside of unit.
 
-## Associated Papers
+## Related Protocols
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   @sec-husbandry_pipefish_tank_maint - Pipefish water system maintenance
+-   @sec-husbandry_facility_cleaning - Facility cleaning

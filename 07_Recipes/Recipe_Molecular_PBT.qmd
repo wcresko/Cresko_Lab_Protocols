@@ -1,8 +1,8 @@
-# PBT {#sec-recipe-pbt}
+# PBT (PBS + Tween-20) {#sec-recipe-pbt}
 
 ## Introduction
 
--   **Purpose**: Recipe for making 500 ml of PBT.
+-   **Purpose**: Recipe for making 500 ml of PBT (Phosphate Buffered Saline with Tween-20), a versatile wash buffer used in immunohistochemistry and in situ hybridization
 -   **Procedure Type**: Recipe
 -   **Author**: Micah Woods
 -   **Date Created**: March 5, 2024
@@ -10,34 +10,79 @@
 ## Solutions
 
 -   10x PBS (50 ml)
-    -   Purchase pre-made from Chem Stores.
+    -   Phosphate Buffered Saline, pH 7.4
+    -   Purchase pre-made from Chem Stores
 -   Nanopure water (450 ml)
-    -   Located in the Nalgene at the north sink.
+    -   Located in the Nalgene at the north sink
 -   Tween-20 (1 ml)
-    -   Located in the chemical cabinet on the "Oxidizers A-Z" shelf.
+    -   Non-ionic detergent
+    -   Located in the chemical cabinet on the "Oxidizers A-Z" shelf
+    -   Final concentration: 0.2% (v/v)
 
 ## Materials
 
--   500 ml glass Pyrex jar
--   Pipettes
+-   500 ml glass Pyrex jar or bottle
+-   Pipettes (1 ml and 50 ml)
 -   Pipette tips
+-   Graduated cylinder
+
+::: {.callout-tip title="Scaling"}
+This recipe can be scaled proportionally:
+- For 100 ml: 10 ml 10x PBS + 90 ml water + 200 μl Tween-20
+- For 250 ml: 25 ml 10x PBS + 225 ml water + 500 μl Tween-20
+- For 1 liter: 100 ml 10x PBS + 900 ml water + 2 ml Tween-20
+:::
 
 ## Procedure
 
-1.  Fill the 500 ml glass Pyrex jar with 50 ml of 10x PBS.
+1.  Add 50 ml of 10x PBS to a clean 500 ml glass Pyrex jar
 
-2.  Add 450 ml of nanopure water to the jar.
+2.  Add 450 ml of nanopure water to the jar
+    - Mix gently to dilute PBS
 
-3.  Add 1 ml of Tween-20 to the jar.
+3.  Add 1 ml of Tween-20 to the jar
 
-    ::: {.callout-important title="NOTE"}
-    Tween-20 is very thick solution, which can make it challenging to pipet. Push the pipette to the first stop, place the pipette tip in the Tween-20, and wait at least 10 seconds for the Tween-20 to fill the pipette tip. Due to its high viscosity, the Tween-20 will take longer to fill the pipette tip compared to less viscous liquids. Once the pipette tip is full, slowly dispense the Tween-20 into the jar.
+    ::: {.callout-important title="Note"}
+    Tween-20 is a very viscous solution, which can make it challenging to pipet. Push the pipette to the first stop, place the pipette tip in the Tween-20, and wait at least 10 seconds for the Tween-20 to fill the pipette tip. Due to its high viscosity, the Tween-20 will take longer to fill the pipette tip compared to less viscous liquids. Once the pipette tip is full, slowly dispense the Tween-20 into the jar.
     :::
 
-4.  Mix the solution by gently inverting the jar a few times. Store at room temperature.
+4.  Cap jar and mix thoroughly by swirling or gentle inversion
+    - Invert 15-20 times to ensure Tween-20 is fully dispersed
+    - Solution should be homogeneous
 
-## Associated Papers
+## Storage
 
--   x
--   x
--   x
+-   **Temperature**: Room temperature or 4°C
+-   **Duration**: Stable for 2-3 months at room temperature; 3-6 months at 4°C
+-   **Container**: 500 ml glass Pyrex jar or bottle with tight-sealing cap
+-   **Label**: Mark with "PBT (1x PBS + 0.2% Tween-20)", date prepared, and storage conditions
+
+## Quality Control
+
+-   **pH**: Should be approximately 7.4 (from PBS)
+-   **Appearance**: Solution should be clear and colorless
+-   **Homogeneity**: Should be well-mixed with no visible Tween-20 droplets or phase separation
+-   **Verification**: Mix well before each use as Tween-20 may settle slightly over time
+
+::: {.callout-tip title="Usage Notes"}
+- PBT is a general-purpose wash buffer for reducing non-specific binding
+- Tween-20 (0.2%) reduces surface tension and helps prevent tissue/sample adhesion
+- Used extensively in immunostaining, antibody washes, and in situ hybridization
+- Can be used for washing embryos, tissues, and whole-mount specimens
+- Compatible with most antibodies and molecular biology applications
+- Mix well before each use
+:::
+
+::: {.callout-note title="Sterility"}
+For cell culture or sterile applications, PBT can be:
+- Filter-sterilized through 0.22 μm filter, or
+- Prepared using sterile PBS and water, adding Tween-20 aseptically
+:::
+
+## Related Protocols
+
+-   Used in immunohistochemistry protocols as wash buffer
+-   Required for @sec-recipe-blocking_buffer (Blocking Buffer for in situ)
+-   Used in in situ hybridization wash steps
+-   General wash buffer for antibody-based detection methods
+-   See molecular biology and histology protocols for detailed applications

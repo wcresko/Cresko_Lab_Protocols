@@ -10,6 +10,21 @@
 
 -   **Date Created**: July, 2011
 
+::: {.callout-warning title="Safety"}
+**Personal Protective Equipment (PPE):**
+
+- Lab coat
+- Safety glasses
+- Nitrile gloves
+
+**Chemical Safety:**
+
+- Handle DTT with care; it is an irritant and has a strong odor
+- Handle EDTA with care; it is an irritant
+- Work in a well-ventilated area
+- RNase-free technique required; wear gloves at all times
+:::
+
 ## Materials
 
 -   Thermomixer or incubator
@@ -19,20 +34,26 @@
 
 ## Solutions
 
--   Random Primer Mix
+-   Random Primer Mix (60 µM, NEB)
 -   10 mM dNTP mix
 -   mRNA
--   Water
+-   Nuclease-free water
 -   5x First-Strand Buffer (Invitrogen)
--   0.1 mM DTT (Invitrogen)
--   1 µl RNase inhibitor – e.g., RNAseOUT (Invitrogen)
--   1 µl Superscript III reverse transcriptase (200 u/µl – Invitrogen)
--   15 µl 10x Second-Strand Synthesis Reaction Buffer (B6117S, NEB)
--   1 µl E. coli ligase (10 u/µl)
--   4 µl E. coli DNA Polymerase I (10 u/µl)
--   0.4 µl E. coli RNase H (5 u/µl)
--   T4 DNA polymerase
+-   0.1 M DTT (Invitrogen)
+-   RNase inhibitor, e.g., RNAseOUT (Invitrogen)
+-   Superscript III reverse transcriptase (200 u/µl, Invitrogen)
+-   10x Second-Strand Synthesis Reaction Buffer (B6117S, NEB)
+-   E. coli ligase (10 u/µl)
+-   E. coli DNA Polymerase I (10 u/µl)
+-   E. coli RNase H (5 u/µl)
+-   T4 DNA polymerase (3 u/µl, NEB)
 -   0.5 M EDTA
+
+## Related Protocols
+
+- See @sec-molecular-cDNA_synth_PCR for single-stranded cDNA synthesis
+- See @sec-molecular-eRAD for using double-stranded cDNA in eRAD protocols
+- See @sec-molecular-bead_extraction for DNA cleanup with Zymo columns
 
 ## Procedure
 
@@ -45,32 +66,32 @@
         3.  X µl up to 0.5 µg mRNA
         4.  Water (if necessary) to bring total to 12 µl
 
-        ::: {.callout-important title="NOTE"}
-        \*Random Primer Mix should do a better job of covering 5’ and 3’ ends than Oligo d(T) or random hexamer primers alone.
+        ::: {.callout-note title="Note"}
+        Random Primer Mix should do a better job of covering 5' and 3' ends than Oligo d(T) or random hexamer primers alone.
         :::
 
-    2.  Heat to 65˚C for 5 min., then ice
+    2.  Heat to 65°C for 5 min., then place on ice
 
     3.  Collect contents at bottom of tube by brief centrifugation.
 
     4.  Add:
 
         1.  4 µl 5x First-Strand Buffer (Invitrogen)
-        2.  1 µl 0.1 mM DTT (Invitrogen)
-        3.  1 µl RNase inhibitor – e.g., RNAseOUT (Invitrogen)
-        4.  1 µl Superscript III reverse transcriptase (200 u/µl – Invitrogen)
+        2.  1 µl 0.1 M DTT (Invitrogen)
+        3.  1 µl RNase inhibitor, e.g., RNAseOUT (Invitrogen)
+        4.  1 µl Superscript III reverse transcriptase (200 u/µl, Invitrogen)
 
-        ::: {.callout-important title="NOTE"}
-        Reaction can be scaled up to accommodate more starting RNA
+        ::: {.callout-note title="Note"}
+        Reaction can be scaled up to accommodate more starting RNA.
         :::
 
     5.  Mix by gentle aspiration
 
-    6.  25˚C for 10 min.
+    6.  Incubate at 25°C for 10 min.
 
-    7.  *Synthesis*: Incubate at 50˚C for 50 min.
+    7.  **Synthesis**: Incubate at 50°C for 50 min.
 
-    8.  *Inactivation*: 85˚C for 5 min. Chill on ice, collect contents to bottom by short spin.
+    8.  **Inactivation**: Heat to 85°C for 5 min. Chill on ice, collect contents to bottom by short spin.
 
 2.  **Second strand synthesis**:
 
@@ -85,20 +106,22 @@
 
     2.  Mix by aspiration on ice.
 
-    3.  *Synthesis*: incubate at 16˚C for 2 hours (do not allow to warm above 16˚C).
+    3.  **Synthesis**: Incubate at 16°C for 2 hours (do not allow to warm above 16°C).
 
-3.  Optional (for cloning cDNAs, have to blunt ends):
+3.  **Optional** (for cloning cDNAs, required to blunt ends):
 
-    1.  Add 3.3 µl (10 u) T4 DNA polymerase (3 u/µl, NEB). Incubate 5 min. at 16˚C.\]
+    1.  Add 3.3 µl (10 u) T4 DNA polymerase (3 u/µl, NEB). Incubate 5 min. at 16°C.
     2.  Add 10 µl 0.5 M EDTA to stop reaction.
 
-4.  Purify with Zymo DNA column, e.g.:
+4.  Purify with Zymo DNA column (see @sec-molecular-bead_extraction):
 
     1.  Elute two times with 50 µl EB and proceed to shearing and adaptor ligation for EST building or expression profiling via Illumina sequencing, OR,
-    2.  Elute two times with 20 µl EB and proceed to restriction digestion for eRAD.
+    2.  Elute two times with 20 µl EB and proceed to restriction digestion for eRAD (see @sec-molecular-eRAD).
+
+::: {.callout-note title="Storage"}
+Double-stranded cDNA can be stored at -20°C for several months or at -80°C for long-term storage.
+:::
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
+-   None listed

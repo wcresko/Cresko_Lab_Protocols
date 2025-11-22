@@ -9,6 +9,7 @@
     -   Gulf pipefish (*Syngnathus scovelli*)
 -   **Author**: Mark Currey
 -   **Date Created**: May 6, 2008; February 2, 2024 updated by M. Currey
+-   **IACUC Protocol**: Covered under facility maintenance procedures
 
 ## Materials
 
@@ -17,39 +18,47 @@
 -   105 μm mesh shrimp collector
 -   Baking Soda
 -   Squirt Bottle
--   Enrichment material
+-   Enrichment material (High-Carotenoid Marine Algae from brineshrimpdirect.com)
+-   5-gallon (18L) conical hatching jar
+-   Specimen cups
+-   Blender
+-   Fine mesh net
+-   Turkey baster
 
-#Solutions
+## Solutions
 
--   none
+-   Seawater (30-35 ppt)
 
 ## Procedure
 
-1.  Hatch and harvest the brine shrimp (see brine shrimp hatching and feeding SOP).
+1.  **Hatch and harvest the brine shrimp**: See @sec-husbandry-brine_gen_hatch_feed for brine shrimp hatching and feeding.
 
-2.  Transfer into a specimen cup with clean seawater to resuspend them. Fill the specimen cup with new seawater until it reaches 1L.
+2.  **Transfer to specimen cup**: Transfer harvested brine shrimp into a specimen cup with clean seawater to resuspend them. Fill the specimen cup with new seawater until it reaches 1L.
 
-3.  **Dilute the brine shrimp.** Assuming an 80% hatch rate from the 1 g of brine shrimp eggs about 200,000 nauplii will hatch. For further culturing the recommended density is 1,000-2,000 brine shrimp/L. As many will be lost in the culturing process shooting for a higher density will result in more alive at the end. Add between **300-400 mL** of the brine shrimp to a 5-gallon (18L) conical hatching jar (made to 30-35 ppt) ensuring that the brine shrimp are suspended in the specimen cup and not settled at the bottom.
+3.  **Dilute the brine shrimp**: Assuming an 80% hatch rate from the 1 g of brine shrimp eggs, about 200,000 nauplii will hatch. For further culturing the recommended density is 1,000-2,000 brine shrimp/L. As many will be lost in the culturing process, shooting for a higher density will result in more alive at the end. Add between **300-400 mL** of the brine shrimp to a 5-gallon (18L) conical hatching jar (made to 30-35 ppt) ensuring that the brine shrimp are suspended in the specimen cup and not settled at the bottom.
 
     -   Provide a lid to reduce evaporation and proper aeration. Make sure the tube extends as far down as possible to eliminate the possibility of a "dead zone"
 
-4.  **Feed the brine shrimp.** Brine shrimp do not eat for the first 48 hrs. of their life cycle as they absorb nutrients from their yolk sac. After 48 hr. feed the brine shrimp High-Carotenoid Marine Algae (ordered from brineshrimpdirect.com). Add 1 tsp. of Hi-C Algae to a blender with 0.5L of seawater and blend until smooth. Add this solution to the conical hatching jar for the brine shrimp to feed on. Feed this solution to brine shrimp daily.
+4.  **Feed the brine shrimp**: Brine shrimp do not eat for the first 48 hrs. of their life cycle as they absorb nutrients from their yolk sac. After 48 hr. feed the brine shrimp High-Carotenoid Marine Algae (ordered from brineshrimpdirect.com). Add 1 tsp. of Hi-C Algae to a blender with 0.5L of seawater and blend until smooth. Add this solution to the conical hatching jar for the brine shrimp to feed on. Feed this solution to brine shrimp daily.
 
     -   Store leftover Hi-C Algae in 50 mL Falcon Tubes sealed with parafilm in the freezer
 
-5.  **Conduct daily water changes.** Since a filtration system cannot be implemented due to the small nature of the brine shrimp, **20-30%** water changes should be conducted daily. Remove air from the system and open the stopcock to allow water to exit the container. Filter the water through a fine mesh net to catch any brine shrimp as it exits the conical hatching jar. Immediately transfer those brine shrimp to a specimen container and re-add them to the system. Wipe down and food that has settled along the edge and lid and re-fill the conical hatching jar with clean seawater. Reintroduce the air.
+5.  **Conduct daily water changes**: Since a filtration system cannot be implemented due to the small nature of the brine shrimp, **20-30%** water changes should be conducted daily. Remove air from the system and open the stopcock to allow water to exit the container. Filter the water through a fine mesh net to catch any brine shrimp as it exits the conical hatching jar. Immediately transfer those brine shrimp to a specimen container and re-add them to the system. Wipe down any food that has settled along the edge and lid and re-fill the conical hatching jar with clean seawater. Reintroduce the air.
 
-6.  **Feed out the brine shrimp.** It takes around 8-12 days for the brine shrimp to reach their full size of 7mm (this amount of time will change depending on how optimum the conditions are for the brine shrimp). Once large enough, drain a portion of the container through a fine mesh net and immediately transfer into a specimen cup with clean seawater. Drain this water through a net with larger holes to remove food from the solution (brine shrimp will be large enough at this time to not fall through the holes) into a new specimen cup. Use a turkey baster to allocate food evenly to all of the tanks.
+6.  **Feed out the brine shrimp**: It takes around 8-12 days for the brine shrimp to reach their full size of 7mm (this amount of time will change depending on how optimum the conditions are for the brine shrimp). Once large enough, drain a portion of the container through a fine mesh net and immediately transfer into a specimen cup with clean seawater. Drain this water through a net with larger holes to remove food from the solution (brine shrimp will be large enough at this time to not fall through the holes) into a new specimen cup. Use a turkey baster to allocate food evenly to all of the tanks.
 
-::: {.callout-notes title="NOTE"}
-Depending on the amount of fish that must be fed the culture may be fed out over a period of multiple days
+::: {.callout-note title="Note"}
+Depending on the amount of fish that must be fed, the culture may be fed out over a period of multiple days
 :::
 
-7.  If the conical hatching jar is completely fed out, restart the culture with new nauplii. For best results stagger the start of the conical hatching jars so brine shrimp will always be growing while you feed out others.
+7.  **Restart culture**: If the conical hatching jar is completely fed out, restart the culture with new nauplii. For best results stagger the start of the conical hatching jars so brine shrimp will always be growing while you feed out others.
+
+## Related Protocols
+
+-   See @sec-husbandry-brine_gen_hatch_feed for hatching and feeding brine shrimp
+-   See @sec-husbandry-brineshrimp_decap for brine shrimp decapsulation
+-   See @sec-husbandry-foodstorage_sources for food storage information
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   None

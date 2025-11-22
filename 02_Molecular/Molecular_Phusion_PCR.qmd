@@ -12,6 +12,19 @@ We recommend assembling all reaction components on ice and quickly transferring 
 
 Phusion DNA Polymerase may be diluted in 1X HF or GC Buffer just prior to use in order to reduce pipetting errors. Please note that protocols with Phusion DNA Polymerase may differ from protocols with other standard polymerases. As such, conditions recommended below should be used for optimal performance.
 
+::: {.callout-warning title="Safety"}
+**Personal Protective Equipment (PPE):**
+
+- Lab coat
+- Safety glasses
+- Nitrile gloves
+
+**Chemical Safety:**
+
+- Handle DMSO with care; it can facilitate absorption of other chemicals through skin
+- Work in a well-ventilated area
+:::
+
 ## Materials:
 
 -   PCR tubes, plates or strip tubes (1 per reaction & 1 for positive control)
@@ -25,6 +38,11 @@ Phusion DNA Polymerase may be diluted in 1X HF or GC Buffer just prior to use in
 ## Solutions:
 
 NONE
+
+## Related Protocols:
+
+- See @sec-molecular-gel for visualizing PCR products on agarose gels
+- See @sec-molecular-bead_extraction for cleaning up PCR products
 
 ## Procedure:
 
@@ -41,9 +59,9 @@ NONE
 | 7   | DMSO (optional)      | (0.6 ul)      | (1.5 ul)      | 3%                   |
 | 8   | Phusion polymerase   | 0.2 ul        | 0.5 ul        | 0.4 units/ 20 ul rxn |
 
-: Table 1. Mixtures for PCR Reaction
+: Mixtures for PCR Reaction {#tbl-phusion-rxn}
 
-Mix together reagents in a 1500 ul tube for the number of reactions needed, but add an extra reaction for pipeting error and one for a negative control. For example, if a PCR will be run on 23 samples and one control, mix enough for 25 reactions.
+Mix together reagents in a 1500 ul tube for the number of reactions needed, but add an extra reaction for pipeting error and one for a negative control. For example, if a PCR will be run on 23 samples and one control, mix enough for 25 reactions (see @tbl-phusion-rxn for reaction components).
 
 ::: {.callout-warning title="Keep reactions cold"}
 -   Set up PCR reactions on ice
@@ -65,9 +83,10 @@ Mix together reagents in a 1500 ul tube for the number of reactions needed, but 
 | 7   |                      |                    |                  |               |
 | 8   |                      |                    |                  |               |
 
-: Table 2. Thermocycler regime
+: Thermocycler regime for Phusion PCR {#tbl-phusion-thermo}
 
-::: {.callout-note title="Anneal temperature and length of amplification step"}
+::: {.callout-note title="Anneal Temperature and Length of Amplification Step"}
 -   The annealing temperature and length of time for amplification will depend upon the primers and the length of the fragment to be amplified.
 -   15 seconds/kb works for most reactions. 30 seconds/kb can be used for more complex reactions.
+-   After PCR is complete, visualize products using gel electrophoresis (see @sec-molecular-gel).
 :::

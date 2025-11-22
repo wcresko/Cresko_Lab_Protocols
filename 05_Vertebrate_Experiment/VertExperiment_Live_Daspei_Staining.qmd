@@ -1,0 +1,238 @@
+# Live DASPEI Staining {#sec-vert_exp-live_daspei}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to live stain fish with DASPEI to visualize neuromasts (lateral line hair cells)
+-   **Procedure Type**: Vertebrate Experimental
+-   **Species**:
+    -   Threespine stickleback (*Gasterosteus aculeatus*)
+    -   Bay pipefish (*Syngnathus leptorhyncus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+-   **Author**: Susan Bassham
+-   **Date Created**: October 25, 2021, updated November 22, 2025
+-   **Source**: Adapted from DOI: 10.1007/s10162-002-3022-x
+-   **IACUC Protocol**: Required for live animal procedures
+
+::: {.callout-important title="Safety and Handling"}
+-   Wear appropriate PPE (lab coat, gloves, safety glasses)
+-   DASPEI is a fluorescent vital dye that can stain skin and clothing
+-   Keep staining solutions in dark containers to prevent photobleaching
+-   DASPEI solutions can be stored at 4°C and reused (see procedure)
+-   Dispose of staining solutions according to chemical waste protocols
+:::
+
+## Background
+
+DASPEI (2-(4-dimethylaminostyryl)-N-ethylpyridinium iodide) is a vital mitochondrial dye that selectively labels metabolically active cells. In fish, it is particularly useful for visualizing neuromast hair cells of the lateral line system. The lateral line is a mechanosensory system that detects water movement and vibrations, consisting of clusters of sensory hair cells (neuromasts) distributed across the fish body surface.
+
+DASPEI enters active mitochondria in living cells and fluoresces yellow-green when excited with blue light (excitation ~475nm, emission ~605nm). The staining is specific to functional hair cells, making it an excellent tool for assessing lateral line development, damage, and regeneration. Unlike bone stains, DASPEI staining is relatively rapid (5-75 minutes) but also fades more quickly, requiring immediate imaging after staining.
+
+DASPEI can be combined with bone staining protocols (calcein or alizarin) for multi-marker visualization.
+
+## Materials
+
+-   Petri dishes (for larvae) and/or 1L tanks (for juveniles/adults)
+-   Darkened containers or aluminum foil
+-   Transfer pipettes
+-   DASPEI powder (Sigma Aldrich; cat# D3418)
+-   Sterile water or appropriate base medium
+-   4°C refrigerator for solution storage
+
+## Solutions
+
+### DASPEI Stock Solution
+
+-   **0.1% Stock**: 100mg DASPEI in 100ml sterile water
+-   Store in dark bottle at 4°C
+-   Can be stored for extended periods (several months)
+-   Make fresh if precipitation occurs
+
+### Staining Solutions
+
+Preparation varies by species due to different osmotic requirements:
+
+::: {.panel-tabset}
+
+#### Stickleback
+
+**Working Solution**:
+
+-   0.005% DASPEI in embryo medium (see @sec-recipe-embryo_medium)
+-   For 100ml: Add 5ml of 0.1% stock to 95ml embryo medium
+-   Make fresh or use refrigerated solution within 1 week
+-   Keep in dark container
+
+**Volume recommendations**:
+
+-   Larvae: 50-100ml in Petri dishes
+-   Juveniles/Adults: 500ml-1L in tanks
+
+#### Pipefish/Syngnathid
+
+**Working Solution**:
+
+-   0.005% DASPEI in artificial seawater
+-   Use 25 ppt Instant Ocean or natural seawater
+-   For 100ml: Add 5ml of 0.1% stock to 95ml seawater
+-   Make fresh or use refrigerated solution within 1 week
+-   Keep in dark container
+
+**Volume recommendations**:
+
+-   Larvae: 50-100ml in Petri dishes
+-   Juveniles/Adults: 500ml-1L in tanks
+
+:::
+
+### Additional Solutions
+
+-   MESAB anesthesia strength (see @sec-husbandry_anesth_stickleback for stickleback, @sec-husbandry_anesth_pipefish for pipefish)
+-   MESAB euthanasia strength (see @sec-husbandry_euthanasia_stickleback for stickleback, @sec-husbandry-pipefish_larval_euth for pipefish)
+-   Fresh system water or medium for rinsing (appropriate for species)
+
+## Procedure
+
+### Preparation
+
+1.  Prepare staining solution fresh or retrieve from 4°C storage
+2.  Allow refrigerated solution to come to room temperature
+3.  Cover container with aluminum foil to protect from light
+4.  Pre-label all containers with fish ID, date, and treatment
+
+::: {.callout-note title="Batch Processing"}
+If imaging multiple fish, stagger the staining start times (e.g., 15-minute intervals) to ensure no fish stains longer than 75 minutes before imaging. This prevents over-staining and ensures consistent results.
+:::
+
+### Staining Protocol
+
+::: {.callout-tip title="Staining Duration Guidelines"}
+-   **Minimum**: 5 minutes (visible staining in larvae)
+-   **Optimal**: 15-30 minutes for most applications
+-   **Maximum**: 75 minutes (do not exceed to prevent background staining)
+-   DASPEI staining is much faster than bone stains
+-   Monitor timing carefully as fluorescence intensity plateaus and background increases with longer exposure
+:::
+
+1.  **Transfer fish** to staining container
+
+    -   Larvae: Use Petri dishes with 50-100ml staining solution
+    -   Juveniles/Adults: Use 1L tanks with appropriate volume
+    -   Ensure adequate volume for fish size and number
+    -   Start timer immediately upon transfer
+
+2.  **Incubate in darkness**
+
+    -   Cover container with aluminum foil or place in dark location
+    -   Maintain appropriate temperature:
+        -   Stickleback: 16-20°C
+        -   Pipefish: 18-22°C
+    -   Keep fish in dark during entire staining period
+
+3.  **Monitor fish** during staining
+
+    -   Check every 15-30 minutes
+    -   Ensure fish are swimming normally and not stressed
+    -   Note exact staining duration for each fish
+    -   If imaging multiple individuals, remove them sequentially based on stagger times
+
+### De-staining and Rinsing
+
+4.  **Rinse fish** to reduce background staining
+
+    -   Transfer fish to container with fresh medium/seawater (appropriate for species)
+    -   Rinse for 20-60 minutes
+    -   Background fluorescence decreases with longer rinse times
+    -   Keep in dark during rinse period
+    -   Can do 2 rinses of 30 minutes each for better signal-to-background ratio
+
+::: {.callout-warning title="Critical Timing"}
+Unlike bone stains, DASPEI fluorescence in neuromasts is relatively stable for several hours after staining, but plan to image as soon as possible after rinsing for best results. Background fluorescence will continue to fade during the rinse period while neuromast signal remains strong.
+:::
+
+### Imaging
+
+5.  **Anesthetize for imaging**
+
+    -   Place fish in anesthesia solution (appropriate strength for species)
+    -   Wait until fish reaches a light plane of anesthesia
+    -   Aim for reduced gill movement and loss of equilibrium
+
+6.  **Observe and image fluorescence immediately**
+
+    -   DASPEI fluorescence: Excitation ~475nm, Emission ~605nm (yellow-green/orange)
+    -   Image as soon as possible after anesthesia
+    -   Use minimal exposure to excitation light to prevent photobleaching
+    -   Neuromast hair cells should appear as bright spots along lateral line
+    -   Keep fish in dark between imaging sessions
+
+::: {.callout-tip title="Imaging Tips"}
+-   Use appropriate filters for yellow-green to orange fluorescence
+-   Compatible with GFP filter sets in many cases
+-   Can be imaged alongside calcein (green) or alizarin (red) with appropriate filter sets
+-   Z-stack imaging may be helpful to capture all neuromasts in focus
+:::
+
+### Recovery
+
+7.  **Transfer fish to recovery container**
+
+    -   Use clean system water or fresh medium at appropriate temperature
+    -   Place in container of fish water with adequate oxygenation
+
+8.  **Monitor recovery**
+
+    -   Check fish every 5-10 minutes until revived
+    -   Look for return of normal swimming behavior and equilibrium
+    -   Typical recovery time: 5-20 minutes depending on anesthesia depth
+
+9.  **Return to system or proceed to next step**
+
+    -   Once fish is revived and swimming upright: return to fish system
+    -   Monitor during daily health checks
+    -   If proceeding to fixation: transfer to euthanasia solution (see appropriate euthanasia SOP for species)
+
+### Solution Storage and Reuse
+
+10. **Store staining solution (optional)**
+
+    -   DASPEI staining solution can be stored at 4°C in dark bottle
+    -   Label with date prepared and date last used
+    -   Can be reused multiple times (up to 1-2 weeks)
+    -   Discard if precipitation occurs or staining intensity decreases
+    -   Allow to warm to room temperature before reuse
+
+## Troubleshooting
+
+| Problem | Possible Cause | Solution |
+|---------|---------------|----------|
+| Weak or no staining | Staining time too short | Increase staining duration to 30-60 minutes |
+| | Old DASPEI stock | Make fresh stock solution |
+| | Damaged/absent neuromasts | Verify fish health and age; neuromast number varies by developmental stage |
+| High background fluorescence | Staining time too long | Reduce to 15-30 minutes |
+| | Insufficient rinsing | Extend rinse period to 60 minutes or do multiple rinses |
+| | Imaging too soon after staining | Allow longer rinse time for background to clear |
+| Fish stress/mortality | Staining solution too concentrated | Verify concentration is 0.005% |
+| | Inadequate oxygenation | Add gentle aeration or use fresh solution |
+| | Prolonged staining | Do not exceed 75 minutes |
+| Inconsistent staining | Variable staining times | Use timer and stagger fish carefully |
+| | Temperature fluctuations | Maintain consistent temperature during staining |
+| Rapid fluorescence loss | Excessive light exposure | Keep fish in dark; minimize excitation light |
+| | Photobleaching during imaging | Reduce excitation intensity or exposure time |
+| No visible neuromasts | Wrong developmental stage | Check that fish have developed lateral line (varies by species/age) |
+| | Wrong filter set | Verify using yellow-green/orange emission filters |
+
+## Notes on Neuromast Biology
+
+::: {.callout-note title="Understanding Neuromast Distribution"}
+-   **Stickleback**: Lateral line neuromasts appear along body flanks, head, and around eyes
+-   **Pipefish**: Neuromasts distributed along elongated body, density varies by species and age
+-   **Development**: Neuromast number and position change during development
+-   **Function**: Neuromasts detect water movement, pressure changes, and vibrations
+-   **Research applications**: Useful for studying sensory system development, damage, and regeneration
+:::
+
+## Associated Papers
+
+-   Harris, J. A., Cheng, A. G., Cunningham, L. L., MacDonald, G., Raible, D. W., & Rubel, E. W. (2003). Neomycin-induced hair cell death and rapid regeneration in the lateral line of zebrafish (Danio rerio). *Journal of the Association for Research in Otolaryngology*, 4(2), 219-234. doi:10.1007/s10162-002-3022-x
+-   Raible, D. W., & Kruse, G. J. (2000). Organization of the lateral line system in embryonic zebrafish. *Journal of Comparative Neurology*, 421(2), 189-198.
+-   xxx (add lab-specific publications)

@@ -2,57 +2,75 @@
 
 ## Introduction
 
--   **Purpose**: This procedure describes how to use bleach and sodium thisosulfate to clean plastics and glassware in the Pacific fish facility.
+-   **Purpose**: This procedure describes how to use bleach and sodium thiosulfate to clean plastics and glassware in the Pacific fish facility.
 -   **Procedure Type**: Husbandry
 -   **Species**:
     -   Threespine stickleback, (*Gasterosteus aculeatus*)
     -   Gulf pipefish (*Syngnathus scovelli*)
 -   **Author**: Mark Currey
 -   **Date Created**: April 10, 2008; updated April 4, 2012 by M. Currey
+-   **IACUC Protocol**: Covered under facility maintenance procedures
+
+::: {.callout-caution title="Chemical Hygiene"}
+When using bleach and/or sodium thiosulfate, eye protection is required. Please use splash proof glasses or a face shield and gloves when using bleach and sodium thiosulfate.
+:::
+
+::: {.callout-warning title="Notes"}
+These solutions need to be changed once a week (see below for directions).
+:::
 
 ## Materials
 
--   Gloves
--   Eye protection
+-   Gloves (nitrile or latex)
+-   Eye protection (splash proof glasses or face shield)
 -   Apron
--   Gloves
--   Old clothes (I have ruined many shirts doing this)
+-   Old clothes (bleach can ruin clothing)
+-   2-gallon buckets (2)
+-   Scrub pads if needed
 
 ## Solutions
 
 -   **Bleach solution**: Make a 10% bleach solution in a 2 gallon bucket. Add 4.5 L of water. Add 0.5 L of bleach and gently stir.
 -   **Sodium thiosulfate**: Make a 5% solution of sodium thiosulfate in a separate 2 gallon bucket. Add 5 L of water (to line) and 250 g (marked on dispenser) of sodium thiosulfate. Mix aggressively.
 
-::: {.callout-caution title="Chemical Hygiene"}
-When using bleach and/or sodium thiosulfate. Eye protection is required. Please use splash proof glasses or a face shield when using bleach and sodium thiosulfate.
-:::
-
-::: {.callout-warning title="NOTES"}
-These solutions need to be changed once a week. (see below for directions)
-:::
-
 ## Procedure
 
--   **Cleaning of Dishes**: (Do the steps below in the order displayed)
+### Cleaning of Dishes
 
-    1.  Put away all clean dishes that are on drying shelve.
-    2.  Transfer sodium thiosulfate soaked dishes into sink and rinse well. After they have been rinsed place the dishes on drying racks to dry.
-    3.  Transfer bleach soaked dishes into sodium thiosulfate solution and let soak overnight.
-    4.  Rinse dirty (dishes) glass and plastic ware, **NO NETS**, in the sink.
-    5.  Place rinsed dishes into bleach and let soak overnight.
+Do the steps below in the order displayed:
 
--   **Changing solutions**:
+1.  **Put away clean dishes**: Put away all clean dishes that are on drying shelve.
 
-    1.  Wear gloves and protective eyewear.
-    2.  Empty bleach/sodium thiosulfate containers of all dishes.
-    3.  Empty used solutions into sink.
-    4.  Rinse container with water and allow to drain.
-    5.  Fill with water and the proper amount of bleach/sodium thiosulfate to make the concentrations as stated above. (The directions for this with amounts of water and chemical should be written on container)
-    6.  Initial Check list
+2.  **Rinse sodium thiosulfate soaked dishes**: Transfer sodium thiosulfate soaked dishes into sink and rinse well. After they have been rinsed place the dishes on drying racks to dry.
+
+3.  **Transfer bleach soaked dishes**: Transfer bleach soaked dishes into sodium thiosulfate solution and let soak overnight.
+
+4.  **Rinse dirty dishes**: Rinse dirty (dishes) glass and plastic ware in the sink. **NO NETS** - nets should be autoclaved, see @sec-husbandry-autoclaving.
+
+5.  **Soak in bleach**: Place rinsed dishes into bleach and let soak overnight.
+
+### Changing Solutions
+
+Solutions should be changed once per week:
+
+1.  Wear gloves and protective eyewear.
+
+2.  Empty bleach/sodium thiosulfate containers of all dishes.
+
+3.  Empty used solutions into sink.
+
+4.  Rinse container with water and allow to drain.
+
+5.  Fill with water and the proper amount of bleach/sodium thiosulfate to make the concentrations as stated above. (The directions for this with amounts of water and chemical should be written on container)
+
+6.  Initial checklist upon completion.
+
+## Related Protocols
+
+-   See @sec-husbandry-autoclaving for autoclave use (for nets)
+-   See @sec-husbandry-dishwasher for dishwasher use
+-   See @sec-husbandry-20gal_tank_cleaning for tank cleaning procedures
 
 ## Associated Papers
 
--   xxx
--   xxx
--   xxx
--   xxx
+-   None

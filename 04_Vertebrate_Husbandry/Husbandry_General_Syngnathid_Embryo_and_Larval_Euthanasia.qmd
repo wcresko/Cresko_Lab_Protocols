@@ -19,14 +19,12 @@
 
 ## Solutions
 
-::: {.callout-warning title="NOTES"}
-```         
-    Tricaine must be pharmaceutical-grade. We use tricaine purchased from Pentair, manufactured by Western Chemical and FDA approved. Tricaine (3-amino benzoic acid ethyl lester also called ethyl m-aminoboenzoate) comes in a powdered form. Purchase the smallest amount possible because tricaine expires quickly
-```
+::: {.callout-note title="Note"}
+Tricaine must be pharmaceutical-grade. We use tricaine purchased from Pentair, manufactured by Western Chemical and FDA approved. Tricaine (3-amino benzoic acid ethyl lester also called ethyl m-aminoboenzoate) comes in a powdered form. Purchase the smallest amount possible because tricaine expires quickly.
 :::
 
-::: {.callout-caution title="This is a callout CAUTON"}
-When handling Mesab please wear gloves and wash your hand after use.
+::: {.callout-caution title="Safety"}
+When handling Mesab please wear gloves and wash your hands after use.
 :::
 
 -   **Mesab Stock Solution (4g/L, From Zebrafish Book 4th edition) (tris buffered)**:
@@ -52,10 +50,8 @@ When handling Mesab please wear gloves and wash your hand after use.
     3.  If fish is to be used for experiments, proceed with fixation or preparation for the experiment.
     4.  If the fish are to be disposed of, place embryo in 95% ETOH for 5 minutes and then into morgue for disposal.
 
-::: {.callout-warning title="NOTES"}
-```         
+::: {.callout-note title="Note"}
 This step is necessary as a startle response is not obvious in unhatched fish.
-```
 :::
 
 2.  Procedure for larval euthanasia:
@@ -63,9 +59,12 @@ This step is necessary as a startle response is not obvious in unhatched fish.
     1.  Place larva into a MS-222 euthanasia solution.
     2.  Wait 10 minutes and perform a tap test to look for a startle response. If there is a response wait 5 minutes and repeat startle response test. Repeat this step every 5 minutes as needed. If there is no response move to fixing for post mortem experiments or place in morgue.
 
-## Associated Papers
+::: {.callout-note title="IACUC Protocol"}
+This procedure is covered under the University of Oregon IACUC protocol for fish euthanasia. Euthanasia must be performed using approved methods and only by trained personnel. Always follow approved protocols for animal welfare.
+:::
 
--   xxx
--   xxx
--   xxx
--   xxx
+## Related Protocols
+
+-   @sec-husbandry_adult_syng_euth - Adult pipefish euthanasia
+-   @sec-general_recipe_mesab - Mesab stock solution recipe
+-   @sec-husbandry_syng_cross - Pipefish crossing and breeding

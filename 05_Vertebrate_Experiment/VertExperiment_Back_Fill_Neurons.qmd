@@ -1,0 +1,304 @@
+# Hindbrain Neuron Backfill Labeling {#sec-vert_exp-hindbrain_backfill}
+
+## Introduction
+
+-   **Purpose**: This procedure describes how to perform retrograde backfill labeling of hindbrain neurons using lipophilic dyes, allowing visualization of neural projections and cell body locations
+-   **Procedure Type**: Vertebrate Experimental
+-   **Species**:
+    -   Threespine stickleback (*Gasterosteus aculeatus*)
+    -   Bay pipefish (*Syngnathus leptorhyncus*)
+    -   Gulf pipefish (*Syngnathus scovelli*)
+-   **Author**: Susie Bassham
+-   **Date Created**: January 01, 2020, updated November 22, 2025
+-   **IACUC Protocol**: Required for live animal procedures and surgical interventions
+
+::: {.callout-important title="Safety and Handling"}
+-   Wear appropriate PPE (lab coat, gloves, safety glasses)
+-   Work in sterile conditions to prevent infection post-surgery
+-   Handle sharp instruments (obsidian flakes, scalpels) with extreme care
+-   Lipophilic dyes may be toxic - handle according to MSDS
+-   Dispose of all materials according to biohazard and chemical waste protocols
+:::
+
+::: {.callout-warning title="IACUC Compliance"}
+This procedure involves surgical intervention on live fish. Ensure:
+
+-   Current IACUC protocol approval is in place
+-   All personnel are trained in microsurgical techniques
+-   Proper anesthesia and analgesia protocols are followed
+-   Post-operative monitoring is documented
+-   Endpoints are clearly defined and followed
+:::
+
+## Background
+
+Retrograde backfill labeling uses lipophilic dyes that are taken up by severed axons and transported retrogradely to the cell bodies of neurons. This technique allows researchers to identify the location and morphology of neurons that project to specific regions of the nervous system. Common applications include:
+
+-   Mapping hindbrain motor neuron populations
+-   Identifying sensory neuron projections
+-   Studying neural circuit organization during development
+-   Comparing neural architecture across species
+
+The procedure involves making a precise transection of the spinal cord and applying lipophilic dyes (such as rhodamine dextran or DiO) to the cut surface. The dye crystals are taken up by the severed axons and transported back to the cell bodies over several hours, where they can be visualized by fluorescence microscopy.
+
+## Materials
+
+### Surgical Equipment
+-   Stereomicroscope with good working distance
+-   Fine tungsten needles or insect pins (size 000 or smaller)
+-   Obsidian glass flakes (extremely sharp cutting edge)
+-   Fine scalpel (size 11 blade) or microsurgical scissors
+-   Fine forceps (Dumont #5 or finer)
+-   Petri dishes (35mm or 60mm)
+-   Sterile transfer pipettes
+-   Dissection platform (agar-coated dish or similar)
+
+### Dyes and Reagents
+-   Rhodamine dextran (tetramethylrhodamine dextran, 3,000 MW or 10,000 MW)
+-   DiO lipophilic carbocyanine dye (DiOC18(3))
+-   DiI lipophilic carbocyanine dye (optional alternative)
+-   Cell culture grade antibiotic/antimycotic solution (Gibco-BRL cat# 15240-096, 100x concentration)
+
+## Solutions
+
+### Base Media/Water
+
+::: {.panel-tabset}
+
+#### Stickleback
+
+-   Stickleback embryo medium (see @sec-recipe-embryo_medium)
+-   Sterile filtered and supplemented with antibiotic/antimycotic (1x final concentration)
+
+#### Pipefish/Syngnathid
+
+-   Sterile filtered seawater (25-30 ppt)
+-   Supplemented with antibiotic/antimycotic (1x final concentration)
+
+:::
+
+### Anesthesia Solutions
+
+::: {.panel-tabset}
+
+#### Stickleback
+
+-   MS-222 anesthesia solution (see @sec-husbandry_anesth_stickleback)
+-   MS-222 euthanasia solution (see @sec-husbandry_euthanasia_stickleback)
+-   Working concentration: 168 mg/L for anesthesia
+
+#### Pipefish/Syngnathid
+
+-   MS-222 anesthesia solution (see @sec-husbandry_anesth_pipefish)
+-   MS-222 euthanasia solution (see @sec-husbandry-pipefish_larval_euth)
+-   Working concentration: 168 mg/L for anesthesia
+
+:::
+
+### Dye Preparation
+
+**Rhodamine Dextran Stock**
+
+-   Dissolve 10 mg rhodamine dextran in 100 µl sterile water
+-   Store in small aliquots at -20°C
+-   Thaw only once - discard after use
+
+**DiO Working Solution**
+
+-   DiO comes as crystals or oil
+-   Can be used directly as dried crystals or dissolved in DMSO (10 mg/ml)
+-   Store protected from light at -20°C
+
+## Procedure
+
+### Pre-operative Preparation
+
+::: {.callout-tip title="Timing Considerations"}
+-   Plan surgery during morning hours to allow maximum recovery time during work hours
+-   Backfill period is 5-16 hours, so timing affects when you euthanize/fix
+-   Consider starting in afternoon if you plan to fix the next morning
+:::
+
+1.  **Prepare workspace**
+
+    -   Set up stereomicroscope with adequate lighting
+    -   Prepare all instruments and materials before beginning
+    -   Have sterile medium + antibiotic ready in labeled petri dishes
+    -   Prepare fresh anesthesia solution
+
+2.  **Prepare animals**
+
+    -   Select healthy larvae or juveniles (typically 5-20 days post-fertilization)
+    -   Transfer 5-10 fish to holding container with antibiotic-supplemented medium
+    -   Allow to acclimate for 30 minutes
+    -   Label all containers with fish ID, procedure, date, and time
+
+### Surgical Procedure
+
+3.  **Anesthetize larvae**
+
+    -   Transfer fish to MS-222 anesthesia solution
+    -   Wait until opercular movements slow significantly (1-3 minutes)
+    -   Fish should not respond to gentle touch with pipette
+    -   Do not over-anesthetize - maintain light anesthesia plane
+
+::: {.callout-warning title="Anesthesia Monitoring"}
+Monitor opercular (gill cover) movements throughout the procedure. If movements stop completely, immediately transfer fish to fresh medium. The fish should be sedated but still maintaining respiratory movements.
+:::
+
+4.  **Position larvae for surgery**
+
+    -   Transfer anesthetized larva to dissection platform
+    -   Can use agar-coated dish (1-2% agar) or petri dish with minimal liquid
+    -   Position larva lateral side up or dorsal side up (depending on approach)
+    -   Use fine forceps or pipette to adjust position
+
+5.  **Make spinal cord transection**
+
+    -   Using obsidian glass flake or extremely sharp scalpel, make a clean dorsal-to-ventral incision
+    -   Cut location: typically just caudal to the hindbrain (at rostral trunk region)
+    -   Extend incision ventrally to completely sever the spinal cord
+    -   Goal: clean transection without excessive tissue damage
+    -   Minimize bleeding by working quickly and precisely
+
+::: {.callout-tip title="Transection Technique"}
+-   Obsidian flakes are sharper than steel and create cleaner cuts with less tissue damage
+-   Make a single decisive cut rather than multiple small cuts
+-   The spinal cord is small - ensure you cut deep enough to sever it completely
+-   Practice on euthanized larvae first to develop technique
+:::
+
+6.  **Apply dye crystals**
+
+    -   Use a fine insect pin or tungsten needle to pick up small dye crystals
+    -   For rhodamine dextran: use dried crystals from stock solution
+    -   For DiO: use small amount of crystal or concentrated solution
+    -   Apply dye directly to the cut surface of the spinal cord
+    -   Use minimal amount - a few crystals are sufficient
+
+::: {.callout-warning title="Dye Application Tips"}
+-   Too much dye can cause excessive background fluorescence
+-   Focus dye application on the cut spinal cord surface, not surrounding tissue
+-   Work quickly to minimize anesthesia time (total surgical time: 2-5 minutes per fish)
+:::
+
+### Post-operative Care
+
+7.  **Transfer to recovery medium**
+
+    -   Immediately transfer operated larvae to sterile medium + antibiotic
+    -   Ensure fish is fully submerged with adequate oxygenation
+    -   Place in dark or low-light conditions
+    -   Maintain at appropriate temperature (16-20°C for stickleback, 18-22°C for pipefish)
+
+8.  **Maintain continuous anesthesia** (Optional but recommended)
+
+    -   Keep fish in very low concentration of MS-222 (10-20% of anesthesia concentration)
+    -   OR: refresh with anesthesia solution periodically to keep fish calm
+    -   This minimizes stress and movement that could disrupt dye uptake
+    -   Alternative: use only antibiotic-supplemented medium without anesthesia
+
+9.  **Monitor during backfill period**
+
+    -   Check fish every 1-2 hours
+    -   Look for normal opercular movements and posture
+    -   Remove any fish showing signs of distress or mortality
+    -   Backfill period: **5 to 16 hours** (typically overnight)
+
+::: {.callout-tip title="Backfill Duration"}
+-   **5-8 hours**: Minimal backfill, good for proximal neurons
+-   **8-12 hours**: Optimal for most hindbrain neurons
+-   **12-16 hours**: Maximum backfill, best labeling but higher risk of stress
+:::
+
+### Fixation and Imaging
+
+10. **Euthanize and fix**
+
+    -   After backfill period, euthanize larvae using MS-222 euthanasia solution
+    -   Transfer to fixative immediately (4% PFA in PBS is standard)
+    -   Fix for 2-4 hours at room temperature or overnight at 4°C
+    -   Wash 3x in PBS before imaging
+
+11. **Image labeled neurons**
+
+    -   Mount in glycerol or other clearing agent
+    -   Image on fluorescence microscope or confocal microscope
+    -   Rhodamine: Excitation ~550nm, Emission ~570nm (red)
+    -   DiO: Excitation ~484nm, Emission ~501nm (green)
+    -   Can be stored in PBS + 0.05% sodium azide at 4°C for weeks
+
+::: {.callout-tip title="Imaging Notes"}
+-   Use confocal microscopy for best resolution of individual neurons
+-   Z-stack through entire hindbrain region to capture all labeled cells
+-   DiO and rhodamine can be used together for double-labeling experiments
+-   Background fluorescence typically decreases after washing
+:::
+
+## Troubleshooting
+
+| Problem | Possible Cause | Solution |
+|---------|---------------|----------|
+| No labeled neurons | Incomplete spinal cord transection | Ensure cut severs cord completely; verify under microscope |
+| | Dye not applied to cut surface | Apply dye directly to exposed spinal cord tissue |
+| | Insufficient backfill time | Extend backfill period to 12-16 hours |
+| | Dye degraded or old | Use fresh dye stocks |
+| High mortality during surgery | Over-anesthetization | Reduce anesthesia concentration or time |
+| | Excessive tissue damage | Use sharper instruments; practice technique |
+| | Infection | Ensure sterile conditions; verify antibiotic concentration |
+| Post-operative mortality | Inadequate oxygenation | Provide gentle aeration or larger volume |
+| | Temperature stress | Maintain appropriate species-specific temperature |
+| | Surgical stress | Minimize surgery time; use lighter anesthesia |
+| High background fluorescence | Too much dye applied | Use smaller amount of dye crystals |
+| | Short wash period | Extend PBS washing after fixation |
+| Weak or spotty labeling | Dye washed away during surgery | Apply dye to dry or barely moist tissue |
+| | Dye not taken up by axons | Ensure fresh transection; apply dye immediately |
+| | Fixation too soon | Allow longer backfill period before fixation |
+| Tissue autofluorescence | Common in some tissues | Use appropriate filter sets; image unfilled control |
+| | Pigmentation interference | May need to bleach pigment post-fixation |
+
+## Species-Specific Considerations
+
+::: {.panel-tabset}
+
+### Stickleback
+
+**Advantages:**
+-   Well-established developmental staging
+-   Transparent larvae ideal for imaging
+-   Robust to surgical manipulation
+
+**Considerations:**
+-   Armor plates in adults complicate surgery (use larvae/juveniles)
+-   Optimal age: 7-15 days post-fertilization
+-   Temperature: 16-20°C
+
+### Pipefish/Syngnathid
+
+**Advantages:**
+-   Elongated body makes spinal cord more accessible
+-   Unique neural organization interesting for comparative studies
+
+**Considerations:**
+-   More delicate than stickleback - use extra care
+-   May require higher concentration of antibiotic
+-   Optimal age: 10-20 days post-fertilization
+-   Temperature: 18-22°C
+-   Salinity: Use full-strength seawater (25-30 ppt)
+
+:::
+
+## Quality Control
+
+-   Run positive controls (known working dye batches) with each experiment
+-   Document surgery time and anesthesia depth for each fish
+-   Image at least 5 successfully labeled specimens per condition
+-   Include negative controls (no dye application) for background assessment
+-   Photograph larvae before and after surgery to document condition
+
+## Associated Papers
+
+-   Metcalfe, W. K., Mendelson, B., & Kimmel, C. B. (1986). Segmental homologies among reticulospinal neurons in the hindbrain of the zebrafish larva. *Journal of Comparative Neurology*, 251(2), 147-159.
+-   Higashijima, S., Hotta, Y., & Okamoto, H. (2000). Visualization of cranial motor neurons in live transgenic zebrafish expressing green fluorescent protein under the control of the islet-1 promoter/enhancer. *Journal of Neuroscience*, 20(1), 206-218.
+-   McLean, D. L., & Fetcho, J. R. (2004). Ontogeny and innervation patterns of dopaminergic, noradrenergic, and serotonergic neurons in larval zebrafish. *Journal of Comparative Neurology*, 480(1), 38-56.
+-   xxx (add lab-specific publications)

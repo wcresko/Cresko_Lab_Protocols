@@ -6,19 +6,53 @@
 -   **Procedure Type**: Molecular
 -   **Species**: N/A
 
-## Materials:
+::: {.callout-warning title="Safety"}
+**Personal Protective Equipment (PPE):**
 
--   xxx
+- Lab coat
+- Safety glasses or face shield
+- Chemical-resistant gloves (nitrile)
+- Work in a fume hood (REQUIRED)
 
-Total = 40 ml of buffer
+**Chemical Safety:**
 
-## Solutions:
+- **EXTREMELY IMPORTANT**: Paraformaldehyde is toxic, potentially carcinogenic, and produces irritating fumes
+- ALWAYS prepare paraformaldehyde solutions in a fume hood
+- Avoid inhalation, skin contact, and eye contact
+- NaOH is caustic; handle with extreme care
+- HCl is corrosive; use appropriate precautions
+- Never heat above 60°C; overheating can degrade the solution
+
+**Disposal:**
+
+- Dispose of paraformaldehyde waste according to institutional chemical waste protocols
+- Do not pour down the drain
+:::
+
+## Materials
+
+-   Paraformaldehyde powder
+-   Distilled water
+-   10 N NaOH
+-   20% HCl
+-   pH meter
+-   Stir plate with magnetic stir bar
+-   Hot plate or heating block
+-   Thermometer
+-   0.45 µm or 0.2 µm filter
+-   Fume hood (REQUIRED)
+
+## Solutions
 
 NONE
 
-## Procedure:
+## Related Protocols
 
-::: {.callout-warning title="HUMAN HEALTH WARNGING"}
+- Used in @sec-molecular_alizarin for alizarin staining
+
+## Procedure
+
+::: {.callout-danger title="Human Health Warning"}
 Paraformaldehyde can be hazardous to your health - make sure you prepare in the fume hood.
 :::
 
@@ -32,8 +66,8 @@ Paraformaldehyde can be hazardous to your health - make sure you prepare in the 
 
 -   Eventually, granules will fully dissolve and the solution will become translucent.
 
-::: {.callout-note title="DO NOT LET THE SOLUTION STIR BEYOND THIS POINT"}
-It will form a fuzzy precipitate that reduces the solution strength after filtering.
+::: {.callout-important title="Important"}
+**DO NOT LET THE SOLUTION STIR BEYOND THIS POINT** - It will form a fuzzy precipitate that reduces the solution strength after filtering.
 :::
 
 -   Once the granules have dissolved and the solution clears, turn off the heat and equilibrate to pH 7.4 with approx 1.5 ml of 20% HCl (or scale, depending on target volume).
